@@ -20,4 +20,14 @@
 
 [𝕸ain](https://github.com/URAHARA-KI)ㅤ[𝕾trawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 
+</br>
+
+◆
+
+</br>
+
+<div align="center">
+
+[𝕬rt credits](https://x.com/desirednull)
+
 
