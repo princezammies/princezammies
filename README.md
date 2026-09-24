@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/dc7d73012f9e85343218c9db0f8d1f78.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/dc7d73012f9e85343218c9db0f8d1f78.png">
 
 <div align="center">
 
