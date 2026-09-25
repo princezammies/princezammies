@@ -30,4 +30,20 @@
 
 [𝕬rt credits](https://x.com/desirednull)
 
+</br>
+
+ <div align="center">
+<details>
+  <summary>$$\color{#C6A575}\text{some doodles that i made at my school}$$</summary>
+  <br>
+
+<div align="center">
+
+<img src="center" width="200" src="https://img.sanishtech.com/u/2b1d584a22b95e10343cb81f7ab66f39.jpg">
+
+</details>
+</div>
+
+</p>
+
 
