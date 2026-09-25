@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/2b1d584a22b95e10343cb81f7ab66f39.jpg" width="90%" align="center"> </details>
+<img src="https://img.sanishtech.com/u/cc1e0ccfbefe5a40107b40df41f3b5f2.jpg" width="90%" align="center"> </details>
 
 </details>
 </div>
