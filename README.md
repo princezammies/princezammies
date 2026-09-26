@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=C6A575&style=flat-square&label=🦭+&base=767676)
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
 
 </br>
 
