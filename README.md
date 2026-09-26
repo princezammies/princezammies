@@ -2,15 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=C6A575&style=flat-square&label=🦭+&base=767676)
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/c0644fe2f454a99af4ecec0e50cf0925.png">
+<img align="center" width="100" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/dc7d73012f9e85343218c9db0f8d1f78.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/55a9b47da0398f849eb7d1ccfaa4f1e4.png">
 
 <div align="center">
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/318af40ea744f07199ee33cbf640fa77.png">
+<img align="center" width="100" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
 
 </br>
 
