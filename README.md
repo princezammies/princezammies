@@ -1,6 +1,10 @@
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/3104254a1dc750efc25ff644957cd3a4.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/3104254a1dc750efc25ff644957cd3a4.png">
+
+</br>
+
+</br>
 
 <div align="center">
 
@@ -36,7 +40,7 @@
 
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/5275f5b8ef52660bedd497ce460d4638.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/5275f5b8ef52660bedd497ce460d4638.png">
 
 </br>
 
