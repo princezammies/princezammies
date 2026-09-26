@@ -30,7 +30,9 @@
 
 </br>
 
-◆
+<div align="center">
+
+<img align="center" width="90" src="https://img.sanishtech.com/u/831ab41372af066dcdf366ab0fa5553b.png">
 
 </br>
 
