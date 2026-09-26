@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/55a9b47da0398f849eb7d1ccfaa4f1e4.png">
+<img align="center" width="100" src="https://img.sanishtech.com/u/55a9b47da0398f849eb7d1ccfaa4f1e4.png">
 
 <div align="center">
 
