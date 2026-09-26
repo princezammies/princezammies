@@ -1,5 +1,9 @@
 <div align="center">
 
+<img align="center" width="200" src="https://img.sanishtech.com/u/3104254a1dc750efc25ff644957cd3a4.png">
+
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=C6A575&style=flat-square&label=🦭+&base=767676)
 
 <img align="center" width="100" src="https://img.sanishtech.com/u/cf9c40ddd98364bebbe71614aeca0178.png">
@@ -29,6 +33,10 @@
 <div align="center">
 
 [𝕬rt credits](https://x.com/desirednull)
+
+<div align="center">
+
+<img align="center" width="200" src="https://img.sanishtech.com/u/5275f5b8ef52660bedd497ce460d4638.png">
 
 </br>
 
