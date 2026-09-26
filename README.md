@@ -40,7 +40,7 @@
 
 <div align="center">
 
-heavy cuda comfy
+ʜᴇᴀᴠʏ ᴄᴜᴅs ᴄᴏᴍғʏ
 
 <div align="center">
 
