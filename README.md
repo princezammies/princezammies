@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[𝕬rt credits](https://x.com/desirednull)
+heavy cuda comfy
 
 <div align="center">
 
