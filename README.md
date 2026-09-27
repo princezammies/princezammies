@@ -20,11 +20,9 @@
 
 [𝕸ain](https://github.com/URAHARA-KI)ㅤ[𝕾trawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 
-</br>
-
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/186615cece8e2b71f81b52b96b5a9f56.png">
+<img align="center" width="50" src="https://img.sanishtech.com/u/186615cece8e2b71f81b52b96b5a9f56.png">
 
 </br>
 
