@@ -26,6 +26,8 @@
 
 </br>
 
+</br>
+
  <div align="center">
 <details>
   <summary>$$\color{#C6A575}\text{some doodles that i made at my school}$$</summary>
