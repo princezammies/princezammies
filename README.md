@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/togesaku)
+[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/debunktrioss)
 
 <div align="center">
 
