@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/858f07e27bb02b80ec2bd7047bc572be.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/858f07e27bb02b80ec2bd7047bc572be.png">
 
 </br>
 
