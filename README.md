@@ -48,9 +48,11 @@ $\color{#70B176}\text{"till}$ $\color{#A071C7}\text{the last}$ $\color{#D0D16C}\
 
 </p>
 
+</br>
+
 <div align="center"
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/84898f3c261bd73111490f503e871e65.jpg">
+<img align="center" width="90" src="https://img.sanishtech.com/u/43a0cec0db35c0989b1a18618c5384fa.jpg">
 
 </br>
 
