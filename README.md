@@ -10,6 +10,12 @@
 
 <div align="center">
 
+$\color{#A071C7}\text{"you}$ $\color{#70B176}\text{look so}$ $\color{#D0D16C}\text{out of}$ $\color{#A071C7}\text{it."}$
+
+$\color{#70B176}\text{"till}$ $\color{#A071C7}\text{the last}$ $\color{#D0D16C}\text{thing that will}$ $\color{#A071C7}\text{never happened."}$
+
+<div align="center">
+
 <img align="center" width="300" src="https://img.sanishtech.com/u/858f07e27bb02b80ec2bd7047bc572be.png">
 
 </br>
