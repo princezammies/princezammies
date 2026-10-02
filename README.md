@@ -16,6 +16,8 @@
 
 <img align="center" width="90" src="https://img.sanishtech.com/u/9c2cb689edc9f714277ab1a538f22df6.png">
 
+</br>
+
 <div align="center">
 
 ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don't \space worry \space oke \space ? \space and \space multiships}$ ${\color{#965A51} basic \space dnis}$
