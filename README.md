@@ -16,6 +16,10 @@
 
 <img align="center" width="90" src="https://img.sanishtech.com/u/9c2cb689edc9f714277ab1a538f22df6.png">
 
+<div align="center">
+
+${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don't \space worry \space oke \space ? \space and \space multiships}$ ${\color{#965A51} basic \space dnis}$
+
 </br>
 
 </br>
@@ -39,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/cc1e0ccfbefe5a40107b40df41f3b5f2.jpg" width="90%" align="center"> </details>
+<img src="https://img.sanishtech.com/u/93866aa43f8745d0467db0add5003c70.jpg" width="90%" align="center"> </details>
 
 </details>
 </div>
