@@ -10,11 +10,7 @@
 
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/a2e16a06a63279c8b8a529afecfd5ae8.png">
-
-<img align="center" width="300" src="https://img.sanishtech.com/u/4bc003f225273817a65f9610223f86a2.png">
-
-<img align="center" width="90" src="https://img.sanishtech.com/u/9c2cb689edc9f714277ab1a538f22df6.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/07b7acd20cb62ff568ae6e55c916f37d.jpg">
 
 </br>
 
@@ -30,7 +26,7 @@ ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don'
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/4b6ec4e44c79344788a344a874d63ece.png">
+<img align="center" width="50" src="https://img.sanishtech.com/u/d05b1a41312348a4dbfca0581bacfa19.png">
 
 </br>
 
