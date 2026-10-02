@@ -10,13 +10,7 @@
 
 <div align="center">
 
-$\color{#A071C7}\text{"you}$ $\color{#70B176}\text{look so}$ $\color{#D0D16C}\text{out of}$ $\color{#A071C7}\text{it."}$
-
-$\color{#70B176}\text{"till}$ $\color{#A071C7}\text{the last}$ $\color{#D0D16C}\text{thing that will}$ $\color{#A071C7}\text{never happened."}$
-
-<div align="center">
-
-<img align="center" width="300" src="https://img.sanishtech.com/u/858f07e27bb02b80ec2bd7047bc572be.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/4bc003f225273817a65f9610223f86a2.png">
 
 </br>
 
@@ -28,7 +22,7 @@ $\color{#70B176}\text{"till}$ $\color{#A071C7}\text{the last}$ $\color{#D0D16C}\
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/c09e0c552d1dec84bf903606f67d1492.png">
+<img align="center" width="50" src="https://img.sanishtech.com/u/4b6ec4e44c79344788a344a874d63ece.png">
 
 </br>
 
