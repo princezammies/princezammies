@@ -22,8 +22,6 @@ ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don'
 
 </br>
 
-</br>
-
 <div align="center">
 
 [main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/debunktrioss)
