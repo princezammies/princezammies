@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=C6A575&style=flat-square&label=🦭+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=995F91&style=flat-square&label=🦭+&base=767676)
 
 <div align="center">
 
@@ -26,7 +26,7 @@ ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don'
 
 <div align="center">
 
-[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/debunktrioss)
+[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/umbreakerss)
 
 <div align="center">
 
