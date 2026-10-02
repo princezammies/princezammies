@@ -12,8 +12,6 @@
 
 <img align="center" width="90" src="https://img.sanishtech.com/u/a2e16a06a63279c8b8a529afecfd5ae8.png">
 
-<div align="center">
-
 <img align="center" width="300" src="https://img.sanishtech.com/u/4bc003f225273817a65f9610223f86a2.png">
 
 <img align="center" width="90" src="https://img.sanishtech.com/u/9c2cb689edc9f714277ab1a538f22df6.png">
