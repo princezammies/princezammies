@@ -10,7 +10,9 @@
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/07b7acd20cb62ff568ae6e55c916f37d.jpg">
+<img align="center" width="300" src="https://img.sanishtech.com/u/49c41813d01cb642b578829713a8b039.png">
+
+</br>
 
 </br>
 
@@ -26,7 +28,7 @@ ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don'
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/d05b1a41312348a4dbfca0581bacfa19.png">
+<img align="center" width="50" src="https://img.sanishtech.com/u/50a2bb70935b5739533dda87fca78415.png">
 
 </br>
 
