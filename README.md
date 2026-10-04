@@ -30,15 +30,15 @@ $${\color{#558A66}jess}$$ $${\color{#276658}dawn}$$ $${\color{#B0A271}or}$$ ㅤ 
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/d7cc06845fe059a306434d07431e06f5.png">
+<img align="center" width="30" src="https://img.sanishtech.com/u/d7cc06845fe059a306434d07431e06f5.png">
+
+</br>
 
 </br>
 
 $${\color{#558A66}multifandoms}$$ $${\color{#276658}multiships}$$ $${\color{#B0A271}basic dnis}$$ ㅤ $${\color{#276658},}$$ $${\color{#276658}w2i always}$$ </br>
 
 $${\color{#558A66}used}$$ $${\color{#276658}to}$$ $${\color{#B0A271}be}$$ ㅤ $${\color{#276658}@URAHARA-KI}$$ $${\color{#276658}.}$$ </br>
-
-</br>
 
 </br>
 
