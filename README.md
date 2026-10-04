@@ -28,7 +28,7 @@ ${\color{#995F91} I'm \space a \space multi \space fandoms \space so \space don'
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/50a2bb70935b5739533dda87fca78415.png">
+<img align="center" width="50" src="https://img.sanishtech.com/u/d7cc06845fe059a306434d07431e06f5.png">
 
 </br>
 
