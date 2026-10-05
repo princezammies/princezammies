@@ -26,7 +26,7 @@ $${\color{#DBC665}jess}$$ $${\color{#C35A37}dawn}$$ $${\color{#DBC665}or}$$ ㅤ 
 
 <div align="center">
 
-[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://kindatired.atabook.org/)
+[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[atabook](https://kindatired.atabook.org/)
 
 <div align="center">
 
