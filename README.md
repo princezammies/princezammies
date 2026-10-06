@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=DBC665&style=flat-square&label=🦭+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=76A8C3&style=flat-square&label=🦭+&base=767676)
 
 <div align="center">
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-$${\color{#C35A37}the}$$ $${\color{#DBC665}last}$$ $${\color{#C35A37}dance}$$ ㅤ $${\color{#DBC665}for}$$ $${\color{#C35A37}us.}$$ </br>
+$${\color{#76A8C3}the}$$ $${\color{#CED3B2}last}$$ $${\color{#76A8C3}dance}$$ ㅤ $${\color{#CED3B2}for}$$ $${\color{#76A8C3}us.}$$ </br>
 
-$${\color{#DBC665}jess}$$ $${\color{#C35A37}dawn}$$ $${\color{#DBC665}or}$$ ㅤ $${\color{#C35A37}zams}$$ $${\color{#DBC665}he/they}$$ </br>
+$${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ $${\color{#76A8C3}zams}$$ $${\color{#CED3B2}he/they}$$ </br>
 
 </br>
 
@@ -36,15 +36,15 @@ $${\color{#DBC665}jess}$$ $${\color{#C35A37}dawn}$$ $${\color{#DBC665}or}$$ ㅤ 
 
 </br>
 
-$${\color{#C35A37}multifandoms}$$ $${\color{#DBC665}multiships}$$ $${\color{#C35A37}basic dnis}$$ ㅤ $${\color{#DBC665},}$$ $${\color{#C35A37}w2i always}$$ </br>
+$${\color{#76A8C3}multifandoms}$$ $${\color{#CED3B2}multiships}$$ $${\color{#76A8C3}basic dnis}$$ ㅤ $${\color{#CED3B2},}$$ $${\color{#76A8C3}w2i always}$$ </br>
 
-$${\color{#DBC665}used}$$ $${\color{#C35A37}to}$$ $${\color{#DBC665}be}$$ ㅤ $${\color{#C35A37}@URAHARA-KI}$$ $${\color{#DBC665}.}$$ </br>
+$${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $${\color{#76A8C3}@URAHARA-KI}$$ $${\color{#CED3B2}.}$$ </br>
 
 </br>
 
  <div align="center">
 <details>
-  <summary>$$\color{#DBC665}\text{some doodles that i made at my school}$$</summary>
+  <summary>$$\color{#76A8C3}\text{some doodles that i made at my school}$$</summary>
   <br>
 
 <div align="center">
