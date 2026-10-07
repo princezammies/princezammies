@@ -42,20 +42,8 @@ $${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $$
 
 </br>
 
- <div align="center">
-<details>
-  <summary>$$\color{#76A8C3}\text{some doodles that i made at my school}$$</summary>
-  <br>
-
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/93866aa43f8745d0467db0add5003c70.jpg" width="90%" align="center"> </details>
-
-</details>
-</div>
-
-</p>
-
-</br>
+<img align="center" width="200" src="https://img.sanishtech.com/u/8a89ab51c6c94a3e4accf6c5dd43fd55.png">
 
 
