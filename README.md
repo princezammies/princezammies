@@ -10,7 +10,7 @@ thank you [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/00b0d85d1e6cc803016926cf592cb3ed.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/00b0d85d1e6cc803016926cf592cb3ed.png">
 
 </br>
 
