@@ -30,7 +30,7 @@ $${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ 
 
 <div align="center">
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/5c9ab2c19681a451c0ba755ba7d279d3.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/5c9ab2c19681a451c0ba755ba7d279d3.png">
 
 </br>
 
