@@ -48,6 +48,8 @@ $${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $$
 
 </br>
 
+</br>
+
 i made dis art btw lol
 
 </br>
@@ -57,6 +59,8 @@ i made dis art btw lol
 <div align="center">
 
 <img align="center" width="200" src="https://img.sanishtech.com/u/1b8ea61f627493cd2a40022c19475a63.png">
+
+</br>
 
 </br>
 
