@@ -10,7 +10,7 @@ thank you [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/00b0d85d1e6cc803016926cf592cb3ed.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/4224bf2c82317a63bc83e5a7b33ca860.png">
 
 </br>
 
@@ -30,7 +30,7 @@ $${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ 
 
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/5c9ab2c19681a451c0ba755ba7d279d3.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/df2a2d97c917989f61dfe7e9c390961a.png">
 
 </br>
 
@@ -55,14 +55,4 @@ i made dis art btw lol
 </br>
 
 </br>
-
-<div align="center">
-
-<img align="center" width="200" src="https://img.sanishtech.com/u/1b8ea61f627493cd2a40022c19475a63.png">
-
-</br>
-
-</br>
-
-full art
 
