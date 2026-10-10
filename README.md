@@ -1,12 +1,9 @@
-<div align="center">
-
-thank you [pt-fashion](https://github.com/pt-fashion)
-
-</br>
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=76A8C3&style=flat-square&label=🦭+&base=767676)
+
+INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
 
 ————————————————————————
 
@@ -44,3 +41,4 @@ $${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $$
 
 ————————————————————————
 
+INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
