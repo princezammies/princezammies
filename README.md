@@ -8,6 +8,10 @@ thank you [pt-fashion](https://github.com/pt-fashion)
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=76A8C3&style=flat-square&label=🦭+&base=767676)
 
+</br>
+
+————————————————————————
+
 <div align="center">
 
 <img align="right" width="300" src="https://img.sanishtech.com/u/87a49b87a88694022bd7c96960d10469.png">
