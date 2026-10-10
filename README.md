@@ -1,3 +1,6 @@
+<div align="center">
+
+thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
