@@ -42,7 +42,5 @@ $${\color{#76A8C3}multifandoms}$$ $${\color{#CED3B2}multiships}$$ $${\color{#76A
 
 $${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $${\color{#76A8C3}@URAHARA-KI}$$ $${\color{#CED3B2}.}$$ </br>
 
-</br>
-
 ————————————————————————
 
