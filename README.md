@@ -12,7 +12,7 @@ INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INF
 
 <div align="center">
 
-<img align="right" width="300" src="https://img.sanishtech.com/u/87a49b87a88694022bd7c96960d10469.png">
+<img align="right" width="300" src="https://img.sanishtech.com/u/86cc0e2c8fe70be70accda8c4892a161.png">
 
 </br>
 
@@ -32,7 +32,7 @@ $${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ 
 
 <div align="center">
 
-<img align="left" width="300" src="https://img.sanishtech.com/u/7e6d0cce98a380c224a44dfaeda34a8c.png">
+<img align="left" width="300" src="https://img.sanishtech.com/u/efc1c8070f99b47464358a39e05506a9.png">
 
 </br>
 
