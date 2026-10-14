@@ -34,6 +34,12 @@ $${\color{#CED3B2}I}$$ $${\color{#76A8C3}COMMAND}$$ $${\color{#CED3B2}MY}$$ ㅤ 
 
 <div align="center">
 
+INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
+
+INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
+
+<div align="center">
+
 <img align="left" width="300" src="https://img.sanishtech.com/u/bc9f73f3d94b1a1f02af6a77fabf862c.png">
 
 </br>
