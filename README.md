@@ -4,7 +4,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=76A8C3&style=flat-square&label=world+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=world+&base=767676)
 
 INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
 
@@ -20,11 +20,11 @@ INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INF
 
 <div align="center">
 
-$${\color{#76A8C3}FATHER,}$$ $${\color{#CED3B2}FATHER,}$$ $${\color{#76A8C3}FATHER,}$$ ㅤ $${\color{#CED3B2}FATHEERRR}$$ $${\color{#76A8C3}.ㅤ.}$$ </br>
+$${\color{#000000}FATHER,}$$ $${\color{#CFFFFFF}FATHER,}$$ $${\color{#000000}FATHER,}$$ ㅤ $${\color{#FFFFFF}FATHEERRR}$$ $${\color{#000000}.ㅤ.}$$ </br>
 
-$${\color{#CED3B2}FATHER}$$ $${\color{#76A8C3}INTO}$$ $${\color{#CED3B2}YOUR}$$ ㅤ $${\color{#76A8C3}HANDS}$$ $${\color{#CED3B2}.}$$ </br>
+$${\color{#FFFFFF}FATHER}$$ $${\color{#000000}INTO}$$ $${\color{#FFFFFF}YOUR}$$ ㅤ $${\color{#000000}HANDS}$$ $${\color{#FFFFFF}.}$$ </br>
 
-$${\color{#CED3B2}I}$$ $${\color{#76A8C3}COMMAND}$$ $${\color{#CED3B2}MY}$$ ㅤ $${\color{#76A8C3}SPIRIT}$$ $${\color{#CED3B2}.}$$ </br>
+$${\color{#000000}I}$$ $${\color{#FFFFFF}COMMAND}$$ $${\color{#000000}MY}$$ ㅤ $${\color{#FFFFFF}SPIRIT}$$ $${\color{#000000}.}$$ </br>
 
 </br>
 
@@ -52,9 +52,9 @@ INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INF
 
 </br>
 
-$${\color{#76A8C3}FATHER}$$ $${\color{#CED3B2}INTO}$$ $${\color{#76A8C3}YOUR}$$ ㅤ $${\color{#CED3B2}HANDS}$$ $${\color{#76A8C3}.}$$ </br>
+$${\color{#FFFFFF}FATHER}$$ $${\color{#000000}INTO}$$ $${\color{#FFFFFF}YOUR}$$ ㅤ $${\color{#000000}HANDS}$$ $${\color{#FFFFFF}.}$$ </br>
 
-$${\color{#CED3B2}WHY}$$ $${\color{#76A8C3}HAVE}$$ $${\color{#CED3B2}YOU}$$ ㅤ $${\color{#76A8C3}FORSAKEN}$$ $${\color{#CED3B2}ME.}$$ </br>
+$${\color{#000000}WHY}$$ $${\color{#FFFFFF}HAVE}$$ $${\color{#000000}YOU}$$ ㅤ $${\color{#FFFFFF}FORSAKEN}$$ $${\color{#000000}ME.}$$ </br>
 
 ————————————————————————
 
