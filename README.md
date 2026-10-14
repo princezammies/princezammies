@@ -4,7 +4,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=world+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=BONES+&base=767676)
 
 INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFO
 
