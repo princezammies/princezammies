@@ -20,9 +20,11 @@ INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INF
 
 <div align="center">
 
-$${\color{#76A8C3}the}$$ $${\color{#CED3B2}last}$$ $${\color{#76A8C3}dance}$$ ㅤ $${\color{#CED3B2}for}$$ $${\color{#76A8C3}us.}$$ </br>
+$${\color{#76A8C3}FATHER,}$$ $${\color{#CED3B2}FATHER,}$$ $${\color{#76A8C3}FATHER,}$$ ㅤ $${\color{#CED3B2}FATHEERRR}$$ $${\color{#76A8C3}.ㅤ.}$$ </br>
 
-$${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ $${\color{#76A8C3}zams}$$ $${\color{#CED3B2}he/they}$$ </br>
+$${\color{#CED3B2}FATHER}$$ $${\color{#76A8C3}INTO}$$ $${\color{#CED3B2}YOUR}$$ ㅤ $${\color{#76A8C3}HANDS}$$ $${\color{#CED3B2}.}$$ </br>
+
+$${\color{#CED3B2}I}$$ $${\color{#76A8C3}COMMAND}$$ $${\color{#CED3B2}MY}$$ ㅤ $${\color{#76A8C3}SPIRIT}$$ $${\color{#CED3B2}.}$$ </br>
 
 </br>
 
@@ -38,9 +40,9 @@ $${\color{#CED3B2}jess}$$ $${\color{#76A8C3}dawn}$$ $${\color{#CED3B2}or}$$ ㅤ 
 
 </br>
 
-$${\color{#76A8C3}multifandoms}$$ $${\color{#CED3B2}multiships}$$ $${\color{#76A8C3}basic dnis}$$ ㅤ $${\color{#CED3B2},}$$ $${\color{#76A8C3}w2i always}$$ </br>
+$${\color{#76A8C3}FATHER}$$ $${\color{#CED3B2}INTO}$$ $${\color{#76A8C3}YOUR}$$ ㅤ $${\color{#CED3B2}HANDS}$$ $${\color{#76A8C3}.}$$ </br>
 
-$${\color{#CED3B2}used}$$ $${\color{#76A8C3}to}$$ $${\color{#CED3B2}be}$$ ㅤ $${\color{#76A8C3}@URAHARA-KI}$$ $${\color{#CED3B2}.}$$ </br>
+$${\color{#CED3B2}WHY}$$ $${\color{#76A8C3}HAVE}$$ $${\color{#CED3B2}YOU}$$ ㅤ $${\color{#76A8C3}FORSAKEN}$$ $${\color{#CED3B2}ME.}$$ </br>
 
 ————————————————————————
 
