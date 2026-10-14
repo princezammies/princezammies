@@ -30,7 +30,7 @@ $${\color{#CED3B2}I}$$ $${\color{#76A8C3}COMMAND}$$ $${\color{#CED3B2}MY}$$ ㅤ 
 
 <div align="center">
 
-[main](https://github.com/URAHARA-KI)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[atabook](https://kindatired.atabook.org/)
+‎</a> <a href=https://kindatired.atabook.org><img src="https://img.sanishtech.com/u/4970ebf90fcd1a083795a0073f4a2e7d.png" width="70"/></img></a>ㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/ae939b39dd712f8106528e72e1cc46b7.png" width="70"/></img></a>
 
 <div align="center">
 
