@@ -36,7 +36,7 @@ INSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INFOㅤINSERT INF
 
 <div align="center">
 
-‎</a> <a href=https://kindatired.atabook.org><img src="https://img.sanishtech.com/u/4970ebf90fcd1a083795a0073f4a2e7d.png" width="70"/></img></a>ㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/ae939b39dd712f8106528e72e1cc46b7.png" width="70"/></img></a>
+‎</a> <a href=https://kindatired.atabook.org><img src="https://img.sanishtech.com/u/4970ebf90fcd1a083795a0073f4a2e7d.png" width="90"/></img></a>ㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/ae939b39dd712f8106528e72e1cc46b7.png" width="90"/></img></a>
 
 <div align="center">
 
