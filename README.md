@@ -30,8 +30,6 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 </br>
 
-</br>
-
 <div align="center">
 
 ‎[阿塔书](https://kindatired.atabook.org)ㅤ[稻草页](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[租金](https://rentry.co/uselessbody)ㅤ[代词](https://prns.cc/egduf)
