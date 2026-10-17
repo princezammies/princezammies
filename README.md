@@ -16,13 +16,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-JDZㅤhe theyㅤiwec
 
-<img align="center" width="50" src="https://img.sanishtech.com/u/1325e1dc18085194df770ee199ffd084.png">
-
-6teenㅤtrans masc <img align="center" width="50" src="https://img.sanishtech.com/u/71e49795afc623b0c9401b8135a6964a.png"> </br>
-
-<img align="center" width="50" src="https://img.sanishtech.com/u/00cbaebae87a383e054ae1a85c383d99.png"> </br> aroaceㅤw2i always
 
 <div align="center">
 
