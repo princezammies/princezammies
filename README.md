@@ -6,11 +6,9 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=BONES+&base=767676)
 
-————————————————————————
-
 <div align="center">
 
-<img align="left" width="300" src="https://img.sanishtech.com/u/510c34400f0bf928e6a2dbed2ea00a36.png">
+<img align="left" width="300" src="https://img.sanishtech.com/u/e6dfcb06bfcf10720374ca10591b187d.png">
 
 </br>
 
