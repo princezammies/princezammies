@@ -46,7 +46,7 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/bd7ae9fa7917854df2e98287cd3c6bcc.png">
+<img align="center" width="100" src="https://img.sanishtech.com/u/bd7ae9fa7917854df2e98287cd3c6bcc.png">
 
 </br>
 
