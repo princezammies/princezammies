@@ -16,7 +16,17 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
+$\color{#000000}{\textsf{お願い、行かないで}}$<br>
+$\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
 
+$\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
+$\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
+
+$\color{#000000}{\textsf{お願い、行かないで}}$<br>
+$\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
+
+$\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
+$\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <div align="center">
 
