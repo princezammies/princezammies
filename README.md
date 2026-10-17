@@ -20,9 +20,9 @@ JDZㅤhe theyㅤiwec
 
 <img align="center" width="50" src="https://img.sanishtech.com/u/1325e1dc18085194df770ee199ffd084.png">
 
-6teenㅤtrans masc <img src="https://img.sanishtech.com/u/71e49795afc623b0c9401b8135a6964a.png"> width="50" </br>
+6teenㅤtrans masc <img align="center" width="50" src="https://img.sanishtech.com/u/71e49795afc623b0c9401b8135a6964a.png"> </br>
 
-<img src="https://img.sanishtech.com/u/00cbaebae87a383e054ae1a85c383d99.png"> width="50" </br> aroace aceㅤw2i always
+<img align="center" width="50" src="https://img.sanishtech.com/u/00cbaebae87a383e054ae1a85c383d99.png"> </br> aroace aceㅤw2i always
 
 </br>
 
