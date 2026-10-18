@@ -52,5 +52,5 @@ $\color{#B3E9A2}{\textsf{used to be @URAHARA-KI and @CATAL0G}}$<br>
 
 </br>
 
-[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://giithub.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)
 </details>
