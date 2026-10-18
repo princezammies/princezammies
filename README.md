@@ -1,9 +1,5 @@
 <div align="center">
 
-thanks [pt-fashion](https://github.com/pt-fashion)
-
-<div align="center">
-
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=BONES+&base=767676)
 
 <div align="center">
