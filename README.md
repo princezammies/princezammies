@@ -16,6 +16,10 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
+</p>
+<table border="0" align="right">
+<th>
+<p align="center">
 $\color{#000000}{\textsf{お願い、行かないで}}$<br>
 $\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
 
@@ -27,6 +31,8 @@ $\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
 
 $\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
 $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
+</p>
+</table>
 
 </br>
 
