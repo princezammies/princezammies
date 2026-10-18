@@ -26,19 +26,11 @@ $\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
 $\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
 $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
-$\color{#000000}{\textsf{お願い、行かないで}}$<br>
-$\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
-
-$\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
-$\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
+[prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/uselessbody)
 </p>
 </table>
 
 </br>
-
-<div align="center">
-
-‎[阿塔书](https://kindatired.atabook.org)ㅤ[稻草页](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[租金](https://rentry.co/uselessbody)ㅤ[代词](https://prns.cc/egduf)
 
 <div align="center">
 
