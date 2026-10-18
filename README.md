@@ -8,7 +8,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-<img align="left" width="300" src="https://img.sanishtech.com/u/e6dfcb06bfcf10720374ca10591b187d.png">
+<img align="right" width="300" src="https://img.sanishtech.com/u/a6eb6ea84a8df3767f01fca53be10370.png">
 
 </br>
 
