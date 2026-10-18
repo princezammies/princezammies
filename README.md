@@ -8,10 +8,6 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/8f7efb5221cd3c10351c1acb79967fba.png">
-
-<div align="center">
-
 <img align="right" width="300" src="https://img.sanishtech.com/u/a6eb6ea84a8df3767f01fca53be10370.png">
 
 </br>
