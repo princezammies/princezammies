@@ -34,7 +34,7 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <div align="center">
 
-<img align="center" width="70" src="https://img.sanishtech.com/u/4b3dbfdaf5678f9519b00d8ce88218a5.png">
+<img align="center" width="70" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
 
 </br>
 
