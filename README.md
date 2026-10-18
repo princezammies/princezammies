@@ -47,3 +47,6 @@ $\color{#FFFFFF}{\textsf{theres smth i wanna tell you}}$<br>
   <summary> </summary> 
 $\color{#000000}{\textsf{pt awards,}}$<br>
 $\color{#FFFFFF}{\textsf{used to be @URAHARA-KI and @CATAL0G}}$<br>
+
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://giithub.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)
+</details>
