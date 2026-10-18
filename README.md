@@ -17,7 +17,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 <div align="center">
 
 </p>
-<table border="3" align="center">
+<table border="0" align="center">
 <th>
 <p align="center">
 $\color{#000000}{\textsf{お願い、行かないで}}$<br>
@@ -38,7 +38,13 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <div align="center">
 
-<img align="center" width="70" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
+
+$\color{#000000}{\textsf{call me,call me}}$<br>
+$\color{#FFFFFF}{\textsf{hope you answers my call}}$<br>
+
+$\color{#000000}{\textsf{because,}}$<br>
+$\color{#FFFFFF}{\textsf{theres smth i wanna tell you}}$<br>
 
 </br>
 
