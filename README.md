@@ -42,4 +42,8 @@ $\color{#FFFFFF}{\textsf{theres smth i wanna tell you}}$<br>
 
 </br>
 
-</br>
+<br>
+ <details>
+  <summary> </summary> 
+$\color{#000000}{\textsf{pt awards,}}$<br>
+$\color{#FFFFFF}{\textsf{used to be @URAHARA-KI and @CATAL0G}}$<br>
