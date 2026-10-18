@@ -17,7 +17,7 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 <div align="center">
 
 </p>
-<table border="3" align="left">
+<table border="3" align="center">
 <th>
 <p align="center">
 $\color{#000000}{\textsf{お願い、行かないで}}$<br>
