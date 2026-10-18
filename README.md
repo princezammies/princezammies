@@ -8,6 +8,10 @@ thanks [pt-fashion](https://github.com/pt-fashion)
 
 <div align="center">
 
+<img align="center" width="90" src="https://img.sanishtech.com/u/8f7efb5221cd3c10351c1acb79967fba.png">
+
+<div align="center">
+
 <img align="right" width="300" src="https://img.sanishtech.com/u/a6eb6ea84a8df3767f01fca53be10370.png">
 
 </br>
@@ -41,11 +45,3 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 </br>
 
 </br>
-
-<div align="center">
-
-<img align="center" width="200" src="https://img.sanishtech.com/u/bd7ae9fa7917854df2e98287cd3c6bcc.png">
-
-</br>
-
-idk how to draw hands.
