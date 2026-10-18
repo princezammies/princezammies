@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=000000&style=flat-square&label=BONES+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=55DBA6&style=flat-square&label=BONES+&base=767676)
 
 <div align="center">
 
@@ -16,11 +16,11 @@
 <table border="0" align="center">
 <th>
 <p align="center">
-$\color{#000000}{\textsf{お願い、行かないで}}$<br>
-$\color{#FFFFFF}{\textsf{丸ごと食べてやる}}$<br>
+$\color{#55DBA6}{\textsf{お願い、行かないで}}$<br>
+$\color{#B3E9A2}{\textsf{丸ごと食べてやる}}$<br>
 
-$\color{#000000}{\textsf{私はあなたをとても愛しています}}$<br>
-$\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
+$\color{#55DBA6}{\textsf{私はあなたをとても愛しています}}$<br>
+$\color{#B3E9A2}{\textsf{私はあなたをとても愛しています}}$<br>
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ[rentry](https://rentry.co/uselessbody)
 
@@ -34,19 +34,19 @@ $\color{#FFFFFF}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <img align="center" width="90" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
 
-$\color{#000000}{\textsf{call me,call me}}$<br>
-$\color{#FFFFFF}{\textsf{hope you answers my call}}$<br>
+$\color{#55DBA6}{\textsf{call me,call me}}$<br>
+$\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
 
-$\color{#000000}{\textsf{because,}}$<br>
-$\color{#FFFFFF}{\textsf{theres smth i wanna tell you}}$<br>
+$\color{#55DBA6}{\textsf{because,}}$<br>
+$\color{#B3E9A2}{\textsf{theres smth i wanna tell you}}$<br>
 
 </br>
 
 <br>
  <details>
   <summary> </summary> 
-$\color{#000000}{\textsf{pt awards,}}$<br>
-$\color{#FFFFFF}{\textsf{used to be @URAHARA-KI and @CATAL0G}}$<br>
+$\color{#55DBA6}{\textsf{pt awards,}}$<br>
+$\color{#B3E9A2}{\textsf{used to be @URAHARA-KI and @CATAL0G}}$<br>
 
 </br>
 
