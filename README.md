@@ -32,13 +32,13 @@ $\color{#B3E9A2}{\textsf{私はあなたをとても愛しています}}$<br>
 
 <div align="center">
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
-
 $\color{#55DBA6}{\textsf{call me,call me}}$<br>
 $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
 
 $\color{#55DBA6}{\textsf{because,}}$<br>
 $\color{#B3E9A2}{\textsf{theres smth i wanna tell you}}$<br>
+
+<img align="center" width="90" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
 
 </br>
 
