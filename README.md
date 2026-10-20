@@ -22,7 +22,7 @@ $\color{#B3E9A2}{\textsf{丸ごと食べてやる}}$<br>
 $\color{#55DBA6}{\textsf{私はあなたをとても愛しています}}$<br>
 $\color{#B3E9A2}{\textsf{私はあなたをとても愛しています}}$<br>
 
-[prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ
+[prns.cc](https://prns.cc/egduf)ㅤㅤㅤㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 
 <div align="center">
 
