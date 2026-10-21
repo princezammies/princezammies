@@ -19,10 +19,6 @@ $\color{#55DBA6}{\textsf{私はあなたをとても愛しています}}$<br>
 $\color{#B3E9A2}{\textsf{私はあなたをとても愛しています}}$<br>
 
 [prns.cc](https://prns.cc/egduf)ㅤㅤㅤㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
-
-<div align="center">
-
-<img align="center" width="90" src="https://img.sanishtech.com/u/421a227c150020497a5b0d9d96d394ae.png">
 </p>
 </table>
 
