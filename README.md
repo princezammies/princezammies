@@ -6,10 +6,6 @@
 
 <img align="center" width="300" src="https://img.sanishtech.com/u/b7f19a07c037552a1fd147abc57f02da.png">
 
-</br>
-
-</br>
-
 <div align="center">
 
 </p>
