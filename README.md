@@ -30,7 +30,7 @@ $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
 $\color{#55DBA6}{\textsf{because,}}$<br>
 $\color{#B3E9A2}{\textsf{theres smth i wanna tell you}}$<br>
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/1ba79377b54e9855d819776504fbff92.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/f3345081f32b7577f9d7db852263a9a5.png">
 
 </br>
 
