@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=55DBA6&style=flat-square&label=BONES+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=55DBA6&style=flat-square&label=끝까지~+&base=767676)
 
 <div align="center">
 
