@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/b7f19a07c037552a1fd147abc57f02da.png">
+<img align="center" width="300" src="https://img.sanishtech.com/u/b82438cb8215976d73d2ac69f1765670.png">
 
 <div align="center">
 
@@ -30,7 +30,7 @@ $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
 $\color{#55DBA6}{\textsf{because,}}$<br>
 $\color{#B3E9A2}{\textsf{theres smth i wanna tell you}}$<br>
 
-<img align="center" width="90" src="https://img.sanishtech.com/u/f3345081f32b7577f9d7db852263a9a5.png">
+<img align="center" width="90" src="https://img.sanishtech.com/u/6b689b4dda35c7f9f478e48044d9ac28.png">
 
 </br>
 
