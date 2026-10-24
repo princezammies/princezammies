@@ -24,7 +24,6 @@ $\color{#55DBA6}{\textsf{call me,call me}}$<br>
 $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
    <br>
    <br>
-   <details>
    </td>
   </tr>
 
