@@ -83,3 +83,7 @@ $\color{#B3E9A2}{\textsf{to call.}}$<br>
 <img src="https://img.sanishtech.com/u/c764957f2758cb826c446ab674bba820.png"
 width="100">
 <br>
+
+<summary>AWARDS</summary>
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
+</details>
