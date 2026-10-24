@@ -35,3 +35,25 @@ width="90">
 LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
+
+<br>
+<table>
+ <tr>
+align="center">
+    <img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
+width="90">
+  </td>
+  <td>
+
+<br>
+$\color{#55DBA6}{\textsf{but i'm out of my head,}}$<br>
+$\color{#B3E9A2}{\textsf{when you're not around.}}$<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
+width="90">
+</details>
+   </td>
+  </tr>
+</table>
+<br>
