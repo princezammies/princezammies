@@ -14,11 +14,16 @@ width="250">
   </td>
   <td>
 
-<img src="https://img.sanishtech.com/u/91b4f1095a7067ce8460db6fd7dcd5f3.png"
+<div align="center">
+<img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
 width="90">
 
 $\color{#55DBA6}{\textsf{call me,call me}}$<br>
 $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
+width="90">
    <br>
    <br>
    </td>
