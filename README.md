@@ -78,3 +78,8 @@ $\color{#B3E9A2}{\textsf{nobody knows i'm waiting.}}$<br>
 
 \color{#55DBA6}{\textsf{waiting for you..}}$<br>
 $\color{#B3E9A2}{\textsf{to call.}}$<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/c764957f2758cb826c446ab674bba820.png"
+width="100">
+<br>
