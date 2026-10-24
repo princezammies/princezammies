@@ -25,10 +25,6 @@ $\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
    <br>
    <br>
    <details>
-<summary>pt awards</summary>
-
-[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
-</details>
    </td>
   </tr>
 
