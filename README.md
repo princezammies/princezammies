@@ -36,21 +36,6 @@ LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 <br>
-
-<table>
- <tr>
-<td align="center"
-valign="middle">
-    <img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
-width="90">
-
-<br>
-$\color{#55DBA6}{\textsf{but i'm out of my head,}}$<br>
-$\color{#B3E9A2}{\textsf{when you're not around.}}$<br>
-    </td>
-  </tr>
-
-br>
 <table>
  <tr>
   <td rowspan="4"
