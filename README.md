@@ -86,8 +86,32 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝙍𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <summary>$$\color{#889A47}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
 </details>
+
+ <div align="center">
+<details>
+  <summary>$$\color{#889A47}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
+  <br>
+
+<div align="center">
+
+dni proships/darkships
+(bcs yall weirdos)
+
+dni racist/racism
+(bcs WTF yo..) 
+
+dni problematics
+(just NO)
+
+dni homophobics/transphobics
+(get out oke)
+
+dni pedophiles/zoophiles smth
+(thats disgusting bro)
+
++ more(idk how many bro)
