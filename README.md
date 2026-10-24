@@ -114,4 +114,4 @@ dni homophobics/transphobics
 dni pedophiles/zoophiles smth
 (thats disgusting bro)
 
-+ more(idk how many bro)
+and more(idk how many bro)
