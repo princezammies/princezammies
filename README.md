@@ -84,6 +84,10 @@ $\color{#B3E9A2}{\textsf{to call.}}$<br>
 width="100">
 <br>
 
-<summary>AWARDS</summary>
+ <div align="center">
+<details>
+  <summary>$$\color{#889A47}\text{𝙍𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <br>
+
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
 </details>
