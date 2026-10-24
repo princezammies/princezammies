@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img align="center" width="300" src="https://img.sanishtech.com/u/7b84f4511b90e5c6cff935b3ff06291b.png">
-
 <br>
 <br>
 <table>
