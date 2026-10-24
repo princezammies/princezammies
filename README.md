@@ -73,5 +73,8 @@ width="100">
 <img src="https://img.sanishtech.com/u/b6de3380e93e40a8dc51d585483778f0.png"
 width="250">
 
-\color{#55DBA6}{\textsf{call me,call me}}$<br>
-$\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
+\color{#55DBA6}{\textsf{harvey, nobody knows what i see,}}$<br>
+$\color{#B3E9A2}{\textsf{nobody knows i'm waiting.}}$<br>
+
+\color{#55DBA6}{\textsf{waiting for you..}}$<br>
+$\color{#B3E9A2}{\textsf{to call.}}$<br>
