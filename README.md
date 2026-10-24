@@ -20,8 +20,8 @@ width="90">
 
 <br>
 <br>
-$\color{#55DBA6}{\textsf{call me,call me}}$<br>
-$\color{#B3E9A2}{\textsf{hope you answers my call}}$<br>
+$\color{#55DBA6}{\textsf{you're out of touch.}}$<br>
+$\color{#B3E9A2}{\textsf{i'm out of time.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
