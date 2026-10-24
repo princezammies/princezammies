@@ -18,8 +18,8 @@ width="90">
 
 <br>
 <br>
-$\color{#55DBA6}{\textsf{you're out of touch.}}$<br>
-$\color{#B3E9A2}{\textsf{i'm out of time.}}$<br>
+$\color{#F91362}{\textsf{you're out of touch.}}$<br>
+$\color{#FFD118}{\textsf{i'm out of time.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
@@ -53,8 +53,8 @@ width="90">
 
 <br>
 <br>
-$\color{#55DBA6}{\textsf{but I'm out of my head,}}$<br>
-$\color{#B3E9A2}{\textsf{when you're not around.}}$<br>
+$\color{#F91362}{\textsf{but I'm out of my head,}}$<br>
+$\color{#FFD118}{\textsf{when you're not around.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
@@ -73,11 +73,11 @@ width="100">
 <img src="https://img.sanishtech.com/u/b6de3380e93e40a8dc51d585483778f0.png"
 width="250">
 
-\color{#55DBA6}{\textsf{harvey, nobody knows what i see,}}$<br>
-$\color{#B3E9A2}{\textsf{nobody knows i'm waiting.}}$<br>
+\color{#F91362}{\textsf{harvey, nobody knows what i see,}}$<br>
+$\color{#FFD118}{\textsf{nobody knows i'm waiting.}}$<br>
 
-\color{#55DBA6}{\textsf{waiting for you..}}$<br>
-$\color{#B3E9A2}{\textsf{to call.}}$<br>
+\color{#F91362}{\textsf{waiting for you..}}$<br>
+$\color{#FFD118}{\textsf{to call.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/c764957f2758cb826c446ab674bba820.png"
@@ -86,7 +86,7 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <summary>$$\color{#F91362}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
@@ -94,7 +94,7 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#889A47}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
+  <summary>$$\color{#FFD118}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
   <br>
 
 <div align="center">
