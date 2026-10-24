@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=55DBA6&style=flat-square&label=끝까지~+&base=767676)
 
-still a wip
-
 <br>
 <table>
  <tr>
@@ -32,3 +30,5 @@ width="90">
   </tr>
 
 <tr>
+
+[prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
