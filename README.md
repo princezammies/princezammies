@@ -25,10 +25,9 @@ $\color{#B3E9A2}{\textsf{i'm out of time.}}$<br>
 <img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
 width="90">
    <br>
-   <br>
    </td>
   </tr>
 
 <tr>
 
-[prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
+
