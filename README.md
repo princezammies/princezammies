@@ -6,7 +6,7 @@
 [shanks heavy fictkins](https://github.com/pt-heavyfictkin)
 <br>
 
-(@URAHARA-KI is my old acc lol)
+(@URAHARA-KI & @CATAL0G is my old user lol)
 
 <br>
 <table>
