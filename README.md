@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FFD118&style=flat-square&label=끝까지~+&base=767676)
 <br>
 
-[shanks heavy fictkins](https://github.com/pt-heavyfictkin)
+[THE shanks heavy fictkins](https://github.com/pt-heavyfictkin)
 <br>
 
 (@URAHARA-KI & @CATAL0G is my old user lol)
