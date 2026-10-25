@@ -4,6 +4,9 @@
 <br>
 
 [shanks heavy fictkins](https://github.com/pt-heavyfictkin)
+<br>
+
+(@URAHARA-KI is my old acc lol)
 
 <br>
 <table>
