@@ -72,11 +72,11 @@ width="90">
 <br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/c764957f2758cb826c446ab674bba820.png"
+<img src="https://img.sanishtech.com/u/76b7365d5dff25fa62bed02aeb27aca5.png"
 width="100">
 <br>
 
-<img src="https://img.sanishtech.com/u/b6de3380e93e40a8dc51d585483778f0.png"
+<img src="https://img.sanishtech.com/u/d02a52084e9e90c658136191e87b2b98.png"
 width="250">
 
 \color{#F91362}{\textsf{harvey, nobody knows what i see,}}$<br>
@@ -86,7 +86,7 @@ $\color{#FFD118}{\textsf{nobody knows i'm waiting.}}$<br>
 $\color{#FFD118}{\textsf{to call.}}$<br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/c764957f2758cb826c446ab674bba820.png"
+<img src="https://img.sanishtech.com/u/76b7365d5dff25fa62bed02aeb27aca5.png"
 width="100">
 <br>
 
