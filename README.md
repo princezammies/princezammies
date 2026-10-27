@@ -11,7 +11,7 @@
 <br>
 <table>
  <tr>
-  <td rowspan="5"
+  <td rowspan="3"
 align="center">
     <img src="https://img.sanishtech.com/u/8512e2efcd8b3a29c895edff83d360c5.png"
 width="300">
