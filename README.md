@@ -41,8 +41,6 @@ width="90">
 LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
-<br>
-<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
