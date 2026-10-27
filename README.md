@@ -13,13 +13,13 @@
  <tr>
   <td rowspan="4"
 align="center">
-    <img src="https://img.sanishtech.com/u/6e66a88cbf2f93608640ade7f2b48dcf.png"
+    <img src="https://img.sanishtech.com/u/fd056f59f08552a83c278e1c441679d7.png"
 width="250">
   </td>
   <td>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/60618bfd50bfe3829d05537ca798533d.png"
+<img src="https://img.sanishtech.com/u/7d2de50d8ac6238b39dceb1e24d6f524.png"
 width="90">
 
 <br>
@@ -31,7 +31,7 @@ $\color{#C039A7}{\textsf{but I'm out of my head,}}$<br>
 $\color{#430F84}{\textsf{when you're not alone.}}$<br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/135bc872ab76863e200f64e69782cd2f.png"
+<img src="https://img.sanishtech.com/u/95b81309742b5c66363c613b2ffd5fcb.png"
 width="90">
 </details>
    </td>
