@@ -48,24 +48,7 @@ LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 
-<div align="center">
-<img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
-width="100">
-<br>
-
-<img src="https://img.sanishtech.com/u/d02a52084e9e90c658136191e87b2b98.png"
-width="250">
-
-\color{#C039A7}{\textsf{harvey, nobody knows what i see,}}$<br>
-$\color{#430F84}{\textsf{nobody knows i'm waiting.}}$<br>
-
-\color{#C039A7}{\textsf{waiting for you..}}$<br>
-$\color{#430F84}{\textsf{to call.}}$<br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
-width="100">
-<br>
+still a wip oke
 
  <div align="center">
 <details>
