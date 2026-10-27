@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=C039A7&style=flat-square&label=끝까지~+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=C039A7&style=flat-square&label=ARISE+&base=767676)
 <br>
 
 [THE shanks heavy fictkins](https://github.com/pt-heavyfictkin)
