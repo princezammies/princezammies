@@ -72,7 +72,7 @@ width="90">
 <br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/76b7365d5dff25fa62bed02aeb27aca5.png"
+<img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
 width="100">
 <br>
 
@@ -86,7 +86,7 @@ $\color{#FFD118}{\textsf{nobody knows i'm waiting.}}$<br>
 $\color{#FFD118}{\textsf{to call.}}$<br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/76b7365d5dff25fa62bed02aeb27aca5.png"
+<img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
 width="100">
 <br>
 
