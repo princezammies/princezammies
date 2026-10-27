@@ -36,7 +36,7 @@ width="90">
 <br>
 <br>
 
-<img src="https://img.sanishtech.com/u/b465b5b1e24c8e6f4ff043ea962d275e.png"
+<img src="https://img.sanishtech.com/u/89f7d5fbf7d2acbdf75f8e363c12facd.png"
 width="100">
 </details>
    </td>
