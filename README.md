@@ -13,13 +13,13 @@
  <tr>
   <td rowspan="4"
 align="center">
-    <img src="https://img.sanishtech.com/u/d7b114d09e1891bcbb9ff45e7778b029.png"
+    <img src="https://img.sanishtech.com/u/6e66a88cbf2f93608640ade7f2b48dcf.png"
 width="250">
   </td>
   <td>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
+<img src="https://img.sanishtech.com/u/60618bfd50bfe3829d05537ca798533d.png"
 width="90">
 
 <br>
@@ -28,7 +28,7 @@ $\color{#F91362}{\textsf{you're out of touch.}}$<br>
 $\color{#FFD118}{\textsf{i'm out of time.}}$<br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
+<img src="https://img.sanishtech.com/u/135bc872ab76863e200f64e69782cd2f.png"
 width="90">
 </details>
    </td>
@@ -42,33 +42,6 @@ LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 <br>
-<br>
-
-<table>
- <tr>
-  <td rowspan="4"
-align="center">
-    <img src="https://img.sanishtech.com/u/db1d0ff58c5cea57eee1b68c8da848e8.png"
-width="250">
-  </td>
-  <td>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/daa70964addb4670e183ccb60296a074.png"
-width="90">
-
-<br>
-<br>
-$\color{#F91362}{\textsf{but I'm out of my head,}}$<br>
-$\color{#FFD118}{\textsf{when you're not around.}}$<br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/51c94453da9da47361a6ad425a343e08.png"
-width="90">
-</details>
-   </td>
-  </tr>
-</table>
 <br>
 
 <div align="center">
