@@ -33,6 +33,11 @@ $\color{#430F84}{\textsf{when you're not alone.}}$<br>
 <div align="center">
 <img src="https://img.sanishtech.com/u/95b81309742b5c66363c613b2ffd5fcb.png"
 width="90">
+<br>
+<br>
+
+<img src="https://img.sanishtech.com/u/b465b5b1e24c8e6f4ff043ea962d275e.png"
+width="100">
 </details>
    </td>
   </tr>
