@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=C039A7&style=flat-square&label=MUSIC+&base=0)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
 <br>
 
 [THE shanks heavy fictkins](https://github.com/pt-heavyfictkin)
@@ -24,11 +24,11 @@ width="90">
 
 <br>
 <br>
-$\color{#C039A7}{\textsf{you're out of touch.}}$<br>
-$\color{#430F84}{\textsf{i'm out of time.}}$<br>
+$\color{#12FBD8}{\textsf{you're out of touch.}}$<br>
+$\color{#EF87A3}{\textsf{i'm out of time.}}$<br>
 
-$\color{#C039A7}{\textsf{but I'm out of my head,}}$<br>
-$\color{#430F84}{\textsf{when you're not alone.}}$<br>
+$\color{#12FBD8}{\textsf{but I'm out of my head,}}$<br>
+$\color{#EF87A3}{\textsf{when you're not alone.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/95b81309742b5c66363c613b2ffd5fcb.png"
@@ -52,7 +52,7 @@ still a wip oke
 
  <div align="center">
 <details>
-  <summary>$$\color{#C039A7}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <summary>$$\color{#12FBD8}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
@@ -60,7 +60,7 @@ still a wip oke
 
  <div align="center">
 <details>
-  <summary>$$\color{#430F84}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
+  <summary>$$\color{#EF87A3}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
   <br>
 
 <div align="center">
