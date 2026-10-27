@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=FFD118&style=flat-square&label=끝까지~+&base=767676)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=C039A7&style=flat-square&label=끝까지~+&base=767676)
 <br>
 
 [THE shanks heavy fictkins](https://github.com/pt-heavyfictkin)
@@ -24,8 +24,11 @@ width="90">
 
 <br>
 <br>
-$\color{#F91362}{\textsf{you're out of touch.}}$<br>
-$\color{#FFD118}{\textsf{i'm out of time.}}$<br>
+$\color{#C039A7}{\textsf{you're out of touch.}}$<br>
+$\color{#430F84}{\textsf{i'm out of time.}}$<br>
+
+$\color{#C039A7}{\textsf{but I'm out of my head,}}$<br>
+$\color{#430F84}{\textsf{when you're not alone.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/135bc872ab76863e200f64e69782cd2f.png"
@@ -50,11 +53,11 @@ width="100">
 <img src="https://img.sanishtech.com/u/d02a52084e9e90c658136191e87b2b98.png"
 width="250">
 
-\color{#F91362}{\textsf{harvey, nobody knows what i see,}}$<br>
-$\color{#FFD118}{\textsf{nobody knows i'm waiting.}}$<br>
+\color{#C039A7}{\textsf{harvey, nobody knows what i see,}}$<br>
+$\color{#430F84}{\textsf{nobody knows i'm waiting.}}$<br>
 
-\color{#F91362}{\textsf{waiting for you..}}$<br>
-$\color{#FFD118}{\textsf{to call.}}$<br>
+\color{#C039A7}{\textsf{waiting for you..}}$<br>
+$\color{#430F84}{\textsf{to call.}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/88a33b7217cebc54820778e24ba46452.png"
@@ -63,7 +66,7 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#F91362}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <summary>$$\color{#C039A7}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
@@ -71,7 +74,7 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#FFD118}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
+  <summary>$$\color{#430F84}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
   <br>
 
 <div align="center">
