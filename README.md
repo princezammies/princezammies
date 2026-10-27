@@ -14,7 +14,7 @@
   <td rowspan="4"
 align="center">
     <img src="https://img.sanishtech.com/u/fd056f59f08552a83c278e1c441679d7.png"
-width="250">
+width="300">
   </td>
   <td>
 
