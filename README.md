@@ -5,7 +5,7 @@
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/934c734193a739453fe237ac9c8f296c.png"
-width="190">
+width="90">
 
 <br>
 <table>
