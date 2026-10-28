@@ -3,10 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
 <br>
 
-[THE shanks heavy fictkins](https://github.com/pt-heavyfictkin)
-<br>
-
-(@URAHARA-KI & @CATAL0G is my old user lol)
+<div align="center">
+<img src="https://img.sanishtech.com/u/934c734193a739453fe237ac9c8f296c.png"
+width="190">
 
 <br>
 <table>
