@@ -68,6 +68,10 @@ LINKS
 width="90">
 </details>
 
+<div align="center">
+<img src="https://img.sanishtech.com/u/1199c60df33936400942822c10d1bc25.png"
+width=200">
+
  <div align="center">
 <details>
   <summary>$$\color{#EF87A3}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
