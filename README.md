@@ -45,8 +45,6 @@ $\color{#B3E9A2}{\textsf{或许它能够改变}}$<br>
 <div align="center">
 <img src="https://img.sanishtech.com/u/a7c59497071436b3c1726cab16d92323.png"
 width="200">
-<br>
-<br>
 
 <div align="center">
 
