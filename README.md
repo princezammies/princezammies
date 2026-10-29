@@ -36,6 +36,12 @@ $\color{#B3E9A2}{\texts{我已不再抱有希望。}}$<br>
 $\color{#B3E9A2}{\textsf{或许它能够改变}}$<br>
 
 <div align="center">
+<img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
+width="200">
+<br>
+<br>
+
+<div align="center">
 
 LINKS ♡
 
