@@ -21,14 +21,25 @@ $\color{#B3E9A2}{\textsf{我已不再抱有希望。}}$<br>
 
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
+<br>
+<br>
+
+<div align="right">
+<img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
+width="300">
+
+<div align="left">
+\color{#55DBA6}{\textsf{我忘了这还是个选项。}}$<br>
+$\color{#B3E9A2}{\texts{我已不再抱有希望。}}$<br>
+
+\color{#55DBA6}{\textsf{我不再抱有希望了。}}$<br>
+$\color{#B3E9A2}{\textsf{或许它能够改变}}$<br>
 
 <div align="center">
 
 LINKS ♡
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
-
-still a wip oke
 
  <div align="center">
 <details>
