@@ -58,6 +58,12 @@ LINKS
   <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
+<br>
+<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/8be1330e7739818fa022210d9077ac5b.png"
+width="90">
 </details>
 
  <div align="center">
@@ -83,3 +89,8 @@ dni pedophiles/zoophiles smth
 (thats disgusting bro)
 
 and more(idk how many bro)
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/9e2b1f2242b293e572458452f7e9cb4a.png"
+width="90">
+</details>
