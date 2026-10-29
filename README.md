@@ -8,11 +8,11 @@
 width="250">
 
 <br>
-<div align="left">
-<img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
+<div align="right">
+<img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
 width=300">
 
-<div align="right">
+<div align="left">
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
 
@@ -25,7 +25,7 @@ $\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
 <br>
 
 <div align="right">
-<img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
+<img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
 width="300">
 
 <div align="left">
