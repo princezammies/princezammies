@@ -122,6 +122,7 @@ width="250">
   </td>
   <td>
 
+<div align="center">
 <img src="https://img.sanishtech.com/u/d4a6477340cf3388903c6b742188a7eb.png"
 width="100">
 <br>
@@ -132,6 +133,7 @@ $\color{#B3E9A2}{\texts{if you want it back.}}$<br>
 \color{#55DBA6}{\textsf{if you want it back, }}$<br>
 $\color{#B3E9A2}{\texts{im here waiting.}}$<br>
 
+<div align="center">
 <img src="https://img.sanishtech.com/u/f7045b7380947c95f0e2812f6351a3c3.png"
 width="100">
 </details>
