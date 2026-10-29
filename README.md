@@ -8,8 +8,9 @@
 width="250">
 
 <br>
-<div align="center">
-<img align="left" width="300" src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png">
+<div align="left">
+<img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
+width=300">
 
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
