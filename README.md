@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://img.sanishtech.com/u/6bca0f5ab7cd9b5008dcac4bdf48ab20.png"
+width="90">
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
 <br>
@@ -94,3 +98,8 @@ and more(idk how many bro)
 <img src="https://img.sanishtech.com/u/9e2b1f2242b293e572458452f7e9cb4a.png"
 width="90">
 </details>
+<br>
+
+<div align=center">
+<img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
+width="90">
