@@ -46,9 +46,11 @@ width="200">
 
 <div align="center">
 
-LINKS ♡
+LINKS
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
+<br>
+<br>
 
  <div align="center">
 <details>
