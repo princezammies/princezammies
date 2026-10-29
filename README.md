@@ -51,8 +51,10 @@ width="200">
 LINKS
 
 [prns.cc](https://prns.cc/egduf)ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
-<br>
-<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/1199c60df33936400942822c10d1bc25.png"
+width=200">
 
  <div align="center">
 <details>
@@ -67,10 +69,6 @@ LINKS
 <img src="https://img.sanishtech.com/u/8be1330e7739818fa022210d9077ac5b.png"
 width="90">
 </details>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/1199c60df33936400942822c10d1bc25.png"
-width=200">
 
  <div align="center">
 <details>
