@@ -10,7 +10,7 @@ width="200">
 <br>
 <div align="right">
 <img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
-width="200">
+width="250">
 
 <div align="left">
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
@@ -26,7 +26,7 @@ $\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
 
 <div align="right">
 <img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
-width="200">
+width="250">
 
 <div align="left">
 \color{#55DBA6}{\textsf{我忘了这还是个选项。}}$<br>
