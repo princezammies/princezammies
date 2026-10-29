@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
 <br>
 
-<div align="right">
+<div align="left">
 <img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
 width="250">
 
@@ -12,6 +12,7 @@ width="250">
 <img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
 width=300">
 
+<div align="center">
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
 
