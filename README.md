@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
 <br>
 
-<div align="left">
+<div align="center">
 <img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
 width="250">
 
