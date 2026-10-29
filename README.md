@@ -4,42 +4,21 @@
 <br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/934c734193a739453fe237ac9c8f296c.png"
-width="90">
+<img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
+width="250">
 
 <br>
-<table>
- <tr>
-  <td rowspan="3"
-align="center">
-    <img src="https://img.sanishtech.com/u/8512e2efcd8b3a29c895edff83d360c5.png"
-width="300">
-  </td>
-  <td>
-
 <div align="center">
-<img src="https://img.sanishtech.com/u/7d2de50d8ac6238b39dceb1e24d6f524.png"
-width="90">
+<img align="left" width="300" src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png">
 
-<br>
-<br>
-$\color{#12FBD8}{\textsf{you're out of touch.}}$<br>
-$\color{#EF87A3}{\textsf{i'm out of time.}}$<br>
+\color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
+$\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
 
-$\color{#12FBD8}{\textsf{but I'm out of my head,}}$<br>
-$\color{#EF87A3}{\textsf{when you're not alone.}}$<br>
+\color{#55DBA6}{\textsf{我忘了这还是个选项。}}$<br>
+$\color{#B3E9A2}{\textsf{我已不再抱有希望。}}$<br>
 
-<div align="center">
-<img src="https://img.sanishtech.com/u/95b81309742b5c66363c613b2ffd5fcb.png"
-width="90">
-
-<img src="https://img.sanishtech.com/u/89f7d5fbf7d2acbdf75f8e363c12facd.png"
-width="100">
-</details>
-   </td>
-  </tr>
-</table>
-<br>
+\color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
+$\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
 
 <div align="center">
 
