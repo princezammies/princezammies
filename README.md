@@ -3,11 +3,6 @@
 width="90">
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
-<br>
-
-<div align="center">
 <img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
 width="200">
 <br>
@@ -53,8 +48,9 @@ LINKS
 [prns.cc](https://prns.cc/egduf)ㅤㅤㅤㅤㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/1199c60df33936400942822c10d1bc25.png"
-width=200">
+
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
+<br>
 
  <div align="center">
 <details>
