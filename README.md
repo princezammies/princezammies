@@ -22,8 +22,10 @@ $\color{#B3E9A2}{\textsf{我已不再抱有希望。}}$<br>
 
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
-<br>
-<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/a82f8ee192e680a23c3453419b9c5732.png"
+width="200">
 
 <div align="right">
 <img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
