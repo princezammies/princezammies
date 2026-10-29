@@ -12,7 +12,7 @@ width="250">
 <img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
 width=300">
 
-<div align="center">
+<div align="right">
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
 
