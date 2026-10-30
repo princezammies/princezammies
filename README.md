@@ -63,6 +63,10 @@ width="100">
    </td>
  </tr>
 
+<div align="center">
+<img src="https://img.sanishtech.com/u/868e2b0aef394c636232a7259753fb0d.png"
+width="100">
+
 <div align=center">
 <img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
 width="90">
