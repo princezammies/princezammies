@@ -48,7 +48,7 @@ width="250">
 
 <br>
 <div align="center">
-<img src="https://img.sanishtech.com/u/a7c59497071436b3c1726cab16d92323.png"
+<img src="https://img.sanishtech.com/u/ddcffada630345ea439c19ca0dd2c185.png"
 width="100">
 
 <div align="center">
