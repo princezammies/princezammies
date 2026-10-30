@@ -4,17 +4,21 @@ width="90">
 <br>
 <br>
 
-<div align="center">
-<img src="https://img.sanishtech.com/u/0bcf0f185f86f4b3e6bd9eed04882d06.png"
-width="200">
-<br>
-
-<br>
-<div align="right">
-<img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
+<table>
+  <tr>
+    <td rowspan="3"
+align="center">
+     <img src="https://img.sanishtech.com/u/23f8dc3286579a7feca09adee9e10baf.png"
 width="250">
+  </td>
+  <td>
 
-<div align="left">
+<br>
+<div align="center">
+<img src="https://img.sanishtech.com/u/d5fa2f5e7a46913abeb712e5f34e2c4e.png"
+width="100">
+
+<div align="center">
 \color{#55DBA6}{\textsf{我希望事物是美好的。}}$<br>
 $\color{#B3E9A2}{\textsf{我忘了事物竟能如此美好。}}$<br>
 
@@ -26,13 +30,28 @@ $\color{#B3E9A2}{\textsf{我忘了事物本是美好的。}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/a82f8ee192e680a23c3453419b9c5732.png"
-width="200">
+width="100">
+</details>
+   </td>
+ </tr>
+<br>
+<br>
 
-<div align="left">
-<img src="https://img.sanishtech.com/u/1321f460993071a327cc816ff4b03996.png"
+<table>
+  <tr>
+    <td rowspan="3"
+align="center">
+     <img src="https://img.sanishtech.com/u/32bd4db995e6540aa4c6bda32fe4ba88.png"
 width="250">
+  </td>
+  <td>
 
-<div align="right">
+<br>
+<div align="center">
+<img src="https://img.sanishtech.com/u/a7c59497071436b3c1726cab16d92323.png"
+width="100">
+
+<div align="center">
 \color{#55DBA6}{\textsf{我忘了这还是个选项。}}$<br>
 $\color{#B3E9A2}{\texts{我已不再抱有希望。}}$<br>
 
@@ -41,7 +60,10 @@ $\color{#B3E9A2}{\textsf{或许它能够改变}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/a7c59497071436b3c1726cab16d92323.png"
-width="200">
+width="100">
+</details>
+   </td>
+ </tr>
 
 <div align=center">
 <img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
