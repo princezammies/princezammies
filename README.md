@@ -1,3 +1,11 @@
+<img align="right" src="https://img.sanishtech.com/u/d2d5240fd851719b00c34e9ecc074805.png">
+
+$${\color{#EDCA6D}JDZ}$$ $${\color{#FF5B4E}or}$$ $${\color{#EDCA6D}jess}$$ ㅤ $${\color{#FF5B4E}•}$$ $${\color{#EDCA6D}he/they}$$ </br>
+$${\color{#FF5B4E}16.yo}$$ $${\color{#EDCA6D}transmasc}$$ ㅤ $${\color{#FF5B4E}ace or}$$ $${\color{#EDCA6D}aroace}$$ </br>
+
+$${\color{#EDCA6D}heavy}$$ $${\color{#FF5B4E}social}$$ $${\color{#EDCA6D}anxiety}$$ ㅤ $${\color{#FF5B4E}♡}$$ $${\color{#EDCA6D}.}$$ </br>
+$${\color{#EDCA6D}basic dnis}$$ $${\color{#FF5B4E}fndms dniuid/p}$$ ㅤ $${\color{#EDCA6D},}$$ $${\color{#FF5B4E}w2i always}$$ </br>
+
 <div align="center">
 <img src="https://img.sanishtech.com/u/6bca0f5ab7cd9b5008dcac4bdf48ab20.png"
 width="90">
