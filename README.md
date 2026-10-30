@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://img.sanishtech.com/u/6bca0f5ab7cd9b5008dcac4bdf48ab20.png"
 width="90">
-<br>
 
 <table>
   <tr>
