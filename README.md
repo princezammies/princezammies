@@ -138,8 +138,7 @@ width="90">
 <br>
 <table>
   <tr>
-    <td rowspan="3"
-align="center">
+<align="center">
      <img src="https://img.sanishtech.com/u/0dec6403ae707e5296b816d8d2251835.png"
 width="250">
   </td>
