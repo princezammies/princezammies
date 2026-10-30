@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=EDCA6D&style=flat-square&label=MUSIC+&base=0)
+<br>
+<br>
+
 <img align="right" src="https://img.sanishtech.com/u/d2d5240fd851719b00c34e9ecc074805.png"
 width="250">
 
@@ -90,9 +96,9 @@ LINKS
 <br>
 <br>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=EF87A3&style=flat-square&label=MUSIC+&base=0)
+<div align=center">
+<img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
+width="90">
 <br>
 <br>
 
