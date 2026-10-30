@@ -14,7 +14,7 @@ width="250">
 
 <br>
 <div align="center">
-<img src="https://img.sanishtech.com/u/8abcfebf9d293b678587d65b48d59f96.png"
+<img src="https://img.sanishtech.com/u/314b07b769542af592c6c25f18666940.png"
 width="100">
 
 <div align="center">
@@ -28,7 +28,7 @@ $\color{#FF5B4E}{\textsf{我已不再抱有希望。}}$<br>
 $\color{#FF5B4E}{\textsf{我忘了事物本是美好的。}}$<br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/a82f8ee192e680a23c3453419b9c5732.png"
+<img src="https://img.sanishtech.com/u/0708f7c45346e2d6c080c133b3c0cd9a.png"
 width="100">
 </details>
    </td>
