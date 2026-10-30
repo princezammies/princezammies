@@ -134,6 +134,10 @@ width="90">
 <br>
 <br>
 
+<div align="center">
+<img src="https://img.sanishtech.com/u/8abcfebf9d293b678587d65b48d59f96.png"
+width="100">
+
 <br>
 <br>
 <table>
