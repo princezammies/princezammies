@@ -1,4 +1,5 @@
-<img align="right" src="https://img.sanishtech.com/u/d2d5240fd851719b00c34e9ecc074805.png">
+<img align="right" src="https://img.sanishtech.com/u/d2d5240fd851719b00c34e9ecc074805.png"
+width="250">
 
 $${\color{#EDCA6D}JDZ}$$ $${\color{#FF5B4E}or}$$ $${\color{#EDCA6D}jess}$$ ㅤ $${\color{#FF5B4E}•}$$ $${\color{#EDCA6D}he/they}$$ </br>
 $${\color{#FF5B4E}16.yo}$$ $${\color{#EDCA6D}transmasc}$$ ㅤ $${\color{#FF5B4E}ace or}$$ $${\color{#EDCA6D}aroace}$$ </br>
