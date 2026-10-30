@@ -136,6 +136,9 @@ width="90">
 
 <br>
 <br>
+
+<br>
+<br>
 <table>
   <tr>
 <align="center">
@@ -150,11 +153,11 @@ width="100">
 <br>
 <br>
 
-\color{#55DBA6}{\textsf{i'm still rocking your hoodie,}}$<br>
-$\color{#B3E9A2}{\texts{if you want it back.}}$<br>
+\color{#55DBA6}{\textsf{JDZ , he/they}}$<br>
+$\color{#B3E9A2}{\texts{transmasc ace/aroace}}$<br>
 
-\color{#55DBA6}{\textsf{if you want it back, }}$<br>
-$\color{#B3E9A2}{\texts{im here waiting.}}$<br>
+\color{#55DBA6}{\textsf{heavy social anxiety,}}$<br>
+$\color{#B3E9A2}{\texts{basic dnis}}$<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/f7045b7380947c95f0e2812f6351a3c3.png"
