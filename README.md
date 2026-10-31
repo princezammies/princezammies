@@ -67,4 +67,4 @@ width="90">
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/1086a49e264d46983af39e71b085e366.png"
-width="100">
+width="250">
