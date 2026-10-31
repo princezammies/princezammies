@@ -25,13 +25,9 @@ $${\color{#EDCA6D}basic dnis}$$ $${\color{#FF5B4E}fndms dniuid/p}$$ ㅤ $${\colo
 <img src="https://img.sanishtech.com/u/868e2b0aef394c636232a7259753fb0d.png"
 width="100">
 
-<div align="center">
-
-LINKS
-
-[prns.cc](https://prns.cc/egduf)ㅤㅤㅤㅤㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)
-<br>
-<br>
+<p align="center">
+ <a href= "https://prns.cc/egduf"> prns.cc</a> ㅤ $${\color{#558A66}◎}$$ ㅤ <a href= "https://httpshttpsprincezammiesstrawpagestrawpage.straw.page">straw</a> ㅤ $${\color{#B0A271}◎}$$ ㅤ <a href= "https://discord.gg/jesslaziest">discord</a> ㅤ $${\color{#C9CC95}◎}$$ ㅤ <a href= "https://x.com/denpowarukunai">credit</a>  
+</p>
 
 <div align=center">
 <img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
