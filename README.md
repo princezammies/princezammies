@@ -40,7 +40,12 @@ width="100">
   <summary>$$\color{#EDCA6D}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
+<table>
+ <tr>
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+</details>
+   </td>
+ </tr>
 <br>
 <br>
 
@@ -54,9 +59,14 @@ width="90">
   <summary>$$\color{#FF5B4E}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
   <br>
 
+<table>
+ <tr>
 <div align="center">
 
-dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transphobics,dni pedophiles/zoophiles smth,and more
+dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transphobics,dni pedophiles/zoophiles smth,and more. 
+</details>
+    </td>
+  </tr>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/9e2b1f2242b293e572458452f7e9cb4a.png"
