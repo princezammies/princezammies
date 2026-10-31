@@ -22,7 +22,7 @@ $${\color{#EDCA6D}heavy}$$ $${\color{#FF5B4E}social}$$ $${\color{#EDCA6D}anxiety
 $${\color{#EDCA6D}basic dnis}$$ $${\color{#FF5B4E}fndms dniuid/p}$$ ㅤ $${\color{#EDCA6D},}$$ $${\color{#FF5B4E}w2i always}$$ </br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/868e2b0aef394c636232a7259753fb0d.png"
+<img src="https://img.sanishtech.com/u/0dc8a146681ad46a593d67c4822a6bf0.png"
 width="100">
 
 <p align="center">
@@ -30,8 +30,8 @@ width="100">
 </p>
 
 <div align=center">
-<img src="https://img.sanishtech.com/u/86b83499e32b7a4c21080a4944876c50.png"
-width="90">
+<img src="https://img.sanishtech.com/u/0dc8a146681ad46a593d67c4822a6bf0.png"
+width="100">
 <br>
 <br>
 
