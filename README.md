@@ -70,7 +70,7 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 width="100">
 
 $${\color{#EDCA6D}bait}$$ $${\color{#FF5B4E}and}$$ $${\color{#EDCA6D}switch}$$ ㅤ $${\color{#FF5B4E}.}$$ $${\color{#EDCA6D}one}$$ </br>
-$${\color{#FF5B4E}at all}$$ $${\color{#EDCA6D},}$$ ㅤ $${\color{#FF5B4E}full of}$$ $${\color{#EDCA6D}SH*T.}$$ </br>
+$${\color{#FF5B4E}and all}$$ $${\color{#EDCA6D},}$$ ㅤ $${\color{#FF5B4E}full of}$$ $${\color{#EDCA6D}SH*T.}$$ </br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/1086a49e264d46983af39e71b085e366.png"
