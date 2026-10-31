@@ -8,25 +8,25 @@ width="250">
 <br>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=EDCA6D&style=flat-square&label=MUSIC+&base=0)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=CA287D&style=flat-square&label=SCARS+&base=0)
 <br>
 <br>
 
 <img align="left" src="https://img.sanishtech.com/u/5fe48da578ac659666dcd9a4d6400b7d.png"
 width="300">
 
-$${\color{#EDCA6D}JDZ}$$ $${\color{#FF5B4E}or}$$ $${\color{#EDCA6D}jess}$$ ㅤ $${\color{#FF5B4E}•}$$ $${\color{#EDCA6D}he/they}$$ </br>
-$${\color{#FF5B4E}16.yo}$$ $${\color{#EDCA6D}transmasc}$$ ㅤ $${\color{#FF5B4E}ace or}$$ $${\color{#EDCA6D}aroace}$$ </br>
+$${\color{#F26321}JDZ}$$ $${\color{#CA287D}or}$$ $${\color{#F26321}jess}$$ ㅤ $${\color{#CA287D}•}$$ $${\color{#F26321}he/they}$$ </br>
+$${\color{#CA287D}16.yo}$$ $${\color{#F26321}transmasc}$$ ㅤ $${\color{#CA287D}ace or}$$ $${\color{#F26321}aroace}$$ </br>
 
-$${\color{#EDCA6D}heavy}$$ $${\color{#FF5B4E}social}$$ $${\color{#EDCA6D}anxiety}$$ ㅤ $${\color{#FF5B4E}♡}$$ $${\color{#EDCA6D}.}$$ </br>
-$${\color{#EDCA6D}basic dnis}$$ $${\color{#FF5B4E}fndms dniuid/p}$$ ㅤ $${\color{#EDCA6D},}$$ $${\color{#FF5B4E}w2i always}$$ </br>
+$${\color{#CA287D}heavy}$$ $${\color{#F26321}social}$$ $${\color{#CA287D}anxiety}$$ ㅤ $${\color{#F26321}♡}$$ $${\color{#CA287D}.}$$ </br>
+$${\color{#F26321}basic dnis}$$ $${\color{#CA287D}fndms dniuid/p}$$ ㅤ $${\color{#F26321},}$$ $${\color{#CA287D}w2i always}$$ </br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/0dc8a146681ad46a593d67c4822a6bf0.png"
 width="100">
 
 <p align="center">
- <a href= "https://prns.cc/egduf"> prns.cc</a> ㅤ $${\color{#558A66}◎}$$ ㅤ <a href= "https://httpshttpsprincezammiesstrawpagestrawpage.straw.page">straw</a> ㅤ $${\color{#B0A271}◎}$$ ㅤ <a href= "https://discord.gg/jesslaziest">discord</a> ㅤ $${\color{#C9CC95}◎}$$ ㅤ <a href= "https://x.com/denpawarukunai">credit</a>  
+ <a href= "https://prns.cc/egduf"> prns.cc</a> ㅤ $${\color{#F26321}◎}$$ ㅤ <a href= "https://httpshttpsprincezammiesstrawpagestrawpage.straw.page">straw</a> ㅤ $${\color{#CA287D}◎}$$ ㅤ <a href= "https://discord.gg/jesslaziest">discord</a> ㅤ $${\color{#F26321}◎}$$ ㅤ <a href= "https://x.com/denpawarukunai">credit</a>  
 </p>
 
 <div align=center">
@@ -37,7 +37,7 @@ width="100">
 
  <div align="center">
 <details>
-  <summary>$$\color{#EDCA6D}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
+  <summary>$$\color{#F26321}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
 <div align="center">
@@ -51,7 +51,7 @@ width="90">
 
  <div align="center">
 <details>
-  <summary>$$\color{#FF5B4E}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
+  <summary>$$\color{#CA287D}\text{𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨}$$</summary>
   <br>
 
 <div align="center">
@@ -69,7 +69,7 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 <img align="right" src="https://img.sanishtech.com/u/5a54aa68142db0b9803b443dfce4305d.png"
 width="100">
 
-$${\color{#EDCA6D}bait}$$ $${\color{#FF5B4E}and}$$ $${\color{#EDCA6D}switch}$$ ㅤ $${\color{#FF5B4E}.}$$ $${\color{#EDCA6D}one}$$ </br>
+$${\color{#F26321}bait}$$ $${\color{#CA287D}and}$$ $${\color{#F26321}switch}$$ ㅤ $${\color{#CA287D}.}$$ $${\color{#F26321}one}$$ </br>
 $${\color{#FF5B4E}and all}$$ $${\color{#EDCA6D},}$$ ㅤ $${\color{#FF5B4E}full of}$$ $${\color{#EDCA6D}SH*T.}$$ </br>
 
 <div align="center">
