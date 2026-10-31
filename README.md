@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<img align="right" src="https://img.sanishtech.com/u/d2d5240fd851719b00c34e9ecc074805.png"
+<img align="right" src="https://img.sanishtech.com/u/5fe48da578ac659666dcd9a4d6400b7d.png"
 width="250">
 
 $${\color{#EDCA6D}JDZ}$$ $${\color{#FF5B4E}or}$$ $${\color{#EDCA6D}jess}$$ ㅤ $${\color{#FF5B4E}•}$$ $${\color{#EDCA6D}he/they}$$ </br>
