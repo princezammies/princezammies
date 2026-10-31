@@ -5,7 +5,7 @@
 <br>
 
 <img align="left" src="https://img.sanishtech.com/u/5fe48da578ac659666dcd9a4d6400b7d.png"
-width="250">
+width="300">
 
 $${\color{#EDCA6D}JDZ}$$ $${\color{#FF5B4E}or}$$ $${\color{#EDCA6D}jess}$$ ㅤ $${\color{#FF5B4E}•}$$ $${\color{#EDCA6D}he/they}$$ </br>
 $${\color{#FF5B4E}16.yo}$$ $${\color{#EDCA6D}transmasc}$$ ㅤ $${\color{#FF5B4E}ace or}$$ $${\color{#EDCA6D}aroace}$$ </br>
