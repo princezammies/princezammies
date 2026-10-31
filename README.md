@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://img.sanishtech.com/u/7a901158946ddf9fb58ab4083b194faf.png"
+width="100">
+
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=EDCA6D&style=flat-square&label=MUSIC+&base=0)
 <br>
@@ -58,4 +62,7 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 <img src="https://img.sanishtech.com/u/9e2b1f2242b293e572458452f7e9cb4a.png"
 width="90">
 </details>
-<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/1086a49e264d46983af39e71b085e366.png"
+width="100">
