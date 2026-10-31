@@ -101,7 +101,7 @@ width="90">
   <summary>$$\color{#EDCA6D}\text{𝙧𝙚𝙬𝙖𝙧𝙙𝙨}$$</summary>
   <br>
 
-[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
 <br>
 <br>
 
@@ -117,34 +117,10 @@ width="90">
 
 <div align="center">
 
-dni proships/darkships
-(bcs yall weirdos)
-
-dni racist/racism
-(bcs WTF yo..) 
-
-dni problematics
-(just NO)
-
-dni homophobics/transphobics
-(get out oke)
-
-dni pedophiles/zoophiles smth
-(thats disgusting bro)
-
-and more(idk how many bro)
+dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transphobics,dni pedophiles/zoophiles smth,and more
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/9e2b1f2242b293e572458452f7e9cb4a.png"
 width="90">
 </details>
-<br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/e21a604edcd4bf3eb2f459e06da99888.png"
-width="90">
-<br>
-<br>
-
-<br>
 <br>
