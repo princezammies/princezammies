@@ -75,7 +75,7 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 <div align="center">
 
 [nox](https://github.com/transadori)ㅤ[luc](https://github.com/toewrestlergod3000)ㅤ[cam](https://github.com/cme-o)ㅤ[tusk](https://github.com/verjty)ㅤ[koro](https://github.com/suselle)ㅤ[sundew](https://github.com/FLY-PAPER-TRAP)ㅤ[borsalino](https://github.com/denguemon)ㅤ[xao](https://github.com/xaoxly)ㅤ[ace](https://github.com/f1refist)ㅤ[chal](https://github.com/chalazias)ㅤ[clydi](https://github.com/c-p3usiob)ㅤㅤㅤㅤask to be added.
-
+</details>
 
 <div align="center">
 
