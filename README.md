@@ -68,6 +68,16 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 <br>
 
 <div align="center">
+<details>
+  <summary>$$\color{#CA287D}\text{𝙡𝙤𝙫𝙚𝙢𝙖𝙞𝙡}$$</summary>
+  <br>
+
+<div align="center">
+
+[nox](https://github.com/transadori)ㅤ[luc](https://github.com/toewrestlergod3000)ㅤ[cam](https://github.com/cme-o)ㅤ[tusk](https://github.com/verjty)ㅤ[koro](https://github.com/suselle)ㅤ[sundew](https://github.com/FLY-PAPER-TRAP)ㅤ[borsalino](https://github.com/denguemon)ㅤ[xao](https://github.com/xaosly)ㅤ[ace](https://github.com/f1refist)
+
+
+<div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/5a54aa68142db0b9803b443dfce4305d.png"
 width="100">
