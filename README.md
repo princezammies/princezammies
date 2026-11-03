@@ -12,7 +12,7 @@ width="250">
 <br>
 <br>
 
-<img align="left" src="https://img.sanishtech.com/u/5fe48da578ac659666dcd9a4d6400b7d.png"
+<img align="left" src="https://img.sanishtech.com/u/c72e4feb7cfa898a242b76ec7d39b315.png"
 width="300">
 
 $${\color{#F26321}JDZ}$$ $${\color{#CA287D}or}$$ $${\color{#F26321}jess}$$ ㅤ $${\color{#CA287D}•}$$ $${\color{#F26321}he/they}$$ </br>
