@@ -41,7 +41,7 @@ width="100">
   <br>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/ad846d9ee588709854ee1346e6f9b1a3.png"
+<img src="https://img.sanishtech.com/u/5899b63737cbdda9e07abbac508176ce.png"
 width="90">
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
