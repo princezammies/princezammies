@@ -53,3 +53,5 @@ ${\textsf{\color{#D3BB82}⠀感情⠀ !}}$
 width="100">
 
 <img src="https://img.sanishtech.com/u/c3100f51088df9ed077d68dc15b14fcb.gif" width="20" alt="scars">⠀ ${\textsf{\color{#DE9953}⠀⠀insert info}}$ ${\textsf{\color{#DF784B}⠀insert info}}$⠀⠀ ${\textsf{\color{#C35248}insert info}}$ 
+
+[rentry](https://rentry.co/Extrapersona3)ㅤ✦ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ✦ㅤ[discord](https://discord.gg/jesslaziest)
