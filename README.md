@@ -41,3 +41,14 @@ ${\textsf{\color{#D3BB82}✦⠀⠀なんて退屈なんだ  }}$
 width="90">
 
 ${\textsf{\color{#D3BB82}⠀感情⠀ !}}$
+<br>
+<br>
+
+<br>
+<br>
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/2e9dd62634e98cf3aa9f64bb1eeca90a.png"
+width="100">
+
+${\textsf{\color{#DF6A46}insert info⠀}}$ ${\textsf{\color{#AF4B52}insert info⠀⠀}}$ ${\textsf{\color{#695375}insert info}}$
