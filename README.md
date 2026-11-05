@@ -14,13 +14,16 @@ wip
 <br>
 
 <img align="right" src="https://img.sanishtech.com/u/7cdad6ebab87c53f25a40d92a1e34c6c.png"
-width="300">
+width="350">
 
-$${\color{#F26321}JDZ}$$ $${\color{#CA287D}or}$$ $${\color{#F26321}jess}$$ ㅤ $${\color{#CA287D}•}$$ $${\color{#F26321}he/they}$$ </br>
-$${\color{#CA287D}16.yo}$$ $${\color{#F26321}transmasc}$$ ㅤ $${\color{#CA287D}ace or}$$ $${\color{#F26321}aroace}$$ </br>
+${\textsf{\color{#D3BB82}✦⠀実に異例な .}}$
 
-$${\color{#CA287D}heavy}$$ $${\color{#F26321}social}$$ $${\color{#CA287D}anxiety}$$ ㅤ $${\color{#F26321}♡}$$ $${\color{#CA287D}.}$$ </br>
-$${\color{#F26321}basic dnis}$$ $${\color{#CA287D}fndms dniuid/p}$$ ㅤ $${\color{#F26321},}$$ $${\color{#CA287D}w2i always}$$ </br>
+${\textsf{\color{#DF6A46}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#AF4B52}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#695375}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
+
+${\textsf{\color{#DF6A46}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\color{#AF4B52}𝙖𝙧𝙤𝙖𝙘𝙚 𝙖𝙘𝙚⠀⠀}}$ ${\textsf{\color{#695375}-14 𝙙𝙣𝙞 / 𝙞𝙬𝙚𝙘}}$
+
+${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#AF4B52}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#695375}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$
+<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/0dc8a146681ad46a593d67c4822a6bf0.png"
