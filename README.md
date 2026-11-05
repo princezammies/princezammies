@@ -28,7 +28,7 @@ ${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 <div align="center">
 
 <img align="left" src="https://img.sanishtech.com/u/aa534a7d90d98ca8ffd859ee38c1b343.png"
-width="250">
+width="90">
 
 ${\textsf{\color{#D3BB82}✦⠀⠀なんて退屈なんだ  }}$
 <br>
@@ -37,6 +37,6 @@ ${\textsf{\color{#D3BB82}✦⠀⠀なんて退屈なんだ  }}$
 <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/5d8ac80235567c85e900a84e237baea5.png"
-width="250">
+width="90">
 
 ${\textsf{\color{#D3BB82}⠀感情⠀ !}}$
