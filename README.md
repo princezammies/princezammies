@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://img.sanishtech.com/u/7a901158946ddf9fb58ab4083b194faf.png"
-width="250">
 <br>
 <br>
 
@@ -12,7 +9,7 @@ width="250">
 <br>
 <br>
 
-<img align="left" src="https://img.sanishtech.com/u/c72e4feb7cfa898a242b76ec7d39b315.png"
+<img align="right" src="https://img.sanishtech.com/u/7cdad6ebab87c53f25a40d92a1e34c6c.png"
 width="300">
 
 $${\color{#F26321}JDZ}$$ $${\color{#CA287D}or}$$ $${\color{#F26321}jess}$$ ㅤ $${\color{#CA287D}•}$$ $${\color{#F26321}he/they}$$ </br>
