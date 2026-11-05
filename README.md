@@ -76,14 +76,3 @@ dni proships/darkships,dni racist/racism,dni problematics,dni homophobics/transp
 <br>
 <br>
 
-<div align="center">
-
-<img align="right" src="https://img.sanishtech.com/u/5a54aa68142db0b9803b443dfce4305d.png"
-width="100">
-
-$${\color{#F26321}bait}$$ $${\color{#CA287D}and}$$ $${\color{#F26321}switch}$$ ㅤ $${\color{#CA287D}.}$$ $${\color{#F26321}one}$$ </br>
-$${\color{#CA287D}and all}$$ $${\color{#F26321},}$$ ㅤ $${\color{#CA287D}full of}$$ $${\color{#F26321}SH*T.}$$ </br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/1086a49e264d46983af39e71b085e366.png"
-width="250">
