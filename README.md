@@ -1,13 +1,11 @@
 <br>
 <br>
 
+
 <div align="center">
 
-wip
-
-<br>
-<br>
-<div align="center">
+<img src="https://img.sanishtech.com/u/673c780f25b98d615ebeb4e9260c36ea.png"
+width="100">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=CA287D&style=flat-square&label=SCARS+&base=0)
 <br>
