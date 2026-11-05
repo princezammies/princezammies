@@ -67,7 +67,8 @@ width="100">
 
 <img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#DE9953}⠀⠀𝙋ersona}}$ ${\textsf{\color{#DF784B}⠀3}}$⠀⠀ ${\textsf{\color{#C35248}.}}$
 
-<img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" width="20" alt="scars>
+<img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" 
+width="20">
 
 ✦
 
