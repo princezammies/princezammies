@@ -26,10 +26,9 @@ ${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 <br>
 <br>
 
-<table></table>
-
+<table>
+ <tr>
 <div align="center">
-
 <img src="https://img.sanishtech.com/u/820570ff94d0768c2b163b93632979eb.png"
 width="200">
 
@@ -37,8 +36,8 @@ ${\textsf{\color{#DF6A46}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀}}$ ${\text
 
 ${\textsf{\color{#DF6A46}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀}}$ ${\textsf{\color{#AF4B52}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀⠀}}$ ${\textsf{\color{#695375}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊}}$
 </details>
-</div>
-
+  </td>
+ </tr>
 
  <div align="center">
 <details>
