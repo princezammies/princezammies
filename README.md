@@ -32,7 +32,7 @@ ${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
  <tr>
   <td rowspan="3"
 align="center">
-    <img src="https://img.sanishtech.com/u/820570ff94d0768c2b163b93632979eb.png"
+    <img src="https://img.sanishtech.com/u/413443fa5cf630c08c45de7b19a90e1d.png"
 width="250">
   </td>
   <td>
