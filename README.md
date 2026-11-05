@@ -51,4 +51,4 @@ ${\textsf{\color{#D3BB82}⠀感情⠀ !}}$
 <img src="https://img.sanishtech.com/u/2e9dd62634e98cf3aa9f64bb1eeca90a.png"
 width="100">
 
-${\textsf{\color{#DF6A46}insert info⠀}}$ ${\textsf{\color{#AF4B52}insert info⠀⠀}}$ ${\textsf{\color{#695375}insert info}}$
+<img src="https://img.sanishtech.com/u/c3100f51088df9ed077d68dc15b14fcb.gif" width="20" alt="scars">⠀ ${\textsf{\color{#DE9953}⠀⠀insert info}}$ ${\textsf{\color{#DF784B}⠀insert info}}$⠀⠀ ${\textsf{\color{#C35248}insert info}}$ 
