@@ -13,7 +13,11 @@ wip
 <br>
 <br>
 
-  <table align="center">
+  <table>
+    <tr>      
+      <td>
+        <div align="center">
+
 <img align="right" src="https://img.sanishtech.com/u/7cdad6ebab87c53f25a40d92a1e34c6c.png"
 width="350">
 
@@ -24,8 +28,6 @@ ${\textsf{\color{#DF6A46}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{
 ${\textsf{\color{#DF6A46}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\color{#AF4B52}𝙖𝙧𝙤𝙖𝙘𝙚 𝙖𝙘𝙚⠀⠀}}$ ${\textsf{\color{#695375}-14 𝙙𝙣𝙞 / 𝙞𝙬𝙚𝙘}}$
 
 ${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#AF4B52}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#695375}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$
-  </p>
-  </td></tr>
 </table>
 <br>
 <br>
