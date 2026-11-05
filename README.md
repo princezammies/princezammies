@@ -1,6 +1,6 @@
 <div align="center">
 
-${\textsf{\color{#D3BB82}✦⠀ロック音楽}}$
+${\textsf{\color{#D3BB82}⠀ロック音楽}}$
 
 <img src="https://img.sanishtech.com/u/673c780f25b98d615ebeb4e9260c36ea.png"
 width="200">
