@@ -24,23 +24,19 @@ ${\textsf{\color{#DF6A46}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\
 
 ${\textsf{\color{#DF6A46}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#AF4B52}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#695375}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$
 <br>
-<br>
 
-<br>
-<br>
-<table>
- <tr>
-  <td rowspan="5"
-align="center">
-    <img src="https://img.sanishtech.com/u/413443fa5cf630c08c45de7b19a90e1d.png"
+<div align="center">
+
+<img align="left" src="https://img.sanishtech.com/u/aa534a7d90d98ca8ffd859ee38c1b343.png"
 width="250">
-  </td>
-  <td>
 
-${\textsf{\color{#DF6A46}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀}}$ ${\textsf{\color{#AF4B52}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀⠀}}$ ${\textsf{\color{#695375}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊}}$
+${\textsf{\color{#D3BB82}✦⠀⠀なんて退屈なんだ  }}$
+<br>
+<br>
 
-${\textsf{\color{#DF6A46}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀}}$ ${\textsf{\color{#AF4B52}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊⠀⠀}}$ ${\textsf{\color{#695375}𝙄𝙉𝙎𝙀𝙍𝙏 𝙄𝙉𝙁𝙊}}$
-</details>
-  </td>
- </tr>
+<div align="center">
 
+<img align="right" src="https://img.sanishtech.com/u/5d8ac80235567c85e900a84e237baea5.png"
+width="250">
+
+${\textsf{\color{#D3BB82}⠀感情⠀ !}}$
