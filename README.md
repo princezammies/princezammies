@@ -55,3 +55,20 @@ width="100">
 <img src="https://img.sanishtech.com/u/c3100f51088df9ed077d68dc15b14fcb.gif" width="20" alt="scars">⠀ ${\textsf{\color{#DE9953}⠀⠀insert info}}$ ${\textsf{\color{#DF784B}⠀insert info}}$⠀⠀ ${\textsf{\color{#C35248}insert info}}$ 
 
 [rentry](https://rentry.co/Extrapersona3)ㅤ✦ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ✦ㅤ[discord](https://discord.gg/jesslaziest)
+<br>
+<br>
+
+<br>
+<br>
+
+<div align="center">
+<img align="right" src="https://img.sanishtech.com/u/ae294ce2d34c0c4293a20f9999c20a94.png"
+width="100">
+
+<img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#DE9953}⠀⠀𝙋ersona}}$ ${\textsf{\color{#DF784B}⠀3}}$⠀⠀ ${\textsf{\color{#C35248}.}}$
+
+<img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" width="20" alt="scars>
+
+✦
+
+${\textsf{\color{#DF6A46}idk⠀}}$ ${\textsf{\color{#AF4B52}what to⠀⠀}}$ ${\textsf{\color{#695375}add LMFAO}}$
