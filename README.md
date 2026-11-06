@@ -69,7 +69,7 @@ width="100">
 
 ✦
 
-${\textsf{\color{#FF9C39}idk⠀}}$ ${\textsf{\color{#AD4168}what to⠀⠀}}$ ${\textsf{\color{#1A367A}add LMFAO}}$
+${\textsf{\color{#FF9C39}insert info⠀}}$ ${\textsf{\color{#AD4168}insert info⠀⠀}}$ ${\textsf{\color{#1A367A}insert info}}$
 
 <img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" 
 width="20">
