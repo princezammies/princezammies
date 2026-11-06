@@ -73,4 +73,8 @@ ${\textsf{\color{#FF9C39}idk⠀}}$ ${\textsf{\color{#AD4168}what to⠀⠀}}$ ${\
 
 <img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" 
 width="20">
+<br>
 
+<details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+</details>
