@@ -88,3 +88,11 @@ width="20">
 <details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+
+<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/29eb549473c98f280f9e10d4580f20d4.png"
+width="200">
+
+ic : @NT_26 on x
