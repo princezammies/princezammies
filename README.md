@@ -39,7 +39,7 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/d562022c371d553836113931dc4a36a4.png"
+<img align="left" src="https://img.sanishtech.com/u/6d36a25daa9801f9ab7ca1f2de6ded32.png"
 width="90">
 
 ${\textsf{\color{#FF9C39}✦⠀⠀なんて退屈なんだ  }}$
@@ -48,7 +48,7 @@ ${\textsf{\color{#FF9C39}✦⠀⠀なんて退屈なんだ  }}$
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/b8e8d5a5dfd48f3314a4d7064e062fbb.png"
+<img align="right" src="https://img.sanishtech.com/u/91be1e9fdd1fdb8d1f822d1847f5bc73.png"
 width="90">
 
 ${\textsf{\color{#AD4168}⠀感情⠀ !}}$
