@@ -1,14 +1,20 @@
 <div align="center">
 
-${\textsf{\color{#AD4168}⠀ロック音楽}}$
+${\textsf{\color{#AD4168}⠀insert info}}$
 <img align="right" src="https://img.sanishtech.com/u/d3da07f10d1693dcaba502adbb982a38.png"
 width="200">
 
-${\textsf{\color{#AD4168}⠀ロック音楽}}$
+${\textsf{\color{#AD4168}⠀insert info}}$
 <img align="left" src="https://img.sanishtech.com/u/a44800ab3296ccc603b5bf8af814049f.png"
 width="200">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
+<br>
+<br>
+
+${\textsf{\color{#AD4168}⠀insert info}}$
+${\textsf{\color{#AD4168}⠀insert info}}$
+
 <br>
 <br>
 
