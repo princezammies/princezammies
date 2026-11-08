@@ -62,7 +62,7 @@ width="100">
 <br>
 
 <div align="center">
-<img align="right" src="https://img.sanishtech.com/u/ae294ce2d34c0c4293a20f9999c20a94.png"
+<img align="right" src="https://img.sanishtech.com/u/66f1dec59dd2ed58ed151f3e211fddcd.png"
 width="100">
 
 <img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#FF9C39}⠀⠀𝙋ersona}}$ ${\textsf{\color{#1A367A}⠀3}}$⠀⠀ ${\textsf{\color{#AD4168}.}}$
