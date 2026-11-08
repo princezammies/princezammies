@@ -1,5 +1,10 @@
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
+<br>
+
+<div align="center">
+
 ${\textsf{\color{#AD4168}⠀insert info}}$
 <img align="right" src="https://img.sanishtech.com/u/d9c80a91ce346af1843e89600f9b58f3.png"
 width="200">
@@ -7,10 +12,6 @@ width="200">
 ${\textsf{\color{#AD4168}⠀insert info}}$
 <img align="left" src="https://img.sanishtech.com/u/07022057c8709a10a9f60df4c21d42a9.png"
 width="200">
-
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
-<br>
-<br>
 
 ${\textsf{\color{#AD4168}⠀insert info}}$
 ${\textsf{\color{#AD4168}⠀insert info}}$
