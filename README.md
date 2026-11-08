@@ -59,7 +59,7 @@ ${\textsf{\color{#AD4168}⠀感情⠀ !}}$
 <br>
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/999ab7bc7b2be734a7b242bb445a59ce.png"
+<img src="https://img.sanishtech.com/u/90fcc423facf972a4683239383cc38fa.png"
 width="100">
 
 <img src="https://img.sanishtech.com/u/c3100f51088df9ed077d68dc15b14fcb.gif" width="20" alt="scars">⠀ ${\textsf{\color{#1A367A}⠀⠀insert info}}$ ${\textsf{\color{#FF9C39}⠀insert info}}$⠀⠀ ${\textsf{\color{#AD4168}insert info}}$ 
@@ -75,7 +75,7 @@ width="100">
 <img align="right" src="https://img.sanishtech.com/u/b5e5ea3b79434b0b5818eb2c3eddb0ff.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#FF9C39}⠀⠀𝙋ersona}}$ ${\textsf{\color{#1A367A}⠀3}}$⠀⠀ ${\textsf{\color{#AD4168}.}}$
+<img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#FF9C39}⠀⠀𝙋ersona}}$ ${\textsf{\color{#1A367A}⠀4}}$⠀⠀ ${\textsf{\color{#AD4168}.}}$
 
 ✦
 
