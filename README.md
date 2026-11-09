@@ -31,6 +31,10 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 ✦
 
+${\textsf{\color{#FF9C39}lele}}$
+
+${\textsf{\color{#FF9C39}✦⠀Persona 5 .}}$
+
 <br>
 <br>
 
