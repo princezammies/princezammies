@@ -2,6 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
 
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/fa8d1c25f945b96dc5ff2cc157cc21cc.png"
+width="200">
+
+${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert infi}}$
+
+${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert info}}$
+
   <table>
     <tr>      
       <td>
