@@ -14,7 +14,7 @@ ${\textsf{\color{#AD4168}insert infoâ €}}$ ${\textsf{\color{#1A367A}insert infoâ
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/f2e15e0a22e6ad0e1cf22be275fed8b8.png"
-width="200">
+width="90">
 
   <table>
     <tr>      
