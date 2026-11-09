@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/fa8d1c25f945b96dc5ff2cc157cc21cc.png"
+<img align="left" src="https://img.sanishtech.com/u/fa8d1c25f945b96dc5ff2cc157cc21cc.png"
 width="200">
 
 ${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert infi}}$
