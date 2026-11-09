@@ -72,28 +72,6 @@ width="100">
 <br>
 <br>
 
-<div align="center">
-<img align="right" src="https://img.sanishtech.com/u/b5e5ea3b79434b0b5818eb2c3eddb0ff.png"
-width="200">
-
-<img src="https://img.sanishtech.com/u/f5be44a7733f69fa325f48846a495571.gif" width="20" alt="scars">⠀ ${\textsf{\color{#FF9C39}⠀⠀𝙋ersona}}$ ${\textsf{\color{#1A367A}⠀4}}$⠀⠀ ${\textsf{\color{#AD4168}.}}$
-
-✦
-
-${\textsf{\color{#FF9C39}insert info⠀}}$ ${\textsf{\color{#AD4168}insert info⠀⠀}}$ ${\textsf{\color{#1A367A}insert info}}$
-
-<img src="https://img.sanishtech.com/u/0b63a2323f51b7dc5fc8d7ce1c5f161f.gif" 
-width="20">
-<br>
-
 <details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
-
-<br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/29eb549473c98f280f9e10d4580f20d4.png"
-width="200">
-
-ic : @NT_26 on x
