@@ -46,5 +46,5 @@ ${\textsf{\color{#FF9C39}✦⠀Persona 5 .}}$
 
 <img src="https://img.sanishtech.com/u/d7404177cee0e58a9a88b181565fcbaf.png"
 width="100">
-<details>
+
 <br>
