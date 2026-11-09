@@ -25,32 +25,7 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/6d36a25daa9801f9ab7ca1f2de6ded32.png"
-width="90">
-
-${\textsf{\color{#FF9C39}✦⠀⠀なんて退屈なんだ  }}$
-<br>
-<br>
-
-<div align="center">
-
-<img align="right" src="https://img.sanishtech.com/u/91be1e9fdd1fdb8d1f822d1847f5bc73.png"
-width="90">
-
-${\textsf{\color{#AD4168}⠀感情⠀ !}}$
-<br>
-<br>
-
-<br>
-<br>
-<div align="center">
-
-<img src="https://img.sanishtech.com/u/90fcc423facf972a4683239383cc38fa.png"
-width="100">
-
-<img src="https://img.sanishtech.com/u/c3100f51088df9ed077d68dc15b14fcb.gif" width="20" alt="scars">⠀ ${\textsf{\color{#1A367A}⠀⠀insert info}}$ ${\textsf{\color{#FF9C39}⠀insert info}}$⠀⠀ ${\textsf{\color{#AD4168}insert info}}$ 
-
-[rentry](https://rentry.co/Extrapersona3)ㅤ✦ㅤ[strawpage](https://httpshttpsprincezammiesstrawpagestrawpage.straw.page)ㅤ✦ㅤ[discord](https://discord.gg/jesslaziest)
+‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/78f06cf7dcd7b0f56e185ad193402040.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/1a1a2e1d2d756bc258546656492043c6.png" width="100"/></img></a>      </a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/51457fd8edc90acdb9d23a042bcc72cf.png" width="100"/><img></a>
 <br>
 <br>
 
