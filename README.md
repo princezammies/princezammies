@@ -41,7 +41,10 @@ ${\textsf{\color{#FF9C39}✦⠀Persona 5 .}}$
 <details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
-<br>
 
-<img align="https://img.sanishtech.com/u/1adbbda73c4acaec1fc7d846f5648809.png"
-width="200">
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/d7404177cee0e58a9a88b181565fcbaf.png"
+width="100">
+<details>
+<br>
