@@ -3,14 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
 <br>
 
-<div align="center">
-<img align="center" src="https://img.sanishtech.com/u/7d9a8cad1cc484fc8cce73083b6de9d3.png"
-width="200">
-
-${\textsf{\color{#AD4168}⠀insert info}}$
-${\textsf{\color{#AD4168}⠀insert info}}$
-${\textsf{\color{#AD4168}⠀insert info}}$
-
 <br>
 <br>
 
@@ -19,7 +11,7 @@ ${\textsf{\color{#AD4168}⠀insert info}}$
       <td>
         <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/2ecd1990d5c158ebcacb0b05d2eb8cf1.png"
+<img align="right" src="https://img.sanishtech.com/u/7d9a8cad1cc484fc8cce73083b6de9d3.png"
 width="350">
 
 ${\textsf{\color{#FF9C39}✦⠀実に異例な .}}$
