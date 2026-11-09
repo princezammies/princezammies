@@ -4,15 +4,10 @@
 <br>
 
 <div align="center">
-
-${\textsf{\color{#AD4168}⠀insert info}}$
-<img align="right" src="https://img.sanishtech.com/u/d9c80a91ce346af1843e89600f9b58f3.png"
+<img align="center" src="https://img.sanishtech.com/u/7d9a8cad1cc484fc8cce73083b6de9d3.png"
 width="200">
 
 ${\textsf{\color{#AD4168}⠀insert info}}$
-<img align="left" src="https://img.sanishtech.com/u/07022057c8709a10a9f60df4c21d42a9.png"
-width="200">
-
 ${\textsf{\color{#AD4168}⠀insert info}}$
 ${\textsf{\color{#AD4168}⠀insert info}}$
 
