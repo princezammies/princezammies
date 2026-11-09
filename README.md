@@ -11,6 +11,11 @@ ${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info�
 
 ${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert info}}$
 
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/f2e15e0a22e6ad0e1cf22be275fed8b8.png"
+width="200">
+
   <table>
     <tr>      
       <td>
