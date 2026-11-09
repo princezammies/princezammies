@@ -27,6 +27,10 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 <br>
 <br>
 
+<div align="center">
+
+✦
+
 <br>
 <br>
 
