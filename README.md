@@ -2,26 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
 
-<div align="center">
-
-<img align="left" src="https://img.sanishtech.com/u/fa8d1c25f945b96dc5ff2cc157cc21cc.png"
-width="200">
-
-${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert infi}}$
-
-${\textsf{\color{#AD4168}insert info⠀}}$ ${\textsf{\color{#1A367A}insert info⠀⠀}}$ ${\textsf{\color{#FF9C39}insert info}}$
-
-<div align="center">
-
-<img src="https://img.sanishtech.com/u/f2e15e0a22e6ad0e1cf22be275fed8b8.png"
-width="90">
-
   <table>
     <tr>      
       <td>
         <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/623ad4e408b2b1e47775c23944f95e1e.png"
+<img align="right" src="https://img.sanishtech.com/u/2e8f3d17f7814f6a7f7064195cb15534.png"
 width="350">
 
 ${\textsf{\color{#FF9C39}✦⠀実に異例な .}}$
