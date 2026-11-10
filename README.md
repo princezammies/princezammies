@@ -8,7 +8,7 @@
         <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/2e8f3d17f7814f6a7f7064195cb15534.png"
-width="350">
+width="300">
 
 ${\textsf{\color{#FF9C39}✦⠀実に異例な .}}$
 
