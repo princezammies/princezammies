@@ -1,5 +1,7 @@
 <div align="center">
 
+still a wip
+
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
 
   <table>
@@ -33,7 +35,7 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 ${\textsf{\color{#FF9C39}lele}}$
 
-${\textsf{\color{#FF9C39}✦⠀Persona 5 .}}$
+${\textsf{\color{#FF9C39}✦⠀insert info .}}$
 
 <br>
 <br>
