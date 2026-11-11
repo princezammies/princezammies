@@ -51,6 +51,8 @@ width="100">
 <br>
 <br>
 
+<div align="center">
+
 <table>
     <tr>      
       <td>
