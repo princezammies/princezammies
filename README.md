@@ -29,6 +29,11 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 <div align="center">
 
+<img src="https://img.sanishtech.com/u/d4bab24750ca0e8edfed5f273417c26f.png"
+width="250">
+
+<div align="center">
+
 ‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/3935627a859ac099fe218444f8bbb9b1.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/215308d802239eacfabe8d680954b291.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/75a08a0a3354a087d0e19697c6e3004e.png" width="100"/><img></a>
 <br>
 <br>
