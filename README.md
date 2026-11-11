@@ -63,6 +63,7 @@ width="100">
 <br>
 
 ⠀ ${\textsf{\color{#BCEAA2}⠀⠀used to}}$ ${\textsf{\color{#C6EBA1}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#BCEAA2}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/f38c018a169fb1023bf5b0a566f1fc36.gif" width="20" alt="lele">
+</table>
 
 <div align="center">
 
@@ -70,6 +71,5 @@ width="100">
 width="90">
 
 ${\textsf{\color{#C6EBA1}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/881e051571c96c6ba4954269c73a04d2.gif" width="20" alt="lele">
-</table>
 
 <br>
