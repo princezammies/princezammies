@@ -5,15 +5,14 @@
 <img src="https://img.sanishtech.com/u/39181fb5a5d926554d6d76246963a124.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ $${\color{#558A66}✦ㅤ}$$ $${\color{#276658}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#276658}_mnnd_}$$ $${\color{#276658}onㅤ}$$ </br>
-$${\color{#558A66}x}$$ $${\color{#B0A271}.}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}✦}$$ </br>
+<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
+$${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}.}$$ ㅤ $${\color{#C6EBA1}or}$$ $${\color{#3DD8A7}✦}$$ </br>
 
 <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/c36db82e0d4ac47a808025b4ed2726da.png" width="200">
 
-$${\color{#558A66}ㅤ✦}$$ $${\color{#276658}ㅤ}$$ $${\color{#B0A271}美しいもの}$$ ㅤ $${\color{#276658}~}$$ $${\color{#276658}ㅤ!}$$ </br>
-$${\color{#558A66}>0<}$$ $${\color{#B0A271}.}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}ㅤ}$$ </br> 
+$${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEAA2}~ㅤ}$$ ㅤ $${\color{#C6EBA1}!}$$ $${\color{#276658}>0 }$$ </br>
 
 <div align="center">
 
@@ -21,7 +20,8 @@ $${\color{#558A66}>0<}$$ $${\color{#B0A271}.}$$ ㅤ $${\color{#276658}or}$$ $${\
 
 <div align="center">
 
- ${\textsf{\color{#C6EBA1}⠀⠀insert info}}$ ${\textsf{\color{#3DD8A7}⠀insert info}}$⠀⠀ ${\textsf{\color{#BCEAA2}insert info}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
+$${\color{#BCEAA2}insert}$$ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}insert}$$ ㅤ $${\color{#BCEAA2}info}$$ $${\color{#3DD8A7}insert}$$ </br>
+$${\color{#C6EBA1}info}$$ $${\color{#BCEAA2}insert}$$ ㅤ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}.}$$ </br> <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
 
   <table>
     <tr>      
