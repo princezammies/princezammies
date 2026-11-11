@@ -37,9 +37,11 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 ✦
 
-${\textsf{\color{#FF9C39}lele}}$
+<br>
 
-${\textsf{\color{#FF9C39}✦⠀insert info .}}$
+<img src="https://img.sanishtech.com/u/98976a439ab88140302ab211d840661b.gif" width="20" alt="lele">⠀ ${\textsf{\color{#DE9953}⠀⠀le}}$ ${\textsf{\color{#DF784B}⠀le}}$⠀⠀ ${\textsf{\color{#C35248}:3}}$ 
+
+⠀ ${\textsf{\color{#DE9953}⠀✦}}$ ${\textsf{\color{#DF784B}⠀insert}}$⠀⠀ ${\textsf{\color{#C35248}info}}$ <img src="https://img.sanishtech.com/u/01bdd4c86d173af89c8e469d2d329d8f.gif" width="20" alt="lele">
 
 <br>
 <br>
