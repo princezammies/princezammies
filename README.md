@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="https://img.sanishtech.com/u/39181fb5a5d926554d6d76246963a124.png"
+width="200">
+
+<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ ${\textsf{\color{#BCEAA2}⠀⠀ic:}}$ ${\textsf{\color{#C6EBA1}⠀_mnnd_}}$⠀⠀ ${\textsf{\color{#3DD8A7}on x. }}$ 
+
+<div align="center">
+
 <img align="right" src="https://img.sanishtech.com/u/c36db82e0d4ac47a808025b4ed2726da.png" width="200">
 
 ⠀${\textsf{\color{#3DD8A7}✦⠀⠀}}$ ${\textsf{\color{#C6EBA1}⠀愛らしい小さな子供}}$⠀⠀ ${\textsf{\color{#BCEAA2}~}}$ 
@@ -12,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="lele">⠀ ${\textsf{\color{#C6EBA1}⠀⠀insert info}}$ ${\textsf{\color{#3DD8A7}⠀insert info}}$⠀⠀ ${\textsf{\color{#BCEAA2}insert info}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
+ ${\textsf{\color{#C6EBA1}⠀⠀insert info}}$ ${\textsf{\color{#3DD8A7}⠀insert info}}$⠀⠀ ${\textsf{\color{#BCEAA2}insert info}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
 
   <table>
     <tr>      
