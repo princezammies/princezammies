@@ -6,7 +6,7 @@
 width="200">
 
 <img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
-$${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}.}$$ ㅤ $${\color{#C6EBA1}or}$$ $${\color{#3DD8A7}✦}$$ </br>
+$${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}yey}$$ ㅤ $${\color{#C6EBA1}~}$$ $${\color{#3DD8A7}.}$$ </br>
 
 <div align="center">
 
