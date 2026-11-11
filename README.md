@@ -6,6 +6,10 @@ still a wip
 
 <div align="center">
 
+<img align="left" src="https://img.sanishtech.com/u/ef06796d6b0d2ac65478f2f1d36a445d.png" width="200">
+
+<div align="center">
+
 <img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="lele">⠀ ${\textsf{\color{#C6EBA1}⠀⠀insert info}}$ ${\textsf{\color{#3DD8A7}⠀insert info}}$⠀⠀ ${\textsf{\color{#BCEAA2}insert info}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
 
   <table>
