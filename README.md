@@ -18,11 +18,11 @@ width="300">
 
 ${\textsf{\color{#FF9C39}✦⠀実に異例な .}}$
 
-${\textsf{\color{#AD4168}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#1A367A}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#FF9C39}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
+<img src="https://img.sanishtech.com/u/52bcede858ece09c32ac025211bc9dcb.gif" width="30" alt="lele"> ${\textsf{\color{#AD4168}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#1A367A}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#FF9C39}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
 
 ${\textsf{\color{#1A367A}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\color{#AD4168}𝙖𝙧𝙤𝙖𝙘𝙚 𝙖𝙘𝙚⠀⠀}}$ ${\textsf{\color{#FF9C39}-14 𝙙𝙣𝙞 / 𝙞𝙬𝙚𝙘}}$
 
-${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#FF9C39}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#1A367A}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$
+${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#FF9C39}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#1A367A}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$ <img src="https://img.sanishtech.com/u/2b444a663b6ded84af646d8f51202061.gif" width="30" alt="lele">
 </table>
 <br>
 <br>
