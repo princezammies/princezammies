@@ -42,6 +42,16 @@ ${\textsf{\color{#3DD8A7}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 <div align="center">
 
+<img align="left" src="https://img.sanishtech.com/u/87cc9ff0254481640e8c6f8ff7818522.png" width="100">
+
+${\textsf{\color{#C6EBA1}⠀✦}}$
+
+<img align="right" src="https://img.sanishtech.com/u/97ee8fc69a46b24a870300e9ca5ce5f1.png" width="100">
+
+${\textsf{\color{#BCEAA2}⠀美しいもの!}}$
+
+<div align="center">
+
 <img src="https://img.sanishtech.com/u/d4bab24750ca0e8edfed5f273417c26f.png"
 width="100">
 
