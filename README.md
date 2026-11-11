@@ -30,7 +30,7 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/d4bab24750ca0e8edfed5f273417c26f.png"
-width="250">
+width="100">
 
 <div align="center">
 
