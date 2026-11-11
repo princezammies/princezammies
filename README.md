@@ -51,6 +51,11 @@ width="100">
 <br>
 <br>
 
+<table>
+    <tr>      
+      <td>
+        <div align="center">
+
 <details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
 <br>
 
@@ -65,5 +70,6 @@ width="100">
 width="90">
 
 ${\textsf{\color{#C6EBA1}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/881e051571c96c6ba4954269c73a04d2.gif" width="20" alt="lele">
+</table>
 
 <br>
