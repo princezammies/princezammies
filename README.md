@@ -50,6 +50,9 @@ ${\textsf{\color{#C6EBA1}⠀✦}}$
 
 ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$
 
+<br>
+<br>
+
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/d4bab24750ca0e8edfed5f273417c26f.png"
