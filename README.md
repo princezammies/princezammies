@@ -50,6 +50,9 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+<br>
+
+⠀ ${\textsf{\color{#DE9953}⠀⠀used to}}$ ${\textsf{\color{#DF784B}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#C35248}& @URAHARA-KI}}$ 
 
 <div align="center">
 
