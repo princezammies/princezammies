@@ -52,11 +52,13 @@ ${\textsf{\color{#AD4168}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
 <br>
 
-⠀ ${\textsf{\color{#DE9953}⠀⠀used to}}$ ${\textsf{\color{#DF784B}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#C35248}& @URAHARA-KI}}$ 
+⠀ ${\textsf{\color{#DE9953}⠀⠀used to}}$ ${\textsf{\color{#DF784B}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#C35248}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/f38c018a169fb1023bf5b0a566f1fc36.gif" width="20" alt="lele">
 
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/e2ee8b011ad5a4ef1e6d3a98598c601b.png"
 width="90">
+
+${\textsf{\color{#AD4168}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/881e051571c96c6ba4954269c73a04d2.gif" width="20" alt="lele">
 
 <br>
