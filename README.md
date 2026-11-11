@@ -1,6 +1,8 @@
 <div align="center">
 
-still a wip
+<img align="right" src="https://img.sanishtech.com/u/c36db82e0d4ac47a808025b4ed2726da.png" width="200">
+
+⠀${\textsf{\color{#3DD8A7}✦⠀⠀}}$ ${\textsf{\color{#C6EBA1}⠀愛らしい小さな子供}}$⠀⠀ ${\textsf{\color{#BCEAA2}~}}$ 
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=3DD8A7&style=flat-square&label=CHIIKAWA+&base=0)
 
