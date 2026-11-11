@@ -6,7 +6,7 @@ still a wip
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="lele">⠀ ${\textsf{\color{#DE9953}⠀⠀𝓐𝘃er}}$ ${\textsf{\color{#DF784B}⠀ᵒʳ}}$⠀⠀ ${\textsf{\color{#C35248}𝓝𝗶α}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
+<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="lele">⠀ ${\textsf{\color{#DE9953}⠀⠀insert info}}$ ${\textsf{\color{#DF784B}⠀insert info}}$⠀⠀ ${\textsf{\color{#C35248}insert info}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
 
   <table>
     <tr>      
