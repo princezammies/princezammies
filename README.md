@@ -4,6 +4,10 @@ still a wip
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=FF9C39&style=flat-square&label=SCARS+&base=0)
 
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="lele">⠀ ${\textsf{\color{#DE9953}⠀⠀𝓐𝘃er}}$ ${\textsf{\color{#DF784B}⠀ᵒʳ}}$⠀⠀ ${\textsf{\color{#C35248}𝓝𝗶α}}$ <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
+
   <table>
     <tr>      
       <td>
