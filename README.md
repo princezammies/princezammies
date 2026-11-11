@@ -5,13 +5,15 @@
 <img src="https://img.sanishtech.com/u/39181fb5a5d926554d6d76246963a124.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ ${\textsf{\color{#BCEAA2}⠀⠀ic:}}$ ${\textsf{\color{#C6EBA1}⠀_mnnd_}}$⠀⠀ ${\textsf{\color{#3DD8A7}on x. }}$ 
+<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ $${\color{#558A66}✦ㅤ}$$ $${\color{#276658}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#276658}_mnnd_}$$ $${\color{#276658}onㅤ}$$ </br>
+$${\color{#558A66}x}$$ $${\color{#B0A271}.}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}✦}$$ </br>
 
 <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/c36db82e0d4ac47a808025b4ed2726da.png" width="200">
 
-⠀${\textsf{\color{#3DD8A7}✦⠀⠀}}$ ${\textsf{\color{#C6EBA1}⠀愛らしい小さな子供}}$⠀⠀ ${\textsf{\color{#BCEAA2}~}}$ 
+$${\color{#558A66}ㅤ✦}$$ $${\color{#276658}ㅤ}$$ $${\color{#B0A271}美しいもの}$$ ㅤ $${\color{#276658}~}$$ $${\color{#276658}ㅤ!}$$ </br>
+$${\color{#558A66}>0<}$$ $${\color{#B0A271}.}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}ㅤ}$$ </br> 
 
 <div align="center">
 
