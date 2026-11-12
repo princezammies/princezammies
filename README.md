@@ -2,53 +2,53 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=3DD8A7&style=flat-square&label=CHIIKAWA+&base=0)
 
-<img src="https://img.sanishtech.com/u/39181fb5a5d926554d6d76246963a124.png"
+<img src="https://img.sanishtech.com/u/44446ef6fe10894ba1d98bd97ea3d351.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/42164366dde642e989dc0059b85a54de.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
+<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
 $${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}yey}$$ ㅤ $${\color{#C6EBA1}~}$$ $${\color{#3DD8A7}.}$$ </br>
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/c36db82e0d4ac47a808025b4ed2726da.png" width="200">
+<img align="right" src="https://img.sanishtech.com/u/c3c1de3c90c6d8b764f429946bdc6ca5.png" width="200">
 
 $${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEAA2}~ㅤ}$$ ㅤ $${\color{#C6EBA1}!}$$ $${\color{#276658}>0 }$$ </br>
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/ef06796d6b0d2ac65478f2f1d36a445d.png" width="200">
+<img align="left" src="https://img.sanishtech.com/u/2d377a5c2dfb672fe9299d0de0c5b440.png" width="200">
 
 <div align="center">
 
 $${\color{#BCEAA2}insert}$$ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}insert}$$ ㅤ $${\color{#BCEAA2}info}$$ $${\color{#3DD8A7}insert}$$ </br>
-$${\color{#C6EBA1}info}$$ $${\color{#BCEAA2}insert}$$ ㅤ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}.}$$ </br> <img src="https://img.sanishtech.com/u/95750de64bf8909d9bd17a869beb7e5f.gif" width="20" alt="lele">
+$${\color{#C6EBA1}info}$$ $${\color{#BCEAA2}insert}$$ ㅤ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}.}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
 
   <table>
     <tr>      
       <td>
         <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/2e8f3d17f7814f6a7f7064195cb15534.png"
+<img align="right" src="https://img.sanishtech.com/u/d870bc0db955fd19c9452501c40fd650.png"
 width="300">
 
 ${\textsf{\color{#3DD8A7}✦⠀実に異例な .}}$
 
-<img src="https://img.sanishtech.com/u/52bcede858ece09c32ac025211bc9dcb.gif" width="30" alt="lele"> ${\textsf{\color{#BCEAA2}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#3DD8A7}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
+<img src="https://img.sanishtech.com/u/fe8b50aa2d4ae17d2fc9ada121b0e6ff.gif" width="30" alt="lele"> ${\textsf{\color{#BCEAA2}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#3DD8A7}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
 
 ${\textsf{\color{#C6EBA1}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\color{#3DD8A7}𝙖𝙧𝙤𝙖𝙘𝙚 𝙖𝙘𝙚⠀⠀}}$ ${\textsf{\color{#BCEAA2}-14 𝙙𝙣𝙞 / 𝙞𝙬𝙚𝙘}}$
 
-${\textsf{\color{#3DD8A7}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#BCEAA2}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$ <img src="https://img.sanishtech.com/u/2b444a663b6ded84af646d8f51202061.gif" width="30" alt="lele">
+${\textsf{\color{#3DD8A7}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#BCEAA2}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$ <img src="https://img.sanishtech.com/u/487372897f7f9f31bdb5dd1140bfbac9.gif" width="30" alt="lele">
 </table>
 <br>
 <br>
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/87cc9ff0254481640e8c6f8ff7818522.png" width="100">
+<img align="left" src="https://img.sanishtech.com/u/c76cc100dbabf50ca52a1516f702aee9.png" width="100">
 
 ${\textsf{\color{#C6EBA1}⠀✦}}$
 
-<img align="right" src="https://img.sanishtech.com/u/97ee8fc69a46b24a870300e9ca5ce5f1.png" width="100">
+<img align="right" src="https://img.sanishtech.com/u/64354d5b6d17e014d9f8488e31afd909.png" width="100">
 
 ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$
 
@@ -57,12 +57,12 @@ ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/d4bab24750ca0e8edfed5f273417c26f.png"
+<img src="https://img.sanishtech.com/u/cae3d3998716f6306031842b90156363.png"
 width="100">
 
 <div align="center">
 
-‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/3935627a859ac099fe218444f8bbb9b1.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/215308d802239eacfabe8d680954b291.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/75a08a0a3354a087d0e19697c6e3004e.png" width="100"/><img></a>
+‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/6845decd9e5cb0291290773d20a619b9.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/a862b71ae0b55a09abf4ceb2dab9e004.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/ca7c67f4cf9abb192efa6322b0d6be77.png" width="100"/><img></a>
 <br>
 <br>
 
@@ -72,9 +72,9 @@ width="100">
 
 <br>
 
-<img src="https://img.sanishtech.com/u/98976a439ab88140302ab211d840661b.gif" width="20" alt="lele">⠀ ${\textsf{\color{#C6EBA1}⠀⠀le}}$ ${\textsf{\color{#3DD8A7}⠀le}}$⠀⠀ ${\textsf{\color{#BCEAA2}:3}}$ 
+<img src="https://img.sanishtech.com/u/a2b74e431ab2137d8543866a9da9aae7.gif" width="20" alt="lele">⠀ ${\textsf{\color{#C6EBA1}⠀⠀le}}$ ${\textsf{\color{#3DD8A7}⠀le}}$⠀⠀ ${\textsf{\color{#BCEAA2}:3}}$ 
 
-⠀ ${\textsf{\color{#BCEAA2}⠀✦}}$ ${\textsf{\color{#3DD8A7}⠀insert}}$⠀⠀ ${\textsf{\color{#C6EBA1}info}}$ <img src="https://img.sanishtech.com/u/01bdd4c86d173af89c8e469d2d329d8f.gif" width="20" alt="lele">
+⠀ ${\textsf{\color{#BCEAA2}⠀✦}}$ ${\textsf{\color{#3DD8A7}⠀insert}}$⠀⠀ ${\textsf{\color{#C6EBA1}info}}$ <img src="https://img.sanishtech.com/u/078d25c7bd3309700d8e0d7c21fd6d6f.gif" width="20" alt="lele">
 
 <br>
 <br>
@@ -92,14 +92,14 @@ width="100">
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
 <br>
 
-⠀ ${\textsf{\color{#BCEAA2}⠀⠀used to}}$ ${\textsf{\color{#C6EBA1}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#BCEAA2}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/f38c018a169fb1023bf5b0a566f1fc36.gif" width="20" alt="lele">
+⠀ ${\textsf{\color{#BCEAA2}⠀⠀used to}}$ ${\textsf{\color{#C6EBA1}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#BCEAA2}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 </table>
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/e2ee8b011ad5a4ef1e6d3a98598c601b.png"
+<img src="https://img.sanishtech.com/u/4854f1ce880b33ce5aa44dcea950ccee.png"
 width="90">
 
-${\textsf{\color{#C6EBA1}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/881e051571c96c6ba4954269c73a04d2.gif" width="20" alt="lele">
+${\textsf{\color{#C6EBA1}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/f2e8b887d4dd93084d6b22b830cf7d66.gif" width="20" alt="lele">
 
 <br>
