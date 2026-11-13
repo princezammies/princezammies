@@ -5,8 +5,8 @@
 <img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
-$${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}yey}$$ ㅤ $${\color{#C6EBA1}~}$$ $${\color{#3DD8A7}.}$$ </br>
+<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}my}$$ $${\color{#B0A271}wayㅤ}$$ ㅤ $${\color{#BCEAA2}my own}$$ $${\color{#C6EBA1}things,ㅤ}$$ </br>
+$${\color{#3DD8A7}never}$$ $${\color{#BCEAA2}on}$$ ㅤ $${\color{#C6EBA1}my}$$ $${\color{#3DD8A7}things}$$ </br>
 
 <div align="center">
 
