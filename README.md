@@ -5,8 +5,8 @@
 <img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}my}$$ $${\color{#B0A271}wayㅤ}$$ ㅤ $${\color{#BCEAA2}my own}$$ $${\color{#C6EBA1}things,ㅤ}$$ </br>
-$${\color{#3DD8A7}never}$$ $${\color{#BCEAA2}on}$$ ㅤ $${\color{#C6EBA1}my}$$ $${\color{#3DD8A7}things}$$ </br>
+<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}jdz}$$ $${\color{#B0A271}or}$$ ㅤ $${\color{#BCEAA2}jess}$$ $${\color{#C6EBA1},ㅤ}$$ </br>
+$${\color{#3DD8A7}16 yo}$$ $${\color{#BCEAA2}he}$$ ㅤ $${\color{#C6EBA1}or}$$ $${\color{#3DD8A7}they}$$ </br>
 
 <div align="center">
 
@@ -20,8 +20,8 @@ $${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEA
 
 <div align="center">
 
-$${\color{#BCEAA2}insert}$$ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}insert}$$ ㅤ $${\color{#BCEAA2}info}$$ $${\color{#3DD8A7}insert}$$ </br>
-$${\color{#C6EBA1}info}$$ $${\color{#BCEAA2}insert}$$ ㅤ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}.}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
+$${\color{#BCEAA2}heavy}$$ $${\color{#3DD8A7}social}$$ $${\color{#C6EBA1}anxiety,}$$ ㅤ $${\color{#BCEAA2}transmasc}$$ $${\color{#3DD8A7}aroace/ace}$$ </br>
+$${\color{#C6EBA1}✦}$$ $${\color{#BCEAA2}basic dnis}$$ ㅤ $${\color{#3DD8A7}and fndms dniuid}$$ $${\color{#C6EBA1},w2i always}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
 
 <div align="center">
 
