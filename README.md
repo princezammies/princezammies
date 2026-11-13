@@ -38,12 +38,7 @@ ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/cae3d3998716f6306031842b90156363.png"
-width="100">
-
-<div align="center">
-
-‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/6845decd9e5cb0291290773d20a619b9.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/a862b71ae0b55a09abf4ceb2dab9e004.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/ca7c67f4cf9abb192efa6322b0d6be77.png" width="100"/><img></a>
+‎</a> <a href=https://rentry.co/Extrapersona3><img src="https://img.sanishtech.com/u/0a880a054b3327ce97946e4187dacce8.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/c54cb0b3227b76039576a519805ab0c5.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/5740e1bb65f489bbcef5e2ba1c7aa6a1.png" width="100"/><img></a>
 <br>
 <br>
 
