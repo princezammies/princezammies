@@ -23,25 +23,6 @@ $${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEA
 $${\color{#BCEAA2}insert}$$ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}insert}$$ ㅤ $${\color{#BCEAA2}info}$$ $${\color{#3DD8A7}insert}$$ </br>
 $${\color{#C6EBA1}info}$$ $${\color{#BCEAA2}insert}$$ ㅤ $${\color{#3DD8A7}info}$$ $${\color{#C6EBA1}.}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
 
-  <table>
-    <tr>      
-      <td>
-        <div align="center">
-
-<img align="right" src="https://img.sanishtech.com/u/d870bc0db955fd19c9452501c40fd650.png"
-width="300">
-
-${\textsf{\color{#3DD8A7}✦⠀実に異例な .}}$
-
-<img src="https://img.sanishtech.com/u/fe8b50aa2d4ae17d2fc9ada121b0e6ff.gif" width="30" alt="lele"> ${\textsf{\color{#BCEAA2}𝙟𝙙𝙯 / 𝙟𝙚𝙨𝙨⠀}}$ ${\textsf{\color{#3DD8A7}16 . 𝙝𝙚 𝙩𝙝𝙚𝙮⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙝𝙚𝙖𝙫𝙮 𝙨𝙤𝙘𝙞𝙖𝙡 𝙖𝙣𝙭𝙞𝙚𝙩𝙮}}$
-
-${\textsf{\color{#C6EBA1}𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙨𝙘⠀}}$ ${\textsf{\color{#3DD8A7}𝙖𝙧𝙤𝙖𝙘𝙚 𝙖𝙘𝙚⠀⠀}}$ ${\textsf{\color{#BCEAA2}-14 𝙙𝙣𝙞 / 𝙞𝙬𝙚𝙘}}$
-
-${\textsf{\color{#3DD8A7}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}$ ${\textsf{\color{#BCEAA2}⭑⠀𝙗𝙖𝙨𝙞𝙘 𝙙𝙣𝙞𝙨 𝙘𝙧𝙞𝙩𝙚𝙧𝙞𝙖⠀⠀}}$ ${\textsf{\color{#C6EBA1}𝙬2𝙞 𝙖𝙡𝙬𝙖𝙮𝙨 𝙨𝙡𝙤𝙬 𝙧𝙚𝙨𝙥}}$ <img src="https://img.sanishtech.com/u/487372897f7f9f31bdb5dd1140bfbac9.gif" width="30" alt="lele">
-</table>
-<br>
-<br>
-
 <div align="center">
 
 <img align="left" src="https://img.sanishtech.com/u/d38810ead31c2378966421f522ca2d4d.png" width="100">
