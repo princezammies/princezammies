@@ -44,11 +44,11 @@ ${\textsf{\color{#3DD8A7}𝙛𝙣𝙙𝙢𝙨 𝙙𝙣𝙞𝙪𝙞𝙙/𝙥⠀}}
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/c76cc100dbabf50ca52a1516f702aee9.png" width="100">
+<img align="left" src="https://img.sanishtech.com/u/d38810ead31c2378966421f522ca2d4d.png" width="100">
 
 ${\textsf{\color{#C6EBA1}⠀✦}}$
 
-<img align="right" src="https://img.sanishtech.com/u/64354d5b6d17e014d9f8488e31afd909.png" width="100">
+<img align="right" src="https://img.sanishtech.com/u/d1793ea088bccfbfb8ee1c9d040777f4.png" width="100">
 
 ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$
 
@@ -71,12 +71,6 @@ width="100">
 ✦
 
 <br>
-
-<img src="https://img.sanishtech.com/u/a2b74e431ab2137d8543866a9da9aae7.gif" width="20" alt="lele">⠀ ${\textsf{\color{#C6EBA1}⠀⠀le}}$ ${\textsf{\color{#3DD8A7}⠀le}}$⠀⠀ ${\textsf{\color{#BCEAA2}:3}}$ 
-
-⠀ ${\textsf{\color{#BCEAA2}⠀✦}}$ ${\textsf{\color{#3DD8A7}⠀insert}}$⠀⠀ ${\textsf{\color{#C6EBA1}info}}$ <img src="https://img.sanishtech.com/u/078d25c7bd3309700d8e0d7c21fd6d6f.gif" width="20" alt="lele">
-
-<br>
 <br>
 
 <div align="center">
@@ -94,12 +88,3 @@ width="100">
 
 ⠀ ${\textsf{\color{#BCEAA2}⠀⠀used to}}$ ${\textsf{\color{#C6EBA1}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#BCEAA2}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 </table>
-
-<div align="center">
-
-<img src="https://img.sanishtech.com/u/4854f1ce880b33ce5aa44dcea950ccee.png"
-width="90">
-
-${\textsf{\color{#C6EBA1}⠀私の男の子~}}$ <img src="https://img.sanishtech.com/u/f2e8b887d4dd93084d6b22b830cf7d66.gif" width="20" alt="lele">
-
-<br>
