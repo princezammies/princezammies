@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=3DD8A7&style=flat-square&label=CHIIKAWA+&base=0)
 
-<img src="https://img.sanishtech.com/u/44446ef6fe10894ba1d98bd97ea3d351.png"
+<img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
 width="200">
 
 <img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}ic}$$ $${\color{#B0A271}:ㅤ}$$ ㅤ $${\color{#BCEAA2}_mnnd_}$$ $${\color{#C6EBA1}onㅤ}$$ </br>
@@ -10,13 +10,13 @@ $${\color{#3DD8A7}x}$$ $${\color{#BCEAA2}yey}$$ ㅤ $${\color{#C6EBA1}~}$$ $${\c
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/c3c1de3c90c6d8b764f429946bdc6ca5.png" width="200">
+<img align="right" src="https://img.sanishtech.com/u/b5aae5b87d0ec53dcd790c808afa97c7.png" width="200">
 
 $${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEAA2}~ㅤ}$$ ㅤ $${\color{#C6EBA1}!}$$ $${\color{#276658}>0 }$$ </br>
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/2d377a5c2dfb672fe9299d0de0c5b440.png" width="200">
+<img align="left" src="https://img.sanishtech.com/u/e5d8b8696f9182faf6ed9f132a17e8f6.png" width="200">
 
 <div align="center">
 
