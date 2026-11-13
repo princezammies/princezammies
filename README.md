@@ -27,11 +27,11 @@ $${\color{#C6EBA1}✦}$$ $${\color{#BCEAA2}basic dnis}$$ ㅤ $${\color{#3DD8A7}a
 
 <img align="left" src="https://img.sanishtech.com/u/d38810ead31c2378966421f522ca2d4d.png" width="100">
 
-<img src="https://img.sanishtech.com/u/843c4ff9e9209f0176f13bf85bd9569d.gif" width="70" alt="lele"> ${\textsf{\color{#C6EBA1}⠀✦}}$
+<img src="https://img.sanishtech.com/u/843c4ff9e9209f0176f13bf85bd9569d.gif" width="30" alt="lele"> ${\textsf{\color{#C6EBA1}⠀✦}}$
 
 <img align="right" src="https://img.sanishtech.com/u/d1793ea088bccfbfb8ee1c9d040777f4.png" width="100">
 
-${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech.com/u/e81e264ff30fadefebcc294fa792bde2.gif" width="70" alt="lele">
+${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech.com/u/e81e264ff30fadefebcc294fa792bde2.gif" width="30" alt="lele">
 
 <br>
 <br>
