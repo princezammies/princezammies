@@ -48,13 +48,13 @@ ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech
 
 <div align="center">
 
-$${\color{#C6EBA1}makeㅤ}$$ $${\color{#3DD8A7}it}$$ $${\color{#B0A271}something}$$ ㅤ $${\color{#BCEAA2}special}$$ $${\color{#C6EBA1}for}$$ </br>
+<img src="https://img.sanishtech.com/u/c06129e1a3e8b763d34484379243d514.gif" width="30" alt="lele"> $${\color{#C6EBA1}makeㅤ}$$ $${\color{#3DD8A7}it}$$ $${\color{#B0A271}something}$$ ㅤ $${\color{#BCEAA2}special}$$ $${\color{#C6EBA1}for}$$ </br>
 $${\color{#3DD8A7}ourselves}$$ $${\color{#BCEAA2}on}$$ ㅤ $${\color{#C6EBA1}our}$$ $${\color{#3DD8A7}own}$$ </br>
 
 ✦
 
 $${\color{#C6EBA1}thenㅤ}$$ $${\color{#3DD8A7}make}$$ $${\color{#B0A271}it}$$ ㅤ $${\color{#BCEAA2}right}$$ $${\color{#C6EBA1}fromㅤ}$$ </br>
-$${\color{#3DD8A7}them }$$ $${\color{#BCEAA2}even if}$$ ㅤ $${\color{#C6EBA1}its}$$ $${\color{#3DD8A7}hurts}$$ </br>
+$${\color{#3DD8A7}them }$$ $${\color{#BCEAA2}even if}$$ ㅤ $${\color{#C6EBA1}its}$$ $${\color{#3DD8A7}hurts}$$ </br> <img src="https://img.sanishtech.com/u/8bf0f8660ddbfc837beb5cf3904545ba.gif" width="30" alt="lele">
 
 <br>
 <br>
