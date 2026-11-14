@@ -1,18 +1,18 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=3DD8A7&style=flat-square&label=CHIIKAWA+&base=0)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
 <img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#C6EBA1}✦ㅤ}$$ $${\color{#3DD8A7}jdz}$$ $${\color{#B0A271}or}$$ ㅤ $${\color{#BCEAA2}jess}$$ $${\color{#C6EBA1},ㅤ}$$ </br>
-$${\color{#3DD8A7}16 yo}$$ $${\color{#BCEAA2}he}$$ ㅤ $${\color{#C6EBA1}or}$$ $${\color{#3DD8A7}they}$$ </br>
+<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#FACEC2}✦ㅤ}$$ $${\color{#A0CBE6}jdz}$$ $${\color{#EAD195}or}$$ ㅤ $${\color{#F6C4A0}jess}$$ $${\color{#FACEC2},ㅤ}$$ </br>
+$${\color{#A0CBE6}16 yo}$$ $${\color{#EAD195}he}$$ ㅤ $${\color{#F6C4A0}or}$$ $${\color{#FACEC2}they}$$ </br>
 
 <div align="center">
 
 <img align="right" src="https://img.sanishtech.com/u/b5aae5b87d0ec53dcd790c808afa97c7.png" width="200">
 
-$${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEAA2}~ㅤ}$$ ㅤ $${\color{#C6EBA1}!}$$ $${\color{#276658}>0 }$$ </br>
+$${\color{#F6C4A0}ㅤ✦}$$ $${\color{#EAD195}美しいもの}$$ $${\color{#A0CBE6}~ㅤ}$$ ㅤ $${\color{#FACEC2}!}$$ $${\color{#F6C4A0}>0 }$$ </br>
 
 <div align="center">
 
@@ -20,18 +20,18 @@ $${\color{#C6EBA1}ㅤ✦}$$ $${\color{#3DD8A7}美しいもの}$$ $${\color{#BCEA
 
 <div align="center">
 
-$${\color{#BCEAA2}heavy}$$ $${\color{#3DD8A7}social}$$ $${\color{#C6EBA1}anxiety,}$$ ㅤ $${\color{#BCEAA2}transmasc}$$ $${\color{#3DD8A7}aroace/ace}$$ </br>
-$${\color{#C6EBA1}✦}$$ $${\color{#BCEAA2}basic dnis}$$ ㅤ $${\color{#3DD8A7}and fndms dniuid}$$ $${\color{#C6EBA1},w2i always}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
+$${\color{#FACEC2}heavy}$$ $${\color{#A0CBE6}social}$$ $${\color{#EAD195}anxiety,}$$ ㅤ $${\color{#F6C4A0}transmasc}$$ $${\color{#FACEC2}aroace/ace}$$ </br>
+$${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}and fndms dniuid}$$ $${\color{#FACEC2},w2i always}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
 
 <div align="center">
 
 <img align="left" src="https://img.sanishtech.com/u/d38810ead31c2378966421f522ca2d4d.png" width="100">
 
-<img src="https://img.sanishtech.com/u/843c4ff9e9209f0176f13bf85bd9569d.gif" width="30" alt="lele"> ${\textsf{\color{#C6EBA1}⠀✦}}$
+<img src="https://img.sanishtech.com/u/843c4ff9e9209f0176f13bf85bd9569d.gif" width="30" alt="lele"> ${\textsf{\color{#FACEC2}⠀✦}}$
 
 <img align="right" src="https://img.sanishtech.com/u/d1793ea088bccfbfb8ee1c9d040777f4.png" width="100">
 
-${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech.com/u/e81e264ff30fadefebcc294fa792bde2.gif" width="30" alt="lele">
+${\textsf{\color{#A0CBE6}⠀美しいもの!}}$ <img src="https://img.sanishtech.com/u/e81e264ff30fadefebcc294fa792bde2.gif" width="30" alt="lele">
 
 <br>
 <br>
@@ -48,13 +48,13 @@ ${\textsf{\color{#BCEAA2}⠀美しいもの!}}$ <img src="https://img.sanishtech
 
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/c06129e1a3e8b763d34484379243d514.gif" width="30" alt="lele"> $${\color{#C6EBA1}makeㅤ}$$ $${\color{#3DD8A7}it}$$ $${\color{#B0A271}something}$$ ㅤ $${\color{#BCEAA2}special}$$ $${\color{#C6EBA1}for}$$ </br>
-$${\color{#3DD8A7}ourselves}$$ $${\color{#BCEAA2}on}$$ ㅤ $${\color{#C6EBA1}our}$$ $${\color{#3DD8A7}own}$$ </br>
+<img src="https://img.sanishtech.com/u/c06129e1a3e8b763d34484379243d514.gif" width="30" alt="lele"> $${\color{#FACEC2}makeㅤ}$$ $${\color{#A0CBE6}it}$$ $${\color{#EAD195}something}$$ ㅤ $${\color{#F6C4A0}special}$$ $${\color{#FACEC2}for}$$ </br>
+$${\color{#A0CBE6}ourselves}$$ $${\color{#EAD195}on}$$ ㅤ $${\color{#CF6C4A0}our}$$ $${\color{#FACEC2}own}$$ </br>
 
 ✦
 
-$${\color{#C6EBA1}thenㅤ}$$ $${\color{#3DD8A7}make}$$ $${\color{#B0A271}it}$$ ㅤ $${\color{#BCEAA2}right}$$ $${\color{#C6EBA1}fromㅤ}$$ </br>
-$${\color{#3DD8A7}them }$$ $${\color{#BCEAA2}even if}$$ ㅤ $${\color{#C6EBA1}its}$$ $${\color{#3DD8A7}hurts}$$ </br> <img src="https://img.sanishtech.com/u/8bf0f8660ddbfc837beb5cf3904545ba.gif" width="30" alt="lele">
+$${\color{#F6C4A0}thenㅤ}$$ $${\color{#EAD195}make}$$ $${\color{#A0CBE6}it}$$ ㅤ $${\color{#FACEC2}right}$$ $${\color{#F6C4A0}fromㅤ}$$ </br>
+$${\color{#EAD195}them }$$ $${\color{#A0CBE6}even if}$$ ㅤ $${\color{#FACEC2}its}$$ $${\color{#F6C4A0}hurts}$$ </br> <img src="https://img.sanishtech.com/u/8bf0f8660ddbfc837beb5cf3904545ba.gif" width="30" alt="lele">
 
 <br>
 <br>
@@ -72,7 +72,7 @@ $${\color{#3DD8A7}them }$$ $${\color{#BCEAA2}even if}$$ ㅤ $${\color{#C6EBA1}it
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
 <br>
 
-⠀ ${\textsf{\color{#BCEAA2}⠀⠀used to}}$ ${\textsf{\color{#C6EBA1}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#BCEAA2}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
+⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 </table>
 
 ————————
