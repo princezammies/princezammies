@@ -42,7 +42,7 @@ ${\textsf{\color{#A0CBE6}⠀美しいもの!}}$ <img src="https://img.sanishtech
 
 ————————
 
-‎</a> <a href=https://rentry.co/CHIIKAWA1><img src="https://img.sanishtech.com/u/0a880a054b3327ce97946e4187dacce8.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/c54cb0b3227b76039576a519805ab0c5.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/5740e1bb65f489bbcef5e2ba1c7aa6a1.png" width="100"/><img></a>
+‎</a> <a href=https://rentry.co/chiikawa3><img src="https://img.sanishtech.com/u/0a880a054b3327ce97946e4187dacce8.png" width="100"/></img></a>ㅤㅤㅤ </a> <a href=https://httpshttpsprincezammiesstrawpagestrawpage.straw.page><img src="https://img.sanishtech.com/u/c54cb0b3227b76039576a519805ab0c5.png" width="100"/></img></a>ㅤㅤㅤ</a> <a href=https://discord.gg/jesslaziest><img src="https://img.sanishtech.com/u/5740e1bb65f489bbcef5e2ba1c7aa6a1.png" width="100"/><img></a>
 <br>
 <br>
 
