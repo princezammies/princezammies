@@ -3,11 +3,11 @@
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
 <p align="center">
-  <a href="https://httpshttpsprincezammiesstrawpagestrawpage.straw.page"><img src="https://img.shields.io/badge/STRAW-F6C4A0?style=plain&labelColor=EAD195" /></a>
+  <a href="https://httpshttpsprincezammiesstrawpagestrawpage.straw.page"><img src="https://img.shields.io/badge/STRAW-F5EBD3?style=plain&labelColor=EAD195" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;
-  <a href="https://rentry.co/chiikawa3"><img src="https://img.shields.io/badge/RENTRY-F6C4A0?style=plain&labelColor=FACEC2" /></a>
+  <a href="https://rentry.co/chiikawa3"><img src="https://img.shields.io/badge/RENTRY-F5EBD3?style=plain&labelColor=FACEC2" /></a>
   &nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/jesslaziest"><img src="https://img.shields.io/badge/DISCORD-F6C4A0?style=plain&labelColor=A0CBE6" /></a>
+  <a href="https://discord.gg/jesslaziest"><img src="https://img.shields.io/badge/DISCORD-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
 
 <img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
