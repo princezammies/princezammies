@@ -38,11 +38,6 @@ $${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}a
 
 <div align="center">
 
-<table>
-    <tr>      
-      <td>
-        <div align="center">
-
 <details> <summary>ㅤ𝙧𝙚𝙬𝙖𝙧𝙙𝙨 </summary>
 <br>
 
@@ -50,4 +45,4 @@ $${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}a
 <br>
 
 ⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
-</details>
+
