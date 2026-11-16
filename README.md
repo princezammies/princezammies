@@ -51,3 +51,12 @@ $${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info
 
 ⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 
+<details> <summary>ㅤ❦ </summary>
+<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/cfe939122f86aff567e9a1a1b817ffd0.jpg"
+width="100">
+
+do you like gunshow bcz i LOVE gunshow
+
