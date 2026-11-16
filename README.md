@@ -12,7 +12,7 @@ wip
   <a href="https://discord.gg/jesslaziest"><img src="https://img.shields.io/badge/DISCORD-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
 
-<img align="left" src="https://img.sanishtech.com/u/6b0d830fbc0f59cc3c8e3ec902d9f091.png"
+<img align="left" src="https://img.sanishtech.com/u/48b441e7fd1e8a4a563a907110a8144b.png"
 width="200">
 
 <img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#FACEC2}✦ㅤ}$$ $${\color{#A0CBE6}jdz}$$ $${\color{#EAD195}or}$$ ㅤ $${\color{#F6C4A0}jess}$$ $${\color{#FACEC2},ㅤ}$$ </br>
@@ -20,13 +20,13 @@ $${\color{#A0CBE6}16 yo}$$ $${\color{#EAD195}he}$$ ㅤ $${\color{#F6C4A0}or}$$ $
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/b5aae5b87d0ec53dcd790c808afa97c7.png" width="200">
+<img align="right" src="https://img.sanishtech.com/u/76f0c6ec4eb867a0fa6a2220f5fb758a.png" width="200">
 
 $${\color{#F6C4A0}ㅤ✦}$$ $${\color{#EAD195}美しいもの}$$ $${\color{#A0CBE6}~ㅤ}$$ ㅤ $${\color{#FACEC2}!}$$ $${\color{#F6C4A0}>0 }$$ </br>
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/e5d8b8696f9182faf6ed9f132a17e8f6.png" width="200">
+<img align="left" src="https://img.sanishtech.com/u/afe0f0612874feb46ba0d26b27cf9b05.png" width="200">
 
 <div align="center">
 
