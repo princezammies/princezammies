@@ -11,20 +11,20 @@
 </p>
 
 <img align="left" src="https://img.sanishtech.com/u/48b441e7fd1e8a4a563a907110a8144b.png"
-width="200">
+width="150">
 
 <img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#FACEC2}✦ㅤ}$$ $${\color{#A0CBE6}jdz}$$ $${\color{#EAD195}or}$$ ㅤ $${\color{#F6C4A0}jess}$$ $${\color{#FACEC2},ㅤ}$$ </br>
 $${\color{#A0CBE6}16 yo}$$ $${\color{#EAD195}he}$$ ㅤ $${\color{#F6C4A0}or}$$ $${\color{#FACEC2}they}$$ </br>
 
 <div align="center">
 
-<img align="right" src="https://img.sanishtech.com/u/76f0c6ec4eb867a0fa6a2220f5fb758a.png" width="200">
+<img align="right" src="https://img.sanishtech.com/u/76f0c6ec4eb867a0fa6a2220f5fb758a.png" width="150">
 
 $${\color{#F6C4A0}ㅤ✦}$$ $${\color{#EAD195}美しいもの}$$ $${\color{#A0CBE6}~ㅤ}$$ ㅤ $${\color{#FACEC2}!}$$ $${\color{#F6C4A0}>0 }$$ </br>
 
 <div align="center">
 
-<img align="left" src="https://img.sanishtech.com/u/afe0f0612874feb46ba0d26b27cf9b05.png" width="200">
+<img align="left" src="https://img.sanishtech.com/u/afe0f0612874feb46ba0d26b27cf9b05.png" width="150">
 
 <div align="center">
 
@@ -34,7 +34,7 @@ $${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}a
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/202d9680fb5bbef19ae88547df50caac.png"
-width="100">
+width="200">
 
 $${\color{#FACEC2}insert}$$ $${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info}$$ $${\color{#FACEC2}insert}$$ </br>
 $${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info}$$ $${\color{#FACEC2}insert info}$$ </br>
