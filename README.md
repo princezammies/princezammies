@@ -50,8 +50,9 @@ $${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info
 <br>
 
 ⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
+</details>
 
-<details> <summary>ㅤ❦ </summary>
+<details> <summary>ㅤ✐ </summary>
 <br>
 
 <div align="center">
