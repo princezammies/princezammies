@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;
   <a href="https://rentry.co/chiikawa3"><img src="https://img.shields.io/badge/RENTRY-F5EBD3?style=plain&labelColor=FACEC2" /></a>
   &nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/jesslaziest"><img src="https://img.shields.io/badge/DISCORD-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
+  <a href="https://chiikawaop.carrd.co"><img src="https://img.shields.io/badge/CARRD-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
 
 <img align="left" src="https://img.sanishtech.com/u/48b441e7fd1e8a4a563a907110a8144b.png"
