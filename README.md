@@ -30,7 +30,6 @@ $${\color{#F6C4A0}ㅤ✦}$$ $${\color{#EAD195}美しいもの}$$ $${\color{#A0CB
 
 $${\color{#FACEC2}heavy}$$ $${\color{#A0CBE6}social}$$ $${\color{#EAD195}anxiety,}$$ ㅤ $${\color{#F6C4A0}transmasc}$$ $${\color{#FACEC2}aroace/ace}$$ </br>
 $${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}and fndms dniuid}$$ $${\color{#FACEC2},w2i always}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
-<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/202d9680fb5bbef19ae88547df50caac.png"
