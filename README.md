@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://httpshttpsprincezammiesstrawpagestrawpage.straw.page"><img src="https://img.shields.io/badge/STRAW-F5EBD3?style=plain&labelColor=EAD195" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;
-  <a href="https://rentry.co/chiikawa3"><img src="https://img.shields.io/badge/RENTRY-F5EBD3?style=plain&labelColor=FACEC2" /></a>
+  <a href="https://rentry.co/chiikawaop"><img src="https://img.shields.io/badge/RENTRY-F5EBD3?style=plain&labelColor=FACEC2" /></a>
   &nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;&nbsp;
   <a href="https://prns.cc/qmckg"><img src="https://img.shields.io/badge/PRNSCC-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
