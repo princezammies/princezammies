@@ -25,6 +25,10 @@ width="200">
          <br>
 ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤinsertㅤ\color{#A0CBE6}infoㅤ\color{#005c9e}insertㅤ\color{#FACEC2}infoㅤ}}$</sub> <img src="https://img.sanishtech.com/u/797a2f83a5ee7ee43cfdf9c70392b2f8.gif" width="30" alt="lele">
 <br>
+<br>
+
+<img align="left" src="https://img.sanishtech.com/u/4877668ac667b8ccc94235e53ae92921.png"
+width="100">
 
 <div align="center">
 
