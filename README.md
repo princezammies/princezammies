@@ -13,17 +13,17 @@
 <img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
 width="200">
 
-<img src="https://img.sanishtech.com/u/b3ccea3d18c780130cf37cb3b92012fb.gif" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#FACEC2}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
+<img src="https://img.sanishtech.com/u/b3ccea3d18c780130cf37cb3b92012fb.gif" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ㅤjdz / jessㅤ\color{#FACEC2}16.yoㅤ\color{#005c9e}he theyㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#FACEC2}youㅤ\color{#005c9e}can'tㅤ\color{#A0CBE6}breatheㅤ}}$</sub>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤheavy social anxietyㅤ\color{#FACEC2}, low systemㅤ\color{#005c9e}easily tiredㅤ\color{#A0CBE6}or sleepyㅤ}}$</sub>
 
-<sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#A0CBE6}devourㅤ\color{#005c9e}youㅤ\color{#FACEC2}wholeㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ㅤtrans mascㅤ\color{#A0CBE6}aroace aceㅤ\color{#005c9e}basic dnisㅤ\color{#FACEC2}w2i alwaysㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#FACEC2}youㅤ\color{#005c9e}can'tㅤ\color{#A0CBE6}breatheㅤ}}$</sub>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤfndms dniuid/partyㅤ\color{#FACEC2},multifandomsㅤ\color{#005c9e}c+h freelyㅤ\color{#A0CBE6}idm.ㅤ}}$</sub>
 
-<sub>$\color{#FACEC2}{\textsf{ㅤI'llㅤ\color{#EAD195}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
+<sub>$\color{#FACEC2}{\textsf{ㅤsemiㅤ\color{#EAD195}or antiㅤ\color{#005c9e}activeㅤ\color{#A0CBE6}on ptㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#A0CBE6}youㅤ\color{#005c9e}can'tㅤ\color{#FACEC2}breatheㅤ}}$</sub> <img src="https://img.sanishtech.com/u/797a2f83a5ee7ee43cfdf9c70392b2f8.gif" width="30" alt="lele">
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤinsertㅤ\color{#A0CBE6}infoㅤ\color{#005c9e}insertㅤ\color{#FACEC2}infoㅤ}}$</sub> <img src="https://img.sanishtech.com/u/797a2f83a5ee7ee43cfdf9c70392b2f8.gif" width="30" alt="lele">
 <br>
 
 <div align="center">
