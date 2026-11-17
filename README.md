@@ -13,27 +13,17 @@
 <img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
 width="200">
 
-<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#FACEC2}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#FACEC2}youㅤ\color{#005c9e}can'tㅤ\color{#A0CBE6}breatheㅤ}}$</sub>
 
-<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#A0CBE6}devourㅤ\color{#005c9e}youㅤ\color{#FACEC2}wholeㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#FACEC2}youㅤ\color{#005c9e}can'tㅤ\color{#A0CBE6}breatheㅤ}}$</sub>
 
-<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+<sub>$\color{#FACEC2}{\textsf{ㅤI'llㅤ\color{#EAD195}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
-<br>
-
-<div align="center">
-<img src="https://img.sanishtech.com/u/202d9680fb5bbef19ae88547df50caac.png"
-width="200">
-
-$${\color{#FACEC2}insert}$$ $${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info}$$ $${\color{#FACEC2}insert}$$ </br>
-$${\color{#A0CBE6}info}$$ $${\color{#EAD195}insert}$$ ㅤ $${\color{#F6C4A0}info}$$ $${\color{#FACEC2}insert info}$$ </br>
-
-<br>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#A0CBE6}youㅤ\color{#005c9e}can'tㅤ\color{#FACEC2}breatheㅤ}}$</sub>
 <br>
 
 <div align="center">
