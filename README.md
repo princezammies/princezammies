@@ -11,7 +11,7 @@
 </p>
 
 <img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
-width="250">
+width="200">
 
 <sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
          <br>
