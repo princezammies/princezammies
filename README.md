@@ -10,26 +10,21 @@
   <a href="https://chiikawaop.carrd.co"><img src="https://img.shields.io/badge/CARRD-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
 
-<img align="left" src="https://img.sanishtech.com/u/48b441e7fd1e8a4a563a907110a8144b.png"
-width="150">
+<img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
+width="250">
 
-<img src="https://img.sanishtech.com/u/a9459e71ff40f55fb9b602afc0716902.gif" width="20" alt="yum">⠀ $${\color{#FACEC2}✦ㅤ}$$ $${\color{#A0CBE6}jdz}$$ $${\color{#EAD195}or}$$ ㅤ $${\color{#F6C4A0}jess}$$ $${\color{#FACEC2},ㅤ}$$ </br>
-$${\color{#A0CBE6}16 yo}$$ $${\color{#EAD195}he}$$ ㅤ $${\color{#F6C4A0}or}$$ $${\color{#FACEC2}they}$$ </br>
+<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+         <br>
+ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
 
-<div align="center">
+<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+         <br>
+ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
 
-<img align="right" src="https://img.sanishtech.com/u/76f0c6ec4eb867a0fa6a2220f5fb758a.png" width="150">
-
-$${\color{#F6C4A0}ㅤ✦}$$ $${\color{#EAD195}美しいもの}$$ $${\color{#A0CBE6}~ㅤ}$$ ㅤ $${\color{#FACEC2}!}$$ $${\color{#F6C4A0}>0 }$$ </br>
-
-<div align="center">
-
-<img align="left" src="https://img.sanishtech.com/u/afe0f0612874feb46ba0d26b27cf9b05.png" width="150">
-
-<div align="center">
-
-$${\color{#FACEC2}heavy}$$ $${\color{#A0CBE6}social}$$ $${\color{#EAD195}anxiety,}$$ ㅤ $${\color{#F6C4A0}transmasc}$$ $${\color{#FACEC2}aroace/ace}$$ </br>
-$${\color{#A0CBE6}✦}$$ $${\color{#EAD195}basic dnis}$$ ㅤ $${\color{#F6C4A0}and fndms dniuid}$$ $${\color{#FACEC2},w2i always}$$ </br> <img src="https://img.sanishtech.com/u/bb3049edafaac2fdaf733ca9fb58f819.gif" width="20" alt="lele">
+<sub>$\color{#29d9be}{\textsf{ㅤI'llㅤ\color{#0099ad}devourㅤ\color{#005c9e}youㅤ\color{#002e91}wholeㅤ}}$</sub>
+         <br>
+ㅤㅤ<sub>$\color{#29d9be}{\textsf{ㅤUntilㅤ\color{#0099ad}youㅤ\color{#005c9e}can'tㅤ\color{#002e91}breatheㅤ}}$</sub>
+<br>
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/202d9680fb5bbef19ae88547df50caac.png"
