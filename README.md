@@ -13,7 +13,7 @@
 <img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
 width="200">
 
-<sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#FACEC2}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
+<img src="https://img.sanishtech.com/u/b3ccea3d18c780130cf37cb3b92012fb.gif" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ㅤI'llㅤ\color{#FACEC2}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
          <br>
 ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#FACEC2}youㅤ\color{#005c9e}can'tㅤ\color{#A0CBE6}breatheㅤ}}$</sub>
 
@@ -23,7 +23,7 @@ width="200">
 
 <sub>$\color{#FACEC2}{\textsf{ㅤI'llㅤ\color{#EAD195}devourㅤ\color{#005c9e}youㅤ\color{#A0CBE6}wholeㅤ}}$</sub>
          <br>
-ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#A0CBE6}youㅤ\color{#005c9e}can'tㅤ\color{#FACEC2}breatheㅤ}}$</sub>
+ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤUntilㅤ\color{#A0CBE6}youㅤ\color{#005c9e}can'tㅤ\color{#FACEC2}breatheㅤ}}$</sub> <img src="https://img.sanishtech.com/u/797a2f83a5ee7ee43cfdf9c70392b2f8.gif" width="30" alt="lele">
 <br>
 
 <div align="center">
