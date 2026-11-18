@@ -14,7 +14,7 @@ width="300">
 </p>
 
 <img align="right" src="https://img.sanishtech.com/u/1386214c472d695b787863e3af965797.png"
-width="200">
+width="150">
 
 <img src="https://img.sanishtech.com/u/b3ccea3d18c780130cf37cb3b92012fb.gif" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ㅤjdz / jessㅤ\color{#FACEC2}16.yoㅤ\color{#005c9e}he theyㅤ\color{#A0CBE6}.ㅤ}}$</sub>
          <br>
