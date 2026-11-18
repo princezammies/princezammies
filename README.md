@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://img.sanishtech.com/u/b44095569b544b67a66fe325ceab9ffd.png"
+width="300">
+
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
 <p align="center">
@@ -89,3 +92,7 @@ width="100">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
   </a>
 </p>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/c0091fdcf1f47c6586f034882340b457.png"
+width="300">
