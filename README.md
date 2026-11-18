@@ -85,7 +85,5 @@ width="100">
 <sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/347df22572c3788b8b2a072c09855503.png" width="30" alt="lele">
 
 <div align="center">
-  <a href="https://github.com/chiikawaop/spotify-github-profile">
-    <img src="https://spotify-github-profile.chiikawaop.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
-  </a>
-</p>
+  <a href="https://www.last.fm/user/chiikawaop">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xau55gmj5ufec2bl4hbxh2zl24&cover_image=true&theme=novatorem&show_offline=false&background_color=07A196&interchange=false&profanity=false&bar_color=FFFFFF&bar_color_cover=false">
