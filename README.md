@@ -51,7 +51,7 @@ width="100">
 do you like gunshow bcz i LOVE gunshow
 </details>
 
-<sub>$\color{#EAD195}{\textsf{ insert infoㅤ\color{#FACEC2}insert infoㅤ\color{#005c9e}insert infoㅤ\color{#A0CBE6}insert infoㅤ}}$</sub>
+<img src="https://img.sanishtech.com/u/dca1d33c7819ebf9f4e38db21f6b3824.png" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ insert infoㅤ\color{#FACEC2}insert infoㅤ\color{#005c9e}insert infoㅤ\color{#A0CBE6}insert infoㅤ}}$</sub>
          <br>
 ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤinsert infoㅤ\color{#FACEC2}insert infoㅤ\color{#005c9e}insert infoㅤ\color{#A0CBE6}insert infoㅤ}}$</sub> <img src="https://img.sanishtech.com/u/cd98d733b41a76f6c9f192a00f8d43a1.png" width="30" alt="lele">
 
