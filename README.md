@@ -83,3 +83,9 @@ width="100">
 <sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
 
 <sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/347df22572c3788b8b2a072c09855503.png" width="30" alt="lele">
+
+<div align="center">
+  <a href="https://github.com/chiikawaop/spotify-github-profile">
+    <img src="https://spotify-github-profile.chiikawaop.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=RED OUT&show_offline=false&background_color=EAD195&interchange=false&profanity=false&hide_remaster=false&bar_color=FACEC2&bar_color_cover=true">
+  </a>
+</p>
