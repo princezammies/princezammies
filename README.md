@@ -55,3 +55,19 @@ do you like gunshow bcz i LOVE gunshow
          <br>
 ㅤㅤ<sub>$\color{#EAD195}{\textsf{ㅤinsert infoㅤ\color{#FACEC2}insert infoㅤ\color{#005c9e}insert infoㅤ\color{#A0CBE6}insert infoㅤ}}$</sub> <img src="https://img.sanishtech.com/u/cd98d733b41a76f6c9f192a00f8d43a1.png" width="30" alt="lele">
 
+<br>
+<br>
+
+<img align="left" src="https://img.sanishtech.com/u/74319ab8409574e38a663040527d0c20.png" width="100">
+
+<sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
+
+<sub>$\color{#EAD195}{\textsf{ go to sleepㅤ\color{#FACEC2}forever likeㅤ\color{#005c9e}the good childㅤ\color{#A0CBE6}you are!ㅤ}}$</sub> <img src="https://img.sanishtech.com/u/fa389f5ba90557a0ed0959d48c183d3f.png" width="40" alt="lele>
+
+<img align="right" src="https://img.sanishtech.com/u/0d982a84f64f0aadcb4f0dee3033161e.png" width="100">
+
+<img src="https://img.sanishtech.com/u/e3d3d02b612308167aba52ab6a68ddca.png" width="40" alt="lele"> <sub>$\color{#EAD195}{\textsf{ i can show youㅤ\color{#FACEC2}sweet dreams foreverㅤ\color{#005c9e}i can be with youㅤ\color{#A0CBE6}until you die! ㅤ}}$</sub>
+
+<sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
+
+<sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
