@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/53623e7bcc19bde85ead4129c46e2fcb.png"
-width="200">
+width="300">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
@@ -95,4 +95,4 @@ width="100">
 
 <div align="center">
 <img src="https://img.sanishtech.com/u/bc26fdb75b683f8c3a6c0d04f08ee7e7.png"
-width="200">
+width="300">
