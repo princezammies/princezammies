@@ -58,6 +58,13 @@ do you like gunshow bcz i LOVE gunshow
 <br>
 <br>
 
+<div align="center">
+<img src="https://img.sanishtech.com/u/170f7232452f784b12dcb79e77c967ba.png"
+width="100">
+
+<br>
+<br>
+
 <img align="left" src="https://img.sanishtech.com/u/74319ab8409574e38a663040527d0c20.png" width="200">
 
 <sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
