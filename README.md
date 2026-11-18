@@ -59,8 +59,13 @@ do you like gunshow bcz i LOVE gunshow
 <br>
 
 <div align="center">
+
+ ${\textsf{\color{#FACEC2}✦⠀ love us}}$
+
 <img src="https://img.sanishtech.com/u/170f7232452f784b12dcb79e77c967ba.png"
 width="100">
+
+ ${\textsf{\color{#EAD195}together.⠀ ⠀}}$
 
 <br>
 <br>
