@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.sanishtech.com/u/b44095569b544b67a66fe325ceab9ffd.png"
+<img src="https://img.sanishtech.com/u/53623e7bcc19bde85ead4129c46e2fcb.png"
 width="200">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
@@ -94,5 +94,5 @@ width="100">
 </p>
 
 <div align="center">
-<img src="https://img.sanishtech.com/u/c0091fdcf1f47c6586f034882340b457.png"
+<img src="https://img.sanishtech.com/u/bc26fdb75b683f8c3a6c0d04f08ee7e7.png"
 width="200">
