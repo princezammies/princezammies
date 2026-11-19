@@ -21,7 +21,7 @@ width="200">
 
 <sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
 
-<sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/f4545be4348291b6c201037ebc0518ce.gif" width="30" alt="lele">
+<sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/318cfdca5a8a3d4cf8edc1aaa376f122.gif" width="30" alt="lele">
 
 <div align="center">
 
