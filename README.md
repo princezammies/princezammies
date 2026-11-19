@@ -7,7 +7,7 @@
 
 <img src="https://img.sanishtech.com/u/69ad2c1732e64587a8dcdd770a6d9e45.png" width="20" alt="lele"> ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/0f42df1eeb81efdd0fcfe95effb9d44b.png" width="20" alt="lele">
 
-<sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
 
 ────୨ৎ────
 
@@ -16,7 +16,7 @@
 <img src="https://img.sanishtech.com/u/d979243c55fa58d72bcbf78192809d60.png"
 width="90">
 
-<sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ not a singleㅤ\color{#FACEC2}personㅤ\color{#005c9e}wouldㅤ\color{#A0CBE6}noticeㅤ}}$</sub>
 
 <div align="center">
   <table>
