@@ -10,7 +10,7 @@
   <a href="https://prns.cc/qmckg"><img src="https://img.shields.io/badge/PRNSCC-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
 </p>
 
-<img align="left" src="https://img.sanishtech.com/u/4730a6c6ca2fc919e4242fb16a84c5bf.png" 
+<img align="left" src="https://img.sanishtech.com/u/841d128ada7633483f1a6c573715559a.png" 
 width="200">
 
 <img src="https://img.sanishtech.com/u/bc24cbb5c0479a1373fd89bd63f308c3.png" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
@@ -34,7 +34,7 @@ width="200">
 ⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 </details>
 
-<img align="right" src="https://img.sanishtech.com/u/ae6d7b9536ffcf3e28ea59cea15349db.png"
+<img align="right" src="https://img.sanishtech.com/u/24d8d43bfd1e6cfd22f1040a61578366.png"
 width="200">
 
 <sub>$\color{#EAD195}{\textsf{ i dont int that muchㅤ\color{#FACEC2}w2i slow respㅤ\color{#005c9e}i always afkㅤ\color{#A0CBE6}basic dnisㅤ}}$</sub>
