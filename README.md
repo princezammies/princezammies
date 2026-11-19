@@ -13,7 +13,7 @@
 <img align="left" src="https://img.sanishtech.com/u/4730a6c6ca2fc919e4242fb16a84c5bf.png" 
 width="200">
 
-<img src="https://img.sanishtech.com/u/bc24cbb5c0479a1373fd89bd63f308c3.png" width="30" alt="lele> <sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
+<img src="https://img.sanishtech.com/u/bc24cbb5c0479a1373fd89bd63f308c3.png" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
 
 <sub>$\color{#EAD195}{\textsf{ go to sleepㅤ\color{#FACEC2}forever likeㅤ\color{#005c9e}the good childㅤ\color{#A0CBE6}you are!ㅤ}}$</sub> <img src="https://img.sanishtech.com/u/9181448c94c86ecc96eee3edb62b1ec1.png" width="30" alt="lele">
 
