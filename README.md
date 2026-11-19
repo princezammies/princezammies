@@ -27,6 +27,14 @@ width="200">
 </details>
 
 <div align="center">
+
+<details> <summary>ㅤ@ </summary>
+<br>
+
+[nox](https://github.com/transadori)ㅤ[luc](https://github.com/toewrestlergod3000)ㅤ[koro](https://github.com/suselle)ㅤ[cam](https://github.com/cme-o)ㅤ[sundew](https://github.com/FLY-PAPER-TRAP)ㅤ[clydi](https://github.com/c-p3usion)ㅤ[chal](https://github.com/chalazias)ㅤ[jackie](https://github.com/denguemon)ㅤ[wumble](https://github.com/tirgery123)ㅤ[shig](https://github.com/deepaffection)
+</details>
+
+<div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
   </a>
