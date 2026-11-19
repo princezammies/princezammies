@@ -23,6 +23,20 @@ width="200">
 
 <sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/347df22572c3788b8b2a072c09855503.png" width="30" alt="lele">
 
+<br>
+<br>
+
+<div align="center">
+
+<details> <summary>ㅤ❦ </summary>
+<br>
+
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+<br>
+
+⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
+</details>
+
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
