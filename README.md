@@ -28,10 +28,9 @@ width="90">
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
 <br>
-</table>
 
 @CATAL0G & @URAHARA-KI (old user)
-</details>
+</table>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
