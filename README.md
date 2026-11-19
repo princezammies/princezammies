@@ -9,6 +9,13 @@
 
 <sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
 
+────୨ৎ────
+
+<div align="center">
+
+<img src="https://img.sanishtech.com/u/d979243c55fa58d72bcbf78192809d60.png"
+width="100">
+
 <sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
 
 <div align="center">
