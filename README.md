@@ -58,3 +58,10 @@ width="90">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
   </a>
 </p>
+<br>
+
+<div align="center">
+<img src="https://img.sanishtech.com/u/d948d63c8383c59a7099f8f5e7d7ab1c.gif"
+width="100">
+
+<sub>$\color{#EAD195}{\textsf{ do iㅤ\color{#FACEC2}look soㅤ\color{#005c9e}kawaiiㅤ\color{#A0CBE6}*sends heart emojiㅤ}}$</sub>
