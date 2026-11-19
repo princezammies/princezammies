@@ -7,6 +7,20 @@
 
 <img src="https://img.sanishtech.com/u/69ad2c1732e64587a8dcdd770a6d9e45.png" width="20" alt="lele"> ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/0f42df1eeb81efdd0fcfe95effb9d44b.png" width="20" alt="lele">
 
+sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
+
+sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
+
+<div align="center">
+
+<details> <summary>ㅤ❦ </summary>
+<br>
+
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+<br>
+
+@CATAL0G & @URAHARA-KI (old user)
+</details>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
