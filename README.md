@@ -23,9 +23,6 @@ width="200">
 
 <sub>$\color{#EAD195}{\textsf{ i alwaysㅤ\color{#FACEC2}believeㅤ\color{#005c9e}youㅤ\color{#A0CBE6}lying childㅤ}}$</sub> <img src="https://img.sanishtech.com/u/347df22572c3788b8b2a072c09855503.png" width="30" alt="lele">
 
-<br>
-<br>
-
 <div align="center">
 
 <details> <summary>ㅤ❦ </summary>
