@@ -13,9 +13,9 @@
 <img align="left" src="https://img.sanishtech.com/u/4730a6c6ca2fc919e4242fb16a84c5bf.png" 
 width="200">
 
-<sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
+<img src="https://img.sanishtech.com/u/bc24cbb5c0479a1373fd89bd63f308c3.png" width="30" alt="lele> <sub>$\color{#EAD195}{\textsf{ good childㅤ\color{#FACEC2}good childㅤ\color{#005c9e}you're suchㅤ\color{#A0CBE6}a good childㅤ}}$</sub>
 
-<sub>$\color{#EAD195}{\textsf{ go to sleepㅤ\color{#FACEC2}forever likeㅤ\color{#005c9e}the good childㅤ\color{#A0CBE6}you are!ㅤ}}$</sub> <img src="https://img.sanishtech.com/u/fa389f5ba90557a0ed0959d48c183d3f.png" width="30" alt="lele">
+<sub>$\color{#EAD195}{\textsf{ go to sleepㅤ\color{#FACEC2}forever likeㅤ\color{#005c9e}the good childㅤ\color{#A0CBE6}you are!ㅤ}}$</sub> <img src="https://img.sanishtech.com/u/9181448c94c86ecc96eee3edb62b1ec1.png" width="30" alt="lele">
 
 <img src="https://img.sanishtech.com/u/e3d3d02b612308167aba52ab6a68ddca.png" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ i can show youㅤ\color{#FACEC2}sweet dreams foreverㅤ\color{#005c9e}i can be with youㅤ\color{#A0CBE6}until you die! ㅤ}}$</sub>
 
