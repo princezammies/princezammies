@@ -2,14 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/e145fdd6c61295e39d18cc7fd0a4d8ce.gif" width="30" alt="lele">
 
-<p align="center">
-  <a href="https://httpshttpsprincezammiesstrawpagestrawpage.straw.page"><img src="https://img.shields.io/badge/STRAW-F5EBD3?style=plain&labelColor=EAD195" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;
-  <a href="https://rentry.co/chiikawaop"><img src="https://img.shields.io/badge/RENTRY-F5EBD3?style=plain&labelColor=FACEC2" /></a>
-  &nbsp;&nbsp;&nbsp;˖&nbsp;&nbsp;&nbsp;
-  <a href="https://prns.cc/qmckg"><img src="https://img.shields.io/badge/PRNSCC-F5EBD3?style=plain&labelColor=A0CBE6" /></a>
-</p>
-
 <img align="left" src="https://img.sanishtech.com/u/841d128ada7633483f1a6c573715559a.png" 
 width="200">
 
@@ -33,13 +25,6 @@ width="200">
 
 ⠀ ${\textsf{\color{#F6C4A0}⠀⠀used to}}$ ${\textsf{\color{#EAD195}⠀be @CATAL0G}}$⠀⠀ ${\textsf{\color{#A0CBE6}& @URAHARA-KI}}$ <img src="https://img.sanishtech.com/u/69fd19fbce60d709c6672251017ba531.gif" width="20" alt="lele">
 </details>
-
-<img align="right" src="https://img.sanishtech.com/u/24d8d43bfd1e6cfd22f1040a61578366.png"
-width="200">
-
-<img src="https://img.sanishtech.com/u/f4545be4348291b6c201037ebc0518ce.gif" width="30" alt="lele"> <sub>$\color{#EAD195}{\textsf{ i dont int that muchㅤ\color{#FACEC2}w2i slow respㅤ\color{#005c9e}i always afkㅤ\color{#A0CBE6}basic dnisㅤ}}$</sub>
-
-<sub>$\color{#EAD195}{\textsf{ semiㅤ\color{#FACEC2}orㅤ\color{#005c9e}antiㅤ\color{#A0CBE6}activeㅤ}}$</sub> <img src="https://img.sanishtech.com/u/318cfdca5a8a3d4cf8edc1aaa376f122.gif" width="30" alt="lele">
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
