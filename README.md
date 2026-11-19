@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/e145fdd6c61295e39d18cc7fd0a4d8ce.gif" width="30" alt="lele">
 
 <p align="center">
   <a href="https://httpshttpsprincezammiesstrawpagestrawpage.straw.page"><img src="https://img.shields.io/badge/STRAW-F5EBD3?style=plain&labelColor=EAD195" /></a>
