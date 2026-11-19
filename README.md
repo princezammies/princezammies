@@ -2,7 +2,7 @@
   <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="70%" valign="middle" align="center" style="border: none; padding-right: 15px;">
-      <img src="https://img.sanishtech.com/u/a0f6b358194bf3a122ec2136ddc8e525.png" width="97%" height="300" alt="image">  
+      <img src="https://img.sanishtech.com/u/a0f6b358194bf3a122ec2136ddc8e525.png" width="100" alt="image">  
 <td width="50%" valign="top" align="center" style="border: none;"> 
 
 <img src="https://img.sanishtech.com/u/69ad2c1732e64587a8dcdd770a6d9e45.png" width="20" alt="lele"> ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/0f42df1eeb81efdd0fcfe95effb9d44b.png" width="20" alt="lele">
@@ -14,7 +14,7 @@
 <div align="center">
 
 <img src="https://img.sanishtech.com/u/d979243c55fa58d72bcbf78192809d60.png"
-width="100">
+width="90">
 
 <sub>$\color{#EAD195}{\textsf{ lying childㅤ\color{#FACEC2}lying childㅤ\color{#005c9e}you're such aㅤ\color{#A0CBE6}lying childㅤ}}$</sub>
 
