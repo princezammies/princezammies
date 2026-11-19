@@ -34,12 +34,3 @@ width="90">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
   </a>
 </p>
-
-<br>
-<br>
-
-<br>
-<br>
-
-<br>
-<br>
