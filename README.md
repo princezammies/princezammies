@@ -37,9 +37,9 @@ width="200">
 <img align="right" src="https://img.sanishtech.com/u/ae6d7b9536ffcf3e28ea59cea15349db.png"
 width="200">
 
-sub>$\color{#EAD195}{\textsf{ i dont int that muchㅤ\color{#FACEC2}w2i slow respㅤ\color{#005c9e}i always afkㅤ\color{#A0CBE6}basic dnisㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ i dont int that muchㅤ\color{#FACEC2}w2i slow respㅤ\color{#005c9e}i always afkㅤ\color{#A0CBE6}basic dnisㅤ}}$</sub>
 
-sub>$\color{#EAD195}{\textsf{ semiㅤ\color{#FACEC2}orㅤ\color{#005c9e}antiㅤ\color{#A0CBE6}activeㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{ semiㅤ\color{#FACEC2}orㅤ\color{#005c9e}antiㅤ\color{#A0CBE6}activeㅤ}}$</sub>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
