@@ -6,7 +6,14 @@
         <div align="left">
 <sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
 </table>
+<br>
+<br>
 
+
+  <table>
+    <tr>      
+      <td>
+        <div align="center">
 <details> <summary>ㅤawards </summary>
 <br>
 
@@ -15,10 +22,14 @@
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
-<detail>
+</table>>
 
 <br>
 
+  <table>
+    <tr>      
+      <td>
+        <div align="center">
 <details> <summary>ㅤoomfs </summary>
 <br>
 
@@ -34,7 +45,7 @@
 [feet licker](https://github.com/tirgery123)
 [deepaffection](https://github.com/deepaffection)
 [denguemon](https://github.com/denguemon)
-<detail>
+</table>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
