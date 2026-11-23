@@ -38,10 +38,7 @@
 [denguemon](https://github.com/denguemon)
 </details>
 
-<br>
-<br>
-
-<img src="https://file.garden/awJlyxKUoAW8oPo1/05287faf7984313b3a746c3791996f06.gif" width="100">
+<img src="https://file.garden/awJlyxKUoAW8oPo1/05287faf7984313b3a746c3791996f06.gif" width="200">
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
