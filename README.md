@@ -5,6 +5,7 @@
       <td>
         <div align="left">
 <sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
+</table>
 
 <details> <summary>ㅤawards </summary>
 <br>
@@ -14,6 +15,7 @@
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
+</detail>
 
 <br>
 
