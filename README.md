@@ -5,9 +5,11 @@
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul301_20261123095805.png" width="200">
 
 <div align="center">
-<sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{that's a stupid lineㅤ\color{#FACEC2},justㅤ\color{#005c9e}likeㅤ\color{#A0CBE6}thatㅤ}}$</sub>
 
-<sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
+<sub>$\color{#EAD195}{\textsf{cut and pasteㅤ\color{#FACEC2}cut and pasteㅤ\color{#005c9e}cut andㅤ\color{#A0CBE6}pasteㅤ}}$</sub>
+
+<sub>$\color{#EAD195}{\textsf{skinㅤ\color{#FACEC2}skinㅤ\color{#005c9e}skinㅤ\color{#A0CBE6}skin >.<ㅤ}}$</sub>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
