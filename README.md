@@ -11,7 +11,7 @@
 
 <sub>$\color{#EAD195}{\textsf{skinㅤ\color{#FACEC2}skinㅤ\color{#005c9e}skinㅤ\color{#A0CBE6}skin >.<ㅤ}}$</sub>
 
-<details> <summary>ㅤawards </summary>
+<details> <summary>ㅤαաαɾժs </summary>
 <br>
 
 [pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
@@ -21,7 +21,7 @@
 @CATAL0G & @URAHARA-KI (old user)
 </details>
 
-<details> <summary>ㅤoomfs </summary>
+<details> <summary> օօოբs </summary>
 <br>
 
 [transadori](https://github.com/transadori)
