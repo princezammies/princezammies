@@ -15,7 +15,7 @@
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
-</detail>
+<detail>
 
 <br>
 
@@ -34,7 +34,7 @@
 [feet licker](https://github.com/tirgery123)
 [deepaffection](https://github.com/deepaffection)
 [denguemon](https://github.com/denguemon)
-</detail>
+<detail>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
