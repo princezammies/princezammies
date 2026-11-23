@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
