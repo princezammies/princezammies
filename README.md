@@ -4,15 +4,7 @@
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul301_20261123095805.png" width="200">
 
-  <table>
-    <tr>      
-      <td>
-        <div align="left">
 <sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
-</table>
-<br>
-<br>
-
 
   <table>
     <tr>      
