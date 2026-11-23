@@ -5,7 +5,7 @@
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul301_20261123095805.png" width="200">
 
 <div align="center">
-<sub>$\color{#EAD195}{\textsf{that's a stupid lineㅤ\color{#FACEC2},justㅤ\color{#005c9e}likeㅤ\color{#A0CBE6}thatㅤ}}$</sub>
+<img align="https://file.garden/awJlyxKUoAW8oPo1/4686717b6eaf60760cf6202942010431.gif" width="20" alt="lele> <sub>$\color{#EAD195}{\textsf{that's a stupid lineㅤ\color{#FACEC2},justㅤ\color{#005c9e}likeㅤ\color{#A0CBE6}thatㅤ}}$</sub>
 
 <sub>$\color{#EAD195}{\textsf{cut and pasteㅤ\color{#FACEC2}cut and pasteㅤ\color{#005c9e}cut andㅤ\color{#A0CBE6}pasteㅤ}}$</sub>
 
