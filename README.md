@@ -38,6 +38,11 @@
 [denguemon](https://github.com/denguemon)
 </details>
 
+<br>
+<br>
+
+<img src="https://file.garden/awJlyxKUoAW8oPo1/05287faf7984313b3a746c3791996f06.gif" width="100">
+
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
