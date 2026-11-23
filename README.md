@@ -11,6 +11,33 @@
 
 <sub>$\color{#EAD195}{\textsf{skinㅤ\color{#FACEC2}skinㅤ\color{#005c9e}skinㅤ\color{#A0CBE6}skin >.<ㅤ}}$</sub>
 
+<details> <summary>ㅤawards </summary>
+<br>
+
+[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
+[marvelous-pt](https://github.com/marvelous-pt)
+<br>
+
+@CATAL0G & @URAHARA-KI (old user)
+<details>
+
+<details> <summary>ㅤoomfs </summary>
+<br>
+
+[transadori](https://github.com/transadori)
+[toewrestlergod3000](https://github.com/toewrestlergod3000)
+[suselle](https://github.com/suselle)
+[cme-o](https://github.com/cme-o)
+[FLY-PAPER-TRAP](https://github.com/FLY-PAPER-TRAP)
+[f1refist](https://github.com/f1refist)
+[xaoxly](https://github.com/xaoxly)
+[c-p3usion](https://github.com/c-p3usion)
+[chalazias](https://github.com/chalazias)
+[feet licker](https://github.com/tirgery123)
+[deepaffection](https://github.com/deepaffection)
+[denguemon](https://github.com/denguemon)
+<details>
+
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314mj376ifw4w4bqblq5xaczf7uu&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7178&interchange=false&profanity=false&hide_remaster=false&bar_color=cddbcc&bar_color_cover=true">
