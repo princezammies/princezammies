@@ -22,14 +22,7 @@
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
-</table>
-
 <br>
-
-  <table>
-    <tr>      
-      <td>
-        <div align="center">
 <details> <summary>ㅤoomfs </summary>
 <br>
 
