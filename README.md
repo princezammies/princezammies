@@ -22,7 +22,7 @@
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
-</table>>
+</table>
 
 <br>
 
