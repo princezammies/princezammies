@@ -1,3 +1,7 @@
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
+
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul301_20261123095805.png" width="200">
 
   <table>
