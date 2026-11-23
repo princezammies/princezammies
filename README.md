@@ -1,28 +1,11 @@
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="70%" valign="middle" align="center" style="border: none; padding-right: 15px;">
-      <img src="https://img.sanishtech.com/u/a0f6b358194bf3a122ec2136ddc8e525.png" width="200" alt="image">  
-<td width="50%" valign="top" align="center" style="border: none;"> 
+<img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul301_20261123095805.png" width="200">
 
-<img src="https://img.sanishtech.com/u/69ad2c1732e64587a8dcdd770a6d9e45.png" width="20" alt="lele"> ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://img.sanishtech.com/u/0f42df1eeb81efdd0fcfe95effb9d44b.png" width="20" alt="lele">
-
-<img src="https://img.sanishtech.com/u/43769a7cadfa05830826342b39e8b252.gif" width="20" alt="lele"> <sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
-
-────୨ৎ────
-
-<div align="center">
-
-<img src="https://img.sanishtech.com/u/d979243c55fa58d72bcbf78192809d60.png"
-width="90">
-
-<sub>$\color{#EAD195}{\textsf{ not a singleㅤ\color{#FACEC2}personㅤ\color{#005c9e}wouldㅤ\color{#A0CBE6}noticeㅤ}}$</sub> <img src="https://img.sanishtech.com/u/43769a7cadfa05830826342b39e8b252.gif" width="20" alt="lele">
-
-<div align="center">
   <table>
     <tr>      
       <td>
-        <div align="center">
+        <div align="left">
+<sub>$\color{#EAD195}{\textsf{even if i were toㅤ\color{#FACEC2}disappear fromㅤ\color{#005c9e}thisㅤ\color{#A0CBE6}worldㅤ}}$</sub>
+
 <details> <summary>ㅤawards </summary>
 <br>
 
@@ -31,12 +14,9 @@ width="90">
 <br>
 
 @CATAL0G & @URAHARA-KI (old user)
-</table>
 
-  <table>
-    <tr>      
-      <td>
-        <div align="center">
+<br>
+
 <details> <summary>ㅤoomfs </summary>
 <br>
 
@@ -52,7 +32,7 @@ width="90">
 [feet licker](https://github.com/tirgery123)
 [deepaffection](https://github.com/deepaffection)
 [denguemon](https://github.com/denguemon)
-</table>
+</detail>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
