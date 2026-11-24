@@ -6,7 +6,11 @@
 
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="90" alt="lele"> $${\color{#AB8C9D}kawa or}$$ $${\color{#868189}jess}$$ $${\color{#D4939B}16.yo}$$ ㅤ $${\color{#D8C3B7}he they}$$ $${\color{#AB8C9D}ftm}$$ </br>
 
+$${\color{#AB8C9D}mostly}$$ $${\color{#868189}not int}$$ $${\color{#D4939B}that}$$ ㅤ $${\color{#D8C3B7}much at}$$ $${\color{#AB8C9D}all}$$ </br>
+
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183814.png" width="150">
+
+$${\color{#AB8C9D}multifandoms}$$ $${\color{#868189}c+h idm}$$ $${\color{#D4939B}barely semi}$$ ㅤ $${\color{#D8C3B7}or anti}$$ $${\color{#AB8C9D}active}$$ </br>
 
 $${\color{#AB8C9D}transmasc}$$ $${\color{#868189}aroace}$$ $${\color{#D4939B}basic dnis}$$ ㅤ $${\color{#D8C3B7}heavy sleepy/tired}$$ $${\color{#AB8C9D}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="90" alt="lele">
 
