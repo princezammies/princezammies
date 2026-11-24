@@ -1,6 +1,10 @@
 <div align="center"
 
-![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
+<p align="center">
+  <img src="https://img.shields.io/badge/cuddles-20.701-D4939B?style=flat&labelColor=D8C3B7">
+  <img src="https://raw.githubusercontent.com/ABYSSALCHOIR/ABYSSALCHOIR/refs/heads/main/tumblr_b1edcbf3b21a9c6df7f9492ef3e421e2_06d20e01_250.gif" width="30">
+  <img src="https://img.shields.io/badge/cakes%20%E2%99%A1-10.500-AB8C9D?style=flat&labelColor=868189">
+</p>
 
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
 
