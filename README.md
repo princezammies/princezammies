@@ -31,6 +31,9 @@ $${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ �
 
 $${\color{#558A66}transmasc}$$ $${\color{#276658}aroace}$$ $${\color{#B0A271}basic dnis}$$ ㅤ $${\color{#276658}heavy sleepy/tired}$$ $${\color{#276658}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="50" alt="lele">
 
+<br>
+<br>
+
 <details> <summary>ㅤαաαɾժs </summary>
 <br>
 
@@ -40,6 +43,8 @@ $${\color{#558A66}transmasc}$$ $${\color{#276658}aroace}$$ $${\color{#B0A271}bas
 
 @CATAL0G & @URAHARA-KI (old user)
 </details>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
