@@ -25,11 +25,11 @@ $${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ �
 
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183739.png" width="100">
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="50" alt="lele"> $${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br>
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="50" alt="lele"> $${\color{#558A66}kawa or}$$ $${\color{#276658}jess}$$ $${\color{#B0A271}16.yo}$$ ㅤ $${\color{#276658}he they}$$ $${\color{#276658}ftm}$$ </br>
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183814.png" width="100">
 
-$${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="50" alt="lele">
+$${\color{#558A66}transmasc}$$ $${\color{#276658}aroace}$$ $${\color{#B0A271}basic dnis}$$ ㅤ $${\color{#276658}heavy sleepy/tired}$$ $${\color{#276658}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="50" alt="lele">
 
 <details> <summary>ㅤαաαɾժs </summary>
 <br>
