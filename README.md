@@ -12,6 +12,9 @@ $${\color{#558A66}17.yo}$$ $${\color{#B0A271}08/26}$$ ㅤ $${\color{#276658}or}$
 $${\color{#558A66}cam}$$ $${\color{#276658}or}$$ $${\color{#B0A271}cmeo}$$ ㅤ $${\color{#276658}♡}$$ $${\color{#276658}he}$$ </br>
 $${\color{#558A66}17.yo}$$ $${\color{#B0A271}08/26}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}it}$$ </br>
 
+<div align="center">
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
+
 <details> <summary>ㅤαաαɾժs </summary>
 <br>
 
