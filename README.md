@@ -2,7 +2,7 @@
 
 wip, please be patient.
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/161b2304b0fa651880957d4d8664a803.gif" width="20" alt="lele"> ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0) <img src="https://file.garden/awJlyxKUoAW8oPo1/161b2304b0fa651880957d4d8664a803.gif" width="20" alt="lele">
+![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
 <details> <summary>ㅤαաαɾժs </summary>
 <br>
@@ -13,8 +13,6 @@ wip, please be patient.
 
 @CATAL0G & @URAHARA-KI (old user)
 </details>
-
-<img src="https://file.garden/awJlyxKUoAW8oPo1/05287faf7984313b3a746c3791996f06.gif" width="200">
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
