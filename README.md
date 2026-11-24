@@ -10,13 +10,13 @@
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163420.png" width="305" height="200">
 
-$${\color{#558A66}more}$$ $${\color{#276658}than}$$ $${\color{#B0A271}i}$$ ㅤ $${\color{#276658}do}$$ $${\color{#276658}now}$$ </br>
+$${\color{#AB8C9D}more}$$ $${\color{#868189}than}$$ $${\color{#D4939B}i}$$ ㅤ $${\color{#D8C3B7}do}$$ $${\color{#AB8C9D}now}$$ </br>
 
-$${\color{#558A66}even}$$ $${\color{#B0A271}the}$$ ㅤ $${\color{#276658}sadness from}$$ $${\color{#276658}that day,}$$ </br>
+$${\color{#AB8C9D}even}$$ $${\color{#868189}the}$$ ㅤ $${\color{#D4939B}sadness from}$$ $${\color{#D8C3B7}that day,}$$ </br>
 
-$${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br>
+$${\color{#AB8C9D}even}$$ $${\color{#868189}the}$$ $${\color{#D4939B}pain from}$$ ㅤ $${\color{#D8C3B7}that}$$ $${\color{#AB8C9D}day}$$ </br>
 
-$${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ ㅤ $${\color{#276658}together}$$ $${\color{#276658}with you}$$ </br>
+$${\color{#AB8C9D}i}$$ $${\color{#868189}love it}$$ $${\color{#D4939B}all,}$$ ㅤ $${\color{#D8C3B7}together}$$ $${\color{#AB8C9D}with you}$$ </br>
 
 <div align="center">
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
@@ -25,11 +25,11 @@ $${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ �
 
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183739.png" width="100">
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="50" alt="lele"> $${\color{#558A66}kawa or}$$ $${\color{#276658}jess}$$ $${\color{#B0A271}16.yo}$$ ㅤ $${\color{#276658}he they}$$ $${\color{#276658}ftm}$$ </br>
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="50" alt="lele"> $${\color{#AB8C9D}kawa or}$$ $${\color{#868189}jess}$$ $${\color{#D4939B}16.yo}$$ ㅤ $${\color{#D8C3B7}he they}$$ $${\color{#AB8C9D}ftm}$$ </br>
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183814.png" width="100">
 
-$${\color{#558A66}transmasc}$$ $${\color{#276658}aroace}$$ $${\color{#B0A271}basic dnis}$$ ㅤ $${\color{#276658}heavy sleepy/tired}$$ $${\color{#276658}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="50" alt="lele">
+$${\color{#AB8C9D}transmasc}$$ $${\color{#868189}aroace}$$ $${\color{#D4939B}basic dnis}$$ ㅤ $${\color{#D8C3B7}heavy sleepy/tired}$$ $${\color{#AB8C9D}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="50" alt="lele">
 
 <br>
 <br>
