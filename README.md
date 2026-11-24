@@ -10,11 +10,13 @@
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163420.png" width="305" height="200">
 
-$${\color{#558A66}cam}$$ $${\color{#276658}or}$$ $${\color{#B0A271}cmeo}$$ ㅤ $${\color{#276658}♡}$$ $${\color{#276658}he}$$ </br>
-$${\color{#558A66}17.yo}$$ $${\color{#B0A271}08/26}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}it}$$ </br>
+$${\color{#558A66}more}$$ $${\color{#276658}than}$$ $${\color{#B0A271}i}$$ ㅤ $${\color{#276658}do}$$ $${\color{#276658}now}$$ </br>
 
-$${\color{#558A66}cam}$$ $${\color{#276658}or}$$ $${\color{#B0A271}cmeo}$$ ㅤ $${\color{#276658}♡}$$ $${\color{#276658}he}$$ </br>
-$${\color{#558A66}17.yo}$$ $${\color{#B0A271}08/26}$$ ㅤ $${\color{#276658}or}$$ $${\color{#276658}it}$$ </br>
+$${\color{#558A66}even}$$ $${\color{#B0A271}the}$$ ㅤ $${\color{#276658}sadness from}$$ $${\color{#276658}that day,}$$ </br>
+
+$${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br>
+
+$${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ ㅤ $${\color{#276658}together}$$ $${\color{#276658}with you}$$ </br>
 
 <div align="center">
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
