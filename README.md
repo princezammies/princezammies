@@ -21,6 +21,16 @@ $${\color{#558A66}i}$$ $${\color{#276658}love it}$$ $${\color{#B0A271}all,}$$ �
 <div align="center">
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
 
+<br>
+
+<img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183739.png" width="100">
+
+$${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br>
+
+<img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183814.png" width="100">
+
+$${\color{#558A66}even}$$ $${\color{#276658}the}$$ $${\color{#B0A271}pain from}$$ ㅤ $${\color{#276658}that}$$ $${\color{#276658}day}$$ </br>
+
 <details> <summary>ㅤαաαɾժs </summary>
 <br>
 
