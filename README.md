@@ -1,4 +1,6 @@
-<div align="center"
+<div align="center">
+
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261124182344.png" width="350" height="215">
 
 <p align="center">
   <img src="https://img.shields.io/badge/cuddles-20.701-D4939B?style=flat&labelColor=D8C3B7">
