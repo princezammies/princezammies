@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261124182344.png" width="350" height="215">
-
 <p align="center">
   <img src="https://img.shields.io/badge/cuddles-20.701-D4939B?style=flat&labelColor=D8C3B7">
   <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="70">
   <img src="https://img.shields.io/badge/cakes%20%E2%99%A1-10.500-AB8C9D?style=flat&labelColor=868189">
 </p>
+
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261124182344.png" width="350" height="215">
 
 <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
 
