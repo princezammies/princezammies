@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=CATAL0G&color=F6C4A0&style=flat-square&label=CHIIKAWA+&base=0)
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_strip_cutout_20261124_183530.png" width="250">
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul308_20261124184505.png" width="250">
 
 <img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163420.png" width="305" height="200">
 
