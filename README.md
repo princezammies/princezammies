@@ -1,10 +1,9 @@
-<br>
-<br>
-<br>
-
 <div align="center">
+my gh so ugly ew ew
 
-still a wip yo
+<br>
+<br>
+<br>
 
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
 
