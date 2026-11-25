@@ -1,5 +1,7 @@
 <div align="center">
 
+still a wip yo
+
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
 
 ㅤㅤㅤㅤkᥲᥕᥲ / ȷᥱss
