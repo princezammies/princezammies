@@ -11,7 +11,7 @@ still a wip yo
 <br> mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr <br>
 <br>
 ㅤㅤㅤ[ᥲ𝗍ᥲ](https://chiikawaop.atabook.org/) <br>[𝖿ᥣᥙ𝖿𝖿ᥣᥱ](https://fluffle.co/gunsnshow)
-<br> [ᥴrᥱძі𝗍](https://x.com/Achim__bi)
+[ᥴrᥱძі𝗍](https://x.com/Achim__bi) <br>
 
 <br>
 ────୨ৎ────
