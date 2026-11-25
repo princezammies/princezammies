@@ -9,7 +9,7 @@ still a wip yo
 ㅤㅤ𝗍rᥲᥒsmᥲsᥴ ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ
 ㅤㅤㅤ<br>ㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ
 <br> mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr <br>
-ㅤㅤㅤ[ᥲ𝗍ᥲ](https://chiikawaop.atabook.org/) <br>ㅤㅤㅤㅤㅤㅤ[𝖿ᥣᥙ𝖿𝖿ᥣᥱ](https://fluffle.co/gunsnshow)
+ㅤㅤㅤ[ᥲ𝗍ᥲ](https://chiikawaop.atabook.org/) <br>[𝖿ᥣᥙ𝖿𝖿ᥣᥱ](https://fluffle.co/gunsnshow)
 
 <br>
 ────୨ৎ────
