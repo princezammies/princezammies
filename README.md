@@ -5,7 +5,7 @@ still a wip yo
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
 
 ㅤkᥲᥕᥲ / ȷᥱss
-<br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ16.ᥡ᥆ 𝖿𝗍m һᥱ 𝗍һᥱᥡ <br>
+<br>ㅤ<img src="https://file.garden/awJlyxKUoAW8oPo1/57a3ffee8f6122bb28f33f4fefa015c6.gif" width="30" alt="lele">ㅤ16.ᥡ᥆ 𝖿𝗍m һᥱ 𝗍һᥱᥡ <br>
 ㅤㅤ𝗍rᥲᥒsmᥲsᥴ ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ
 ㅤㅤㅤ<br>ㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ <img src="https://file.garden/awJlyxKUoAW8oPo1/463cd5dd805bed71e7e8cd069204631a.gif" width="30" alt="lele">
 <br> mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr <br>
