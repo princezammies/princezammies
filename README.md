@@ -4,11 +4,11 @@ still a wip yo
 
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
 
-ㅤㅤㅤㅤkᥲᥕᥲ / ȷᥱss
+ㅤkᥲᥕᥲ / ȷᥱss
 <br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ16.ᥡ᥆ 𝖿𝗍m һᥱ 𝗍һᥱᥡ <br>
 ㅤㅤ𝗍rᥲᥒsmᥲsᥴ ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ
 ㅤㅤㅤ<br>ㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ
-mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr <br>
+<br> mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr
 
 <br>
 ────୨ৎ────
