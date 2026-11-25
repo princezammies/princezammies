@@ -1,7 +1,5 @@
 <div align="center">
 <table align="center">
-  <tr>
-    <td>
     </td>
     <td rowspan="4" align="center">
       <img src="https://file.garden/awJlyxKUoAW8oPo1/image-57e9-gradientmap.pro.png" width="350" alt="Main Image">
