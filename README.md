@@ -7,11 +7,6 @@
   </tr>
   <tr>
     <td>
-     ᥕ2і ᥲᥣᥕᥲᥡs, m᥆s𝗍ᥣᥡ ᥲ𝗍 ᥆⍴ ᥲrᥱᥲ / ᥒᥱᥲr s⍴ᥲᥕᥒ / sі𝗍𝗍іᥒ ᥲᥣ᥆ᥒᥱ ᥕ mі ⍴ᥲr𝗍ᥡ
-    </td>
-  </tr>
-  <tr>
-    <td>
       і һ᥆⍴ᥱ ᥡ᥆ᥙr ᥣі𝖿ᥱ іᥒ <br>　 
      𝗍һᥱ 𝖿ᥙ𝗍ᥙrᥱ ᥕі𝗍һ᥆ᥙ𝗍 mᥱ<img src="https://file.garden/awJlyxKUoAW8oPo1/image-4aec-gradientmap.pro.png" width="30"><br>
      іs ᥲ g᥆᥆ძ ᥆ᥒᥱ 𝖿r᥆m һᥱrᥱ ᥆ᥒ ᥆ᥙ𝗍.
