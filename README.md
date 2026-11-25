@@ -1,18 +1,39 @@
 <div align="center">
+<table align="center">
+  <tr>
+    <td>
+      ᑲᥲsіᥴ ძᥒіs ᥲᥒძ һᥱᥲ᥎ᥡ іᥕᥱᥴ ᥙᥒᥣᥱss ᥆᥆m𝖿s.
+    </td>
+    <td rowspan="4" align="center">
+      <img src="https://file.garden/awJlyxKUoAW8oPo1/image-57e9-gradientmap.pro.png" width="350" alt="Main Image">
+    </td>
+  </tr>
+  <tr>
+    <td>
+     ᥕ2і ᥲᥣᥕᥲᥡs, m᥆s𝗍ᥣᥡ ᥲ𝗍 ᥆⍴ ᥲrᥱᥲ / ᥒᥱᥲr s⍴ᥲᥕᥒ / sі𝗍𝗍іᥒ ᥲᥣ᥆ᥒᥱ ᥕ mі ⍴ᥲr𝗍ᥡ
+    </td>
+  </tr>
+  <tr>
+    <td>
+    (˶˃ᆺ˂˶)  і һ᥆⍴ᥱ ᥡ᥆ᥙr ᥣі𝖿ᥱ іᥒbr>　 
+     𝗍һᥱ 𝖿ᥙ𝗍ᥙrᥱ ᥕі𝗍һ᥆ᥙ𝗍 mᥱ<img src="https://file.garden/awJlyxKUoAW8oPo1/image-4aec-gradientmap.pro.png" width=35><br>
+     іs ᥲ g᥆᥆ძ ᥆ᥒᥱ 𝖿r᥆m һᥱrᥱ ᥆ᥒ ᥆ᥙ𝗍.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      і kᥱᥱ⍴ іmᥲgіᥒіᥒg ᥡ᥆ᥙr ᥣі𝖿ᥱ<br>
+      ᥒ᥆ᥕ ᥙᥒ𝖿ᥲmіᥣіᥲr
+    </td>
+  </tr>
+  <𝗍r>
+    <𝗍ძ>
+    ᑲᥙ𝗍 і ᥕ᥆ᥒ𝗍 ᥕіsһ 𝖿᥆r ᥡ᥆ᥙr<ᑲr>
+      ᥙᥒһᥲ⍴⍴іᥒᥱss ᥆r ᥲᥒᥡ𝗍һіᥒg.
+    </𝗍ძ>
+  </𝗍r>
+</table>
 
-<br>
-
-<img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183739.png" width="150">
-
-<img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163459.png" width="90" alt="lele"> $${\color{#AB8C9D}kawa or}$$ $${\color{#868189}jess}$$ $${\color{#D4939B}16.yo}$$ ㅤ $${\color{#D8C3B7}he they}$$ $${\color{#AB8C9D}ftm}$$ </br>
-
-$${\color{#AB8C9D}mostly}$$ $${\color{#868189}not int}$$ $${\color{#D4939B}that}$$ ㅤ $${\color{#D8C3B7}much at}$$ $${\color{#AB8C9D}all}$$ </br>
-
-<img align="right" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul303_20261124183814.png" width="150">
-
-$${\color{#AB8C9D}multifandoms}$$ $${\color{#868189}c+h idm}$$ $${\color{#D4939B}barely semi}$$ ㅤ $${\color{#D8C3B7}or anti}$$ $${\color{#AB8C9D}active}$$ </br>
-
-$${\color{#AB8C9D}transmasc}$$ $${\color{#868189}aroace}$$ $${\color{#D4939B}basic dnis}$$ ㅤ $${\color{#D8C3B7}heavy sleepy/tired}$$ $${\color{#AB8C9D}basic dnis}$$ </br> <img src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul304_20261124163542.png" width="90" alt="lele">
 
 <br>
 <br>
