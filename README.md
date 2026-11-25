@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>
-    ᑲᥙ𝗍 і ᥕ᥆ᥒ𝗍 ᥕіsһ 𝖿᥆r ᥡ᥆ᥙr <ᑲr>
+    ᑲᥙ𝗍 і ᥕ᥆ᥒ𝗍 ᥕіsһ 𝖿᥆r ᥡ᥆ᥙr
       ᥙᥒһᥲ⍴⍴іᥒᥱss ᥆r ᥲᥒᥡ𝗍һіᥒg. <img src="https://file.garden/awJlyxKUoAW8oPo1/image-1b4d-gradientmap.pro.png" width="30"><br>
     </td>
   </tr>
