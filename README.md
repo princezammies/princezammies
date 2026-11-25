@@ -15,8 +15,8 @@
   </tr>
   <tr>
     <td>
-    (˶˃ᆺ˂˶)  і һ᥆⍴ᥱ ᥡ᥆ᥙr ᥣі𝖿ᥱ іᥒbr>　 
-     𝗍һᥱ 𝖿ᥙ𝗍ᥙrᥱ ᥕі𝗍һ᥆ᥙ𝗍 mᥱ<img src="https://file.garden/awJlyxKUoAW8oPo1/image-4aec-gradientmap.pro.png" width=35><br>
+      і һ᥆⍴ᥱ ᥡ᥆ᥙr ᥣі𝖿ᥱ іᥒ<br>　 
+     𝗍һᥱ 𝖿ᥙ𝗍ᥙrᥱ ᥕі𝗍һ᥆ᥙ𝗍 mᥱ<img src="https://file.garden/awJlyxKUoAW8oPo1/image-4aec-gradientmap.pro.png" width="30"><br>
      іs ᥲ g᥆᥆ძ ᥆ᥒᥱ 𝖿r᥆m һᥱrᥱ ᥆ᥒ ᥆ᥙ𝗍.
     </td>
   </tr>
@@ -29,7 +29,7 @@
   <tr>
     <td>
     ᑲᥙ𝗍 і ᥕ᥆ᥒ𝗍 ᥕіsһ 𝖿᥆r ᥡ᥆ᥙr<ᑲr>
-      ᥙᥒһᥲ⍴⍴іᥒᥱss ᥆r ᥲᥒᥡ𝗍һіᥒg.
+      ᥙᥒһᥲ⍴⍴іᥒᥱss ᥆r ᥲᥒᥡ𝗍һіᥒg. <img src="https://file.garden/awJlyxKUoAW8oPo1/image-1b4d-gradientmap.pro.png " width="30"><br>
     </td>
   </tr>
 </table>
