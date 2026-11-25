@@ -49,19 +49,6 @@ still a wip yo
 
 
 <br>
-<br>
-
-<details> <summary>ㅤαաαɾժs </summary>
-<br>
-
-[pt-stars](https://github.com/pt-stars)ㅤ[pt-fashion](https://github.com/pt-fashion)ㅤ[pt-relationships](https://github.com/pt-relationships)ㅤ[ponytownyumeshippers](https://github.com/ponytownyumeshippers)ㅤ[pt-heavyfictkin](https://github.com/pt-heavyfictkin)ㅤ[ponytowns-rewards](https://github.com/Ponytowns-rewards)ㅤ[pt-everypony](https://github.com/pt-everypony)
-[marvelous-pt](https://github.com/marvelous-pt)
-<br>
-
-@CATAL0G & @URAHARA-KI (old user)
-</details>
-
-<br>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
