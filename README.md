@@ -1,4 +1,7 @@
 <div align="center">
+
+<img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
+
 <table align="center">
     </td>
     <td rowspan="5" align="center">
