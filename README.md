@@ -20,7 +20,7 @@ still a wip yo
 <table align="center">
     </td>
     <td rowspan="5" align="center">
-      <img src="https://file.garden/awJlyxKUoAW8oPo1/image-57e9-gradientmap.pro.png" width="350" alt="Main Image">
+      <img src="https://file.garden/awJlyxKUoAW8oPo1/image-539f-gradientmap.pro.png" width="350" alt="Main Image">
     </td>
   </tr>
   <tr>
