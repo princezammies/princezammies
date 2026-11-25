@@ -7,7 +7,7 @@ still a wip yo
 ㅤkᥲᥕᥲ / ȷᥱss
 <br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤ16.ᥡ᥆ 𝖿𝗍m һᥱ 𝗍һᥱᥡ <br>
 ㅤㅤ𝗍rᥲᥒsmᥲsᥴ ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ
-ㅤㅤㅤ<br>ㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ
+ㅤㅤㅤ<br>ㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ <img src="https://file.garden/awJlyxKUoAW8oPo1/463cd5dd805bed71e7e8cd069204631a.gif" width="30" alt="lele">
 <br> mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr <br>
 <br>
 ㅤㅤㅤ[ᥲ𝗍ᥲ](https://chiikawaop.atabook.org/)
