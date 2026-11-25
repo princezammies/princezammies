@@ -2,6 +2,16 @@
 
 <img align="left" src="https://file.garden/awJlyxKUoAW8oPo1/Tak%20berjudul300_20261125095116.png" width="200">
 
+ㅤㅤㅤㅤkᥲᥕᥲ / ȷᥱss
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ16.ᥡ᥆ 𝖿𝗍m һᥱ 𝗍һᥱᥡ
+ㅤㅤ𝗍rᥲᥒsmᥲsᥴ ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ
+ㅤㅤㅤㅤㅤㅤㅤㅤᑲᥲsіᥴ ძᥒіs ᥲᥒძ -15 іᥕᥱᥴ
+mᥙᥣ𝗍і 𝖿ᥲᥒძ᥆msㅤㅤᥡᥙmᥱsһі⍴⍴ᥱr
+
+<br>
+────୨ৎ────
+<br>
+
 <table align="center">
     </td>
     <td rowspan="5" align="center">
