@@ -13,10 +13,17 @@
       <img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_burger_cutout_20261127_152944.png" width="200" alt="Main Image">
 <br>
 
+${\color{#B185B0}\textsf{kᥲᥕᥲ ᨶ႒ᩚ　ȷᥱss　.　һᥱ 𝗍һᥱᥡ}}$
+
    ${\color{#B185B0}\textsf{6𝗍ᥱᥱᥒ　　𓏲ּ𝄢　𝗍rᥲᥒsmᥲsᥴ　.　ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ}}$　 
      <br>
 
 ${\color{#B185B0}\textsf{𝖿ᥒძms іᥕᥱᥴ .　һᥱᥲ᥎ᥡ ძᥒі}}$<img src="https://file.garden/awJlyxKUoAW8oPo1/ea798d6b8277f9ce4cca4dc6d533a94c.gif" width="30"><br>
+
+ㅤㅤㅤ${\color{#B185B0}\textsf{ᑲᥲsіᥴ ძᥒіs .　mᥙᥣ𝗍і𝖿ᥲᥒძ᥆ms}}$
+<ᑲr>
+
+${\color{#B185B0}\textsf{sᥱmі / ᥲᥒ𝗍і ᥲᥴ𝗍і᥎ᥱ　.　һᥱᥲ᥎ᥡ sᥣᥱᥱ⍴ᥡ / 𝗍іrᥱძ}}$
     </td>
   </tr>
 </table>
