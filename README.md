@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[!](https://hits.sh/github.com/CATAL0G.svg?style=plastic&label=burgers&extraCount=3000&color=0c0b0e&labelColor=09050d&logo=slug)
+[![Hits](https://hits.sh/github.com/CATAL0G.svg?style=plastic&label=Nulls&extraCount=3000&color=0c0b0e&labelColor=09050d&logo=slug)](https://hits.sh/github.com/CATALpG/)
 
 <br>
 <br>
