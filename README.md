@@ -8,27 +8,9 @@
 <br>
 <br>
 
-<table align="center">
-    </td>
-    <td rowspan="5" align="center">
-      <img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_burger_cutout_20261127_152944.png" width="150" alt="Main Image">
-<br>
+<div align="center">
 
-<img src="https://file.garden/awJlyxKUoAW8oPo1/ea798d6b8277f9ce4cca4dc6d533a94c.gif" width="30"> {\color{#F19933}\textsf{kᥲᥕᥲㅤ/　ȷᥱss　.　һᥱ 𝗍һᥱᥡ}}$
-
-   ${\color{#C05205}\textsf{6𝗍ᥱᥱᥒ　𝗍rᥲᥒsmᥲsᥴ　.　ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ}}$　 
-     <br>
-
-${\color{#FBD896}\textsf{𝖿ᥒძms іᥕᥱᥴ .　һᥱᥲ᥎ᥡ social anxiety}}
-<ᑲr>
-
-ㅤㅤㅤ${\color{#F19933}\textsf{ᑲᥲsіᥴ ძᥒіs .　mᥙᥣ𝗍і𝖿ᥲᥒძ᥆ms}}$
-<ᑲr>
-
-${\color{#C05205}\textsf{sᥱmі / ᥲᥒ𝗍і ᥲᥴ𝗍і᥎ᥱ　.　һᥱᥲ᥎ᥡ sᥣᥱᥱ⍴ᥡ / 𝗍іrᥱძ}}$ <img src="https://file.garden/awJlyxKUoAW8oPo1/b57415b4114670c56dd2c2e9228d0f18.gif" width="30" alt="lele">
-    </td>
-  </tr>
-</table>
+<img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_burger_cutout_20261127_152944.png" width="200">
 
 
 <br>
