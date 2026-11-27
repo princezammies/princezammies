@@ -15,6 +15,7 @@
 
    ${\color{#B185B0}\textsf{6𝗍ᥱᥱᥒ　　𓏲ּ𝄢　𝗍rᥲᥒsmᥲsᥴ　.　ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ}}$　 
      <br>
+
 ${\color{#B185B0}\textsf{𝖿ᥒძms іᥕᥱᥴ .　һᥱᥲ᥎ᥡ ძᥒі}}$<img src="https://file.garden/awJlyxKUoAW8oPo1/ea798d6b8277f9ce4cca4dc6d533a94c.gif" width="30"><br>
     </td>
   </tr>
