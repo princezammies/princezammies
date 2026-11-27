@@ -10,7 +10,7 @@
 <table align="center">
     </td>
     <td rowspan="5" align="center">
-      <img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_burger_cutout_20261127_152944.png" width="200" alt="Main Image">
+      <img src="https://file.garden/awJlyxKUoAW8oPo1/Meta_AI_burger_cutout_20261127_152944.png" width="150" alt="Main Image">
 <br>
 
 <img src="https://file.garden/awJlyxKUoAW8oPo1/ea798d6b8277f9ce4cca4dc6d533a94c.gif" width="30"> {\color{#B185B0}\textsf{kᥲᥕᥲㅤ/　ȷᥱss　.　һᥱ 𝗍һᥱᥡ}}$
