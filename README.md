@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CATAL0G&label=_⠀_burgers_⠀_&color=8d7dad&style=flat" alt="lele" /> </p>
+<img src="https://komarev.com/ghpvc/?username=CATAL0G&label=_⠀_burgers_⠀_&color=F19933&style=flat" alt="lele" /> </p>
 
 <br>
 <br>
