@@ -19,7 +19,7 @@
    ${\color{#C05205}\textsf{6𝗍ᥱᥱᥒ　𝗍rᥲᥒsmᥲsᥴ　.　ᥲr᥆ᥲᥴᥱ ᥲᥴᥱ}}$　 
      <br>
 
-${\color{#FBD896}\textsf{𝖿ᥒძms іᥕᥱᥴ .　һᥱᥲ᥎ᥡ ძᥒі}}
+${\color{#FBD896}\textsf{𝖿ᥒძms іᥕᥱᥴ .　һᥱᥲ᥎ᥡ social anxiety}}
 <ᑲr>
 
 ㅤㅤㅤ${\color{#F19933}\textsf{ᑲᥲsіᥴ ძᥒіs .　mᥙᥣ𝗍і𝖿ᥲᥒძ᥆ms}}$
