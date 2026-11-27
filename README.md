@@ -4,8 +4,6 @@
 <br>
 <br>
 
-my gh so ugly ew ew
-
 <br>
 <br>
 <br>
